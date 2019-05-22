@@ -1,5 +1,5 @@
 ## Surviving_Mars-TraditionalChinese-Translate
- [Surviving Mars](https://store.steampowered.com/app/464920/Surviving_Mars/) 【火星生存】 傳統中文模組
+ [Surviving Mars](https://store.steampowered.com/app/464920/Surviving_Mars/) 【火星生存】 傳統中文模組 (正體/繁體)
 
 以 **Surviving Mars 244677 steam 原版之簡體中文語系** 為基礎，
 修正為傳統中文字元與適用於台灣的差異用語。
