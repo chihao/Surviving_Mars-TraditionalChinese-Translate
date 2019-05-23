@@ -1,7 +1,7 @@
 return {
 PlaceObj('ModItemLocTable', {
 	'comment', "Traditional Chinese Localization",
-	'language', "Tchinese",
+	'language', "Any",
 	'filename', "Game.csv",
 }),
 }
