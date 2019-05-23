@@ -12,9 +12,12 @@
 
 有任何問題或建議，請至 Issues 版面中提出，有空的話我會再進行評估與修正，謝謝。
 
-### 使用方式
+### 使用方式 (擇一)
 
-直接訂閱 [Steam Workshop] 即可。(尚未發行)
+A. 直接在 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1749276214) 訂閱即可。
+
+B. 若不訂閱 Steam Workshop，則可下載 Tchinese.hpk 並置於 "遊戲安裝目錄\Local\" 中，
+則遊戲中的語言選擇項目會多出"繁體中文"可選，但必須自行手動更新。
 
 ### Changelog
 * 244677.cht.190523.1 修正無法正確套用MOD的問題
