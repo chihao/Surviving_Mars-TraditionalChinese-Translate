@@ -14,13 +14,10 @@
 
 ### 使用方式 (擇一)
 
-A. (推薦) 可直接 [url=https://github.com/forink/Surviving_Mars-TraditionalChinese-Translate/raw/master/Tchinese.hpk] 下載 [/url] Tchinese.hpk ，並置於 "遊戲安裝目錄\Local\" 中，則遊戲中的語言選擇項目會多出"繁體中文"可選，惟須自行手動更新。
+A. (推薦) 可直接下載 Tchinese.hpk ，並置於 "遊戲安裝目錄\Local\" 中，則遊戲中的語言選擇項目會多出"繁體中文"可選，惟須自行手動更新。
 
 B. 直接在 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1749276214) 訂閱，
-開啟遊戲並在選項->。遊戲->將語言設定為中文(簡體)
-
-B. 若不訂閱 Steam Workshop，則可下載 Tchinese.hpk 並置於 "遊戲安裝目錄\Local\" 中，
-則遊戲中的語言選擇項目會多出"繁體中文"可選，但必須自行手動更新。
+進遊戲至模組管理員，啟用訂閱的MOD。後續若變更語言，MOD會失效，此時請重新停用並啟用本MOD。
 
 ### Changelog
 
