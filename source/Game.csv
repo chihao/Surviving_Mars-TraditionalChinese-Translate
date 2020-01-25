@@ -13336,7 +13336,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 10512,"<if_all(has_dlc('gagarin'),is_sponsor('Roscosmos'))>Concrete Plant & </if>Extractors Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption by <power(param2)>.
 
 <grey>""From the first day to this, sheer greed was the driving spirit of civilization.""
-<right>Friedrich Engels</grey><left>","挖掘站升級（<if_all(has_dlc('gagarin'),is_sponsor('Roscosmos'))>增幅</if>） -  產量提高<em>%，但耗電量也會提高</em>。<param1><power(param2)>
+<right>Friedrich Engels</grey><left>","挖掘站升級（<if_all(has_dlc('gagarin'),is_sponsor('Roscosmos'))>增幅</if>） -  產量提高<em><param1>%</em>，但耗電量也會提高<power(param2)>。
 
 <grey>“從古至今，純粹的貪婪一直都是文明的精神驅動力。
 <right>弗里德里希·恩格斯
@@ -13442,7 +13442,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6468,Triboelectric Scrubbing,摩擦電洗滌器,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02262),TechPreset TriboelectricScrubbing display_name,,,,221758,,
 10514,"<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Low-G Lab, </if> Research Lab, Hawking Institute & Network Node Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption.
 
-<grey>The speed of the calculations and research efficiency grows with the amount of power invested.</grey>","研究實驗室、霍金研究院與網路節點升級（<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>增幅</if>） - 產量提高<em>%，但耗電量也會提高。</em><param1>
+<grey>The speed of the calculations and research efficiency grows with the amount of power invested.</grey>","研究實驗室、霍金研究院與網路節點升級（<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>增幅</if>） - 產量提高<em><param1>%</em>，但耗電量也會提高<power(param2)>。
 
 <grey>計算速度與研究效率會隨著電力消耗的增加而增加。</grey>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02274),TechPreset ResearchAmplification description,,,,232789,,
 6470,Research Amplification,研究增產,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02275),TechPreset ResearchAmplification display_name,,,,232789,,

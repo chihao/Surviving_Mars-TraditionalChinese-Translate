@@ -21,6 +21,7 @@ B. 直接在 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails
 
 ### Changelog
 
+* 249143.cht.200125.1 修正文字錯誤
 * 249143.cht.200125 傳統中文翻譯與差異用語修正
 * 244677.cht.190523.1 修正無法正確套用MOD的問題
 * 244677.cht.190523 初始版傳統中文翻譯 (尚未進行差異用語修正)
