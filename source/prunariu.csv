@@ -1,0 +1,336 @@
+ID,Text,Translation,Old Text,Old Translation,Status,Gender,Critical Warnings,Non-critical Warnings,Platform Warnings,Location,Context,Section,Actor,Voice Actor,Revision,Old Revision,Edit Distance
+14561,<trains>/<max_trains> <icon_Train>,<trains>/<max_trains> <icon_Train>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/ColonyControlCenter.lua(00063),,,,,1011091,,
+14562,Broken segments: <elements><right>,受損部分：<elements><right>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00155),,,,,1011115,,
+14375,<icon_Drone_red> ,<icon_Drone_red> ,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00164),,,,,1011042,,
+14563,"<resource(collected,total,res)>","<resource(collected,total,res)>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00174),,,,,1011115,,
+14564,<progress> %,<progress> %,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DisasterHandling.lua(00181),,,,,1011115,,
+14565,<stored>/<max> <icon_Resources>,<stored>/<max> <icon_Resources>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DynamicStorageDepot.lua(00226),,,,,1011115,,
+14542,<newline><center><em>Resources stored</em>,<newline><center><em>儲存的資源</em>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DynamicStorageDepot.lua(00233),,,,,1011061,,
+14566,Total<right><stored>/<max> <icon_Resources>,總計<right><stored>/<max> <icon_Resources>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DynamicStorageDepot.lua(00234),,,,,1011115,,
+14543,<center><image UI/Common/rollover_line.tga>,<center><image UI/Common/rollover_line.tga>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DynamicStorageDepot.lua(00237),,,,,1011061,,
+14567,"<left><resource(res)><right><resource(GetStoredAmount(res),GetMaxStorage(res),res)>","<left><resource(res)><right><resource(GetStoredAmount(res),GetMaxStorage(res),res)>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/DynamicStorageDepot.lua(00404),,,,,1011115,,
+14568,"
+Toggle storage of this resource.
+
+Status: <on_off(IsResourceEnabled(res))>",,"
+Toggle storage of this resource.
+
+Status: <on_off(IsResourceEnabled(res))>","
+切換此資源的存儲。
+
+狀態：<on_off(IsResourceEnabled(res))>",changed,,,,,Trunk\Mars/Dlc/prunariu/Code/DynamicStorageDepot.lua(00405),,,,,1011115,1011115,3
+14569,"<right><resource(available,capacity,res)>","<right><resource(available,capacity,res)>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/FluidsTransportationHub.lua(00262),,,,,1011115,,
+14570,"<left><resource(res)><right><resource(available,capacity,res)>","<left><resource(res)><right><resource(available,capacity,res)>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/FluidsTransportationHub.lua(00266),,,,,1011115,,
+14571,"
+Toggle pulling this resource from nearby grids to the tanks in range.
+
+Status: <on_off(IsFluidResourceEnabled(res))>",,"
+Toggle pulling this resource from nearby grids to the tanks in range.
+
+Status: <on_off(IsFluidResourceEnabled(res))>","
+切換將此資源從附近供應網傳送至範圍內的儲存罐。
+
+狀態：<on_off(IsFluidResourceEnabled(res))>",changed,,,,,Trunk\Mars/Dlc/prunariu/Code/FluidsTransportationHub.lua(00270),,,,,1011115,1011115,3
+14378,Train Metal cost,列車金屬花費,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00005),,,,,1011042,,
+14377,Price for constructing a Train,建造列車的價格,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00011),,,,,1011042,,
+14379,Train Machine Parts cost,列車機械零件花費,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00013),,,,,1011042,,
+14380,Train construction time,列車建造時間,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00021),,,,,1011042,,
+14381,Send out Train,派遣列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00644),,,,,1011042,,
+14382,Assign a Train to a connected Track.,將列車指派到相連的軌道上。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00645),,,,,1011042,,
+14383,<left_click> Select Track,<left_click> 選擇軌道,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00646),,,,,1011042,,
+14384,<left_click> Cancel,<left_click> 取消,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00646),,,,,1011042,,
+14385,<ButtonA> Select Track,<ButtonA> 選擇軌道,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00647),,,,,1011042,,
+14544,<yellow>Select a Track</yellow>,<yellow>選擇一條軌道</yellow>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00663),,,,,1011061,,
+14545,<red>Track is invalid or getting destroyed</red>,<red>軌道無效或已被摧毀</red>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00665),,,,,1011061,,
+14546,<red>Track not connected to Station</red>,<red>軌道未連接至車站</red>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00667),,,,,1011061,,
+14547,<red>Track is broken and needs repairs</red>,<red>軌道受損，需要修復</red>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00669),,,,,1011061,,
+14548,<green>Assign to this Track</green>,<green>指派到此軌道</green>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00671),,,,,1011061,,
+14549,<red>Maximum number of Trains on this route</red>,<red>此線路上列車的數量上限</red>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00673),,,,,1011061,,
+14391,<count(waiting_for_train)>/<colonist(max_colonists_to_transport)>,<count(waiting_for_train)>/<colonist(max_colonists_to_transport)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00736),,,,,1011042,,
+14393,Available Trains<right><available_trains> <icon_Train>,可用列車<right><available_trains> <icon_Train>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00751),,,,,1011049,,
+14394,Under construction<right><trains_in_construction> <icon_Train>,建造中<right><trains_in_construction> <icon_Train>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00752),,,,,1011042,,
+14396,Waiting time (rolling average)<right><SpentTimeAverageInHours> hours,等待時間（移動平均）<right><SpentTimeAverageInHours> 小時,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Station.lua(00757),,,,,1011042,,
+14398,"Show historical data for Drones, Trains and Shuttles.",顯示無人機、列車與穿梭機的歷史數據,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TimeSeries.lua(00026),,,,,1011042,,
+14572,<graph_right>Trains</graph_right> <em>(<trains>)</em>,<graph_right>列車</graph_right> <em>(<trains>)</em>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TimeSeries.lua(00027),,,,,1011115,,
+14400,Used by Trains to travel between Stations.,供列車在車站之間行駛。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00040),,,,,1011042,,
+14550,Track being removed. Waiting for Trains to stop at Stations.,軌道正在被移除。等待列車進站。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00167),,,,,1011061,,
+14551,This Track is damaged. Trains can't run until repairs are completed and colonists onboard may suffocate.,軌道受損。列車直到修理完成才能行駛，車上殖民地居民可能會窒息。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00173),,,,,1011061,,
+14552,Connected Stations are not working. Trains will finish their trips but won't start new ones.,相連的車站不工作。列車會完成目前的行程，但不會開始新的行程。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00175),,,,,1011061,,
+14392,<center><em>Trains</em>,<center><em>列車</em>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00354),,,,,1011042,,
+14573,Trains on Track<right><trains>/<max> <icon_Train>,軌道上的列車<right><trains>/<max> <icon_Train>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00355),,,,,1011115,,
+14420,Trip duration: <TripTimeInHours> hours,行程持續時間：<TripTimeInHours>小時,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00356),,,,,1011042,,
+14395,<center><em>Passengers</em>,<center><em>乘客</em>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00357),,,,,1011042,,
+14421,Travel time (rolling average)<right><SpentTimeAverageInHours> hours,旅行時間（移動平均）<right><SpentTimeAverageInHours> 小時,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00360),,,,,1011042,,
+14397,Waiting another Train (today/y-day)<right><full_today>/<colonist(full_yesterday)>,正在等待其他列車（今日/昨日）<right><full_today>/<colonist(full_yesterday)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Track.lua(00361),,,,,1011042,,
+14404,Track piece,軌道碎片,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackElement.lua(00114),,,,,1011042,,
+14405,Track pieces,軌道碎片,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackElement.lua(00115),,,,,1011042,,
+14406,"Curves too close too each other, minimum two straight elements needed in between.",彎道彼此過於靠近，之間至少需要兩個直道單元。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00004),,,,,1011042,,
+14407,Curves too close,彎道過於靠近,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00005),,,,,1011042,,
+14408,The Track must start and end at a Station.,軌道的起止點必須為車站。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00010),,,,,1011061,,
+14409,No station,無車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00011),,,,,1011042,,
+14410,Straight Track must start and end on a Station.,直道的起止點必須為車站。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00016),,,,,1011042,,
+14411,Invalid connection,無效連接,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00017),,,,,1011042,,
+14412,Track must start and end at different Stations.,軌道的起止點必須為不同的車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00022),,,,,1011042,,
+14413,Same Station,同一車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00023),,,,,1011042,,
+14399,Track,軌道,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00034),,,,,1011042,,
+14414,Connect two Stations by placing the ends of the Track on their connection points. Tracks must be one hex away from other parallel Track. Curved Tracks must be two elements apart.,用軌道的兩端放置在兩座車站的連接點上，以將車站相連。軌道與其他平行軌道的距離必須至少為一格。彎道的間距必須為至少兩個單元。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TrackGridConstruction.lua(00037),,,,,1011042,,
+14415,Train,列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Train.lua(00051),,,,,1011042,,
+14416,Vehicle that transports resources and colonists between two Stations.,將資源和殖民地居民在車站之間運輸的載具。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Train.lua(00054),,,,,1011042,,
+14417,Loading cargo for <h SelectNextStation InfopanelSelect><NextStationName></h>,正在裝載運往<h SelectNextStation InfopanelSelect><NextStationName></h>的貨物,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Train.lua(00383),,,,,1011042,,
+14418,Unloading cargo from <h SelectNextStation InfopanelSelect><NextStationName></h>,正在卸載來自<h SelectNextStation InfopanelSelect><NextStationName></h>的貨物,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Train.lua(00384),,,,,1011042,,
+14419,Going to <h SelectNextStation InfopanelSelect><NextStationName></h>,正在前往<h SelectNextStation InfopanelSelect><NextStationName></h>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Train.lua(00385),,,,,1011042,,
+14575,"<right><resource(transported,res)>","<right><resource(transported,res)>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Train.lua(00462),,,,,1011115,,
+14574,"<left><resource(res)><right><resource(transported,res)>","<left><resource(res)><right><resource(transported,res)>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/Train.lua(00465),,,,,1011115,,
+14422,<red>Had to wait for the next Train <amount></red>,<red>必須等待下一班列車<amount></red>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00003),,,,,1011042,,
+14423,<red>Travel time penalty (-1 per hour) <amount></red>,<red>旅行時間懲罰（每小時-1）<amount></red>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00004),,,,,1011042,,
+14424,<green>Seen forest from Train <amount></green>,<green>在列車上看見森林<amount></green>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00005),,,,,1011042,,
+14425,Returning home,回家途中,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00160),,,,,1011042,,
+14426,Going to Work,上班途中,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00161),,,,,1011042,,
+14427,Relocating,遷移途中,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00162),,,,,1011042,,
+14428,"Taking the Train from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>Traveling for <TravelTimeInHours> hours",,"Taking the Train from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>Traveling for <TravelTimeInHours> hours","乘坐的列車來自<h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>目的地：<h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>行駛時間<TravelTimeInHours>小時",changed,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00182),,,,,1011061,1011061,2
+14429,"Waiting for train at <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>Traveling for <TravelTimeInHours> hours",,"Waiting for train at <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>Traveling for <TravelTimeInHours> hours","等待列車地點<h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>目的地：<h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>行駛時間<TravelTimeInHours>小時",changed,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00183),,,,,1011042,1011042,2
+14430,"Taking the Train to <h SelectTravelDstStation InfopanelSelect><TravelDstStation></h>
+<right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>Traveling for <TravelTimeInHours> hours",,"Taking the Train to <h SelectTravelDstStation InfopanelSelect><TravelDstStation></h>
+<right>Destination: <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>Traveling for <TravelTimeInHours> hours","乘坐列車前往<h SelectTravelDstStation InfopanelSelect><TravelDstStation></h>
+<right>目的地：<h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>行駛時間<TravelTimeInHours>小時",changed,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00184),,,,,1011061,1011061,2
+14431,"Traveling to a new home from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Destination <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>Traveling for <TravelTimeInHours> hours",,"Traveling to a new home from <h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>Destination <h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>Traveling for <TravelTimeInHours> hours","前往新家，出發地點<h SelectTravelSrcStation InfopanelSelect><TravelSrcStation></h>
+<right>目的地<h SelectTravelDestination InfopanelSelect><TravelDestination></h>
+<right>行駛時間<TravelTimeInHours>小時",changed,,,,,Trunk\Mars/Dlc/prunariu/Code/TransportColonists.lua(00185),,,,,1011042,1011042,2
+14432,Large Station,大型車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00020),BuildingTemplate StationBig display_name,,,,1011042,,
+14433,Large Stations,大型車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00021),BuildingTemplate StationBig display_name_pl,,,,1011042,,
+14434,Stop points for Trains to board passengers and transfer resources.,列車在此處停車以搭載乘客以及轉移資源。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00022),BuildingTemplate StationBig description,,,,1011042,,
+14435,Station,車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00076),BuildingTemplate StationSmall display_name,,,,1011042,,
+14436,Stations,車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00077),BuildingTemplate StationSmall display_name_pl,,,,1011042,,
+14437,Stop points for Trains to board passengers and transfer resources.,列車在此處停車以搭載乘客以及轉移資源。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00078),BuildingTemplate StationSmall description,,,,1011042,,
+14438,Track,軌道,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00125),BuildingTemplate Track display_name,,,,1011042,,
+14439,Tracks,軌道,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00126),BuildingTemplate Track display_name_pl,,,,1011042,,
+14440,Used by Trains to travel between Stations.,供列車在車站之間行駛。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/BuildingTemplate.lua(00127),BuildingTemplate Track description,,,,1011042,,
+14441,Stop points for Trains to board passengers and transfer resources.,列車在此處停車以搭載乘客以及轉移資源。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00005),Cargo StationSmall description,,,,1011042,,
+14442,Station,車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00010),Cargo StationSmall name,,,,1011042,,
+14443,Stop points for Trains to board passengers and transfer resources.,列車在此處停車以搭載乘客以及轉移資源。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00017),Cargo StationBig description,,,,1011042,,
+14444,Large Station,大型車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/Cargo.lua(00022),Cargo StationBig name,,,,1011042,,
+14445,Transport Tycoon,運輸大亨,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/CommanderProfilePreset.lua(00005),CommanderProfilePreset Default TransportTycoon display_name,,,,1011042,,
+14446,"- Tracks construction cost is halved
+- Bonus Prefabs: 2x Stations (small)
+- Bonus Tech: <em>Large Stations</em> (Unlocks Large Stations)","- 軌道建造花費減半
+- 額外預製件：2x車站（小型）
+- 加成技術：<em>大型車站</em>（解鎖大型車站）",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/CommanderProfilePreset.lua(00006),CommanderProfilePreset Default TransportTycoon effect,,,,1011042,,
+14447,"
+Trains on Mars are traveling between <em>Stations</em> connected by elevated <em>Tracks</em>. They can transport colonists to their workplace and back or help them get to their new residences.
+Resources are also transported by trains between stations, either crates from the station storage or fluids from nearby tanks.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Trains can be built at stations and asigned to connected tracks, more then one can travel on a track at the same time.",,"
+Trains on Mars are traveling between <em>Stations</em> connected by elevated <em>Tracks</em>. They can transport colonists to their workplace and back or help them get to their new residences.
+Resources are also transported by trains between stations, either crates from the station storage or fluids from nearby tanks.
+
+<center><image UI/Common/rollover_line.tga 2000> <left>
+
+Trains can be built at stations and asigned to connected tracks, more then one can travel on a track at the same time.","
+火星上的列車在<em>車站</em>之間行駛，車站由高架<em>軌道</em>相連。殖民地居民可以乘坐列車上下班，或是前往新住宅。
+列車也能在車站間運輸資源，可以運輸車站裡儲存的貨箱或是附近水箱裡的液體。
+
+<center><image UI/Common/rollover_line.tga 2000><left>
+
+可在車站建造列車並指派到相連的軌道上，一條軌道上同時可以運行多輛列車。",changed,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00012),,,,,1011042,1011042,6
+14448,<new_in('prunariu')>Train,<new_in('prunariu')>列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00014),,,,,1011042,,
+14449,"
+The rail network can help expanding your colony facilitating access to remote resource deposits as any manned building can be built around <em>Stations</em> and accessed by the colonists via <em>Trains</em>.
+
+<em>Tracks</em> are build to connect pairs of <em>Stations</em> and multiple <em>Trains</em> can travel on one in both directions at once transporting colonists and resources.
+
+<em>Colonists</em> are using the <em>Trains</em> to travel to their workplace and back home or to new homes. While they find it very helpful, they don't particularly enjoy spending a lot of time to reach their destinations.
+
+Resources are transported by <em>Drones</em> to the <em>Station</em>'s storage area and loaded into <em>Trains</em> from there but also fluids like <em>Water</em> and <em>Oxygen</em> can be transported between <em>Stations</em> from/to nearby storages in tanks attacked to the <em>Trains</em>.",,"
+The rail network can help expanding your colony facilitating access to remote resource deposits as any manned building can be built around <em>Stations</em> and accessed by the colonists via <em>Trains</em>.
+
+<em>Tracks</em> are build to connect pairs of <em>Stations</em> and multiple <em>Trains</em> can travel on one in both directions at once transporting colonists and resources.
+
+<em>Colonists</em> are using the <em>Trains</em> to travel to their workplace and back home or to new homes. While they find it very helpful, they don't particularly enjoy spending a lot of time to reach their destinations.
+
+Resources are transported by <em>Drones</em> to the <em>Station</em>'s storage area and loaded into <em>Trains</em> from there but also fluids like <em>Water</em> and <em>Oxygen</em> can be transported between <em>Stations</em> from/to nearby storages in tanks attacked to the <em>Trains</em>.","
+軌道網絡能幫助你的殖民地擴展，並輕鬆開採遠處的資源點，因為一切需要人操作的建築都能在<em>車站</em>附近建造，而殖民地居民可乘坐<em>列車</em>進入這些建築。
+
+<em>軌道</em>用來連接兩座<em>車站</em>，多輛<em>列車</em>可同時在一條軌道上雙向運行，運輸殖民地居民和資源。
+
+<em>殖民地居民</em>可乘坐<em>列車</em>上下班，或是前往新家。列車雖然便利，但他們一般不願意把太多時間花在乘車上。
+
+<em>無人機</em>會把資源運到<em>車站</em>的儲存區，然後運上<em>列車</em>，像<em>水資源</em>和<em>氧氣</em>這樣的流體也能在<em>車站</em>間運輸，<em>列車</em>可以裝載/卸載車站附近裝有這些資源的儲存罐。",changed,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00023),,,,,1011042,1011042,7
+14450,<new_in('prunariu')>Transportation by Trains,<new_in('prunariu')>列車運輸,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/EncyclopediaArticle.lua(00025),,,,,1011042,,
+14451,"No trains management, trains are free and added to tracks when those are built.",無列車管理，列車可自由行駛，建造好後就會添加到軌道上。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00006),GameRules EasyTrains description,,,,1011042,,
+14452,Simplified Trains,簡化列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00007),GameRules EasyTrains display_name,,,,1011042,,
+14453,"<grey>""When I was a child, life was confusing and chaotic for me, and trains represented order.""
+<right>Sheldon Cooper</grey><left>","<grey>“我小時候，感覺生活雜亂無章，令人困惑，而列車代表著秩序。”
+<right>謝爾頓·庫珀</grey><left>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00008),GameRules EasyTrains flavor,,,,1011042,,
+14454,"With trains as an alternative, colonists will travel shorter distances safely on their own",列車成為可選出行方式後，殖民地居民可以獨自安全地進行短途旅行了。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00018),GameRules RestrictedFootWalk description,,,,1011042,,
+14455,Restricted Foot Walk,僅限步行,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00019),GameRules RestrictedFootWalk display_name,,,,1011042,,
+14456,"<grey>""Not all those who wander are lost.""<newline><right>J.R.R. Tolkien</grey><left>",<grey>“並非徬徨者都迷失方向。”<newline><right>J.R.R.托爾金</grey><left>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/GameRules.lua(00020),GameRules RestrictedFootWalk flavor,,,,1011042,,
+14457,<count> tracks need repairs.,<count>軌道需要修復。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/OnScreenNotificationPreset.lua(00011),OnScreenNotificationPreset BrokenTracks text,,,,1011042,,
+14458,Broken Tracks,受損軌道,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/OnScreenNotificationPreset.lua(00012),OnScreenNotificationPreset BrokenTracks title,,,,1011042,,
+14459,"Increased productivity on farms out of dome ranges.
+
+<grey>Our scientists have found that we can better grow food away from the pollution and noise we generate in around our domes.</grey>","提高穹頂範圍外農場的生產能力。
+
+<grey>我們的科學家發現，遠離穹頂製造的污染與噪音的地方更適合種糧食。</grey>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00005),TechPreset RemoteFarming description,,,,1011042,,
+14460,Remote Farming,遠端務農,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00006),TechPreset RemoteFarming display_name,,,,1011061,,
+14461,"New Building: <em>Large Station</em> (<buildinginfo('StationBig')>) - A Station connecting four tracks.
+
+<grey>Time to allow our people to travel in different directions from the same station.</grey>","新建築：<em>大型車站</em>（<buildinginfo('StationBig')>）- 這種車站連接四條軌道。
+
+<grey>是時候讓人們能從同一座車站朝不同的方向出發了。",,,OK,,Tag </grey> not present in translated text,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00017),TechPreset BigStations description,,,,1011042,,
+14462,Large Stations,大型車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00018),TechPreset BigStations display_name,,,,1011042,,
+14463,"Trains travel faster.
+
+<grey>Using more advanced electromagnetism we can achieve higher speed on our tracks.</grey>","列車行駛速度提高。
+
+<grey>我們運用更先進的磁浮技術，能實現更高的列車行駛速度。",,,OK,,Tag </grey> not present in translated text,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00031),TechPreset FasterTrains description,,,,1011042,,
+14464,Faster Trains,列車提速,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00032),TechPreset FasterTrains display_name,,,,1011042,,
+14465,"Allows building transport infrastructure in the Underground.
+
+<grey>We should truly benefit from Trains in the underground labyrinth.</grey>","可在地下建造運輸基建設施。
+
+<grey>列車在地下迷宮應該能為我們帶來極大的便利。</grey>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00044),TechPreset UndergroundTrains description,,,,1011042,,
+14466,Underground Trains,地下列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00045),TechPreset UndergroundTrains display_name,,,,1011042,,
+14467,"Tracks are easier to repair and trains are safer for the passengers.
+
+<grey>Mars is a harsh place full of dangers for the ones traveling on the surface. We were able to improve the safety systems on our trains, perform better at very low temperatures and drones are better prepared to handle emergencies.</grey>","軌道更容易維修，列車上的乘客更加安全。
+
+<grey>對於地表上的旅行者而言，火星是個危機四伏的凶險之地。我們改良了列車上的安全系統、極低溫度下的性能以及無人機處理緊急情況的能力。</grey>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00055),TechPreset SafeTransport description,,,,1011042,,
+14468,Safe Transport,安全運輸,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00056),TechPreset SafeTransport display_name,,,,1011042,,
+14469,"Colonists no longer take comfort penalty while traveling.
+
+<grey>We can make the travel more comfortable but our colonists still won't like waiting too long for the trains.</grey>","殖民地居民旅行時不再受到舒適度懲罰。
+
+<grey>我們可以提高旅行的舒適度，但我們的殖民地居民還是不喜歡花太多時間等車。</grey>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00066),TechPreset LuxuriousTrains description,,,,1011061,,
+14470,Luxurious Trains,豪華列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00067),TechPreset LuxuriousTrains display_name,,,,1011042,,
+14471,"Increases sanity of colonists traveling through green areas.
+
+<grey>What can be more reassuring we are heading in the right direction than traveling through the forests of Mars?</grey>","殖民地居民經過綠地時，提高其理智度。
+
+<grey>對於擔心列車開錯方向的乘客而言，還有什麼比穿越火星森林更令人安心的呢？</grey>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00077),TechPreset GreenView description,,,,1011061,,
+14472,Green View,綠色美景,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/TechPreset.lua(00078),TechPreset GreenView display_name,,,,1011042,,
+14553,Manage what resources can be stored and how they are transported by the Trains.,管理儲存的資源種類以及列車運輸這些資源的方式。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00014),XTemplate customStation RolloverText,,,,1011061,,
+14554,Depot management,倉庫管理,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00015),XTemplate customStation RolloverTitle,,,,1011061,,
+14555,<left_click> Toggle,<left_click> 切換,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00016),XTemplate customStation RolloverHint,,,,1011061,,
+14556,<ButtonA> Toggle,<ButtonA>切換,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00017),XTemplate customStation RolloverHintGamepad,,,,1011061,,
+14473,"Trains constructed here can be assigned to connected Tracks.
+
+<left>Construction cost:<right><resource(ConstructTrainCostMetal, ConstructResourceMetal)>
+<right><resource(ConstructTrainCostMP, ConstructResourceMP)>","在此處建造的列車可指派到相連的軌道上。
+
+<left>建造花費：<right><resource(ConstructTrainCostMetal, ConstructResourceMetal)>
+<right><resource(ConstructTrainCostMP, ConstructResourceMP)>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00045),XTemplate customStation RolloverText,,,,1011042,,
+14474,Construct Train,建造列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00046),XTemplate customStation RolloverTitle,,,,1011042,,
+14475,"<left_click> Construct Train
+<right_click> Decommission Train or Cancel Train Construction","<left_click> 建造列車
+<right_click> 停運列車或取消列車建造",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00047),XTemplate customStation RolloverHint,,,,1011042,,
+14476,"<ButtonA> Construct Train
+<ButtonX> Decommission Train or Cancel Train Construction","<ButtonA> 建造列車
+<ButtonX> 停運列車或取消列車建造",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00048),XTemplate customStation RolloverHintGamepad,,,,1011042,,
+14477,No Trains available.,無可用列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00066),XTemplate customStation RolloverDisabledText,,,,1011042,,
+14478,Trains available at the Station can be assigned to connected Tracks.,可將車站裡可用的列車指派到相連的軌道上。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00074),XTemplate customStation RolloverText,,,,1011042,,
+14557,Trains<right><available_trains> <icon_Train>,列車<right><available_trains> <icon_Train>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00075),XTemplate customStation Title,,,,1011061,,
+14480,On connected Tracks<right><trains>/<max> <icon_Train>,在相連軌道上<right><trains>/<max> <icon_Train>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00092),,,,,1011042,,
+14481,Under construction<right><trains_in_construction> <icon_Train>,建造中<right><trains_in_construction> <icon_Train>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00105),XTemplate customStation Text,,,,1011042,,
+14482,"Required<right><resource(ConstructResourceAmountMetal, ConstructResourceTotalMetal, ConstructResourceMetal)>
+	<right><resource(ConstructResourceAmountMP, ConstructResourceTotalMP, ConstructResourceMP)>","需要<right><resource(ConstructResourceAmountMetal, ConstructResourceTotalMetal, ConstructResourceMetal)>
+	<right><resource(ConstructResourceAmountMP, ConstructResourceTotalMP, ConstructResourceMP)>",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00109),XTemplate customStation Text,,,,1011042,,
+14483,Colonists waiting for Train.,殖民地居民正在等待列車。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00120),XTemplate customStation RolloverText,,,,1011042,,
+14484,Passengers<right><count(waiting_for_train)> / <colonist(max_colonists_to_transport)>,乘客<right><count(waiting_for_train)> / <colonist(max_colonists_to_transport)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00121),XTemplate customStation Title,,,,1011042,,
+14485,Waiting time (rolling average)<right><SpentTimeAverageInHours> hours,等待時間（移動平均）<right><SpentTimeAverageInHours> 小時,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00144),XTemplate customStation Text,,,,1011042,,
+14486,Waiting another train (today/y-day)<right><full_today>/<colonist(full_yesterday)>,正在等待其他列車（今日/昨日）<right><full_today>/<colonist(full_yesterday)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00148),XTemplate customStation Text,,,,1011042,,
+14487,A Colonist waiting for train.<newline><newline>Destination: <em><TravelDestination></em><newline>Travel reason: <em><TravelReason></em>,等待列車的殖民地居民。<newline><newline>目的地：<em><TravelDestination></em><newline>出行原因：<em><TravelReason></em>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/customStation.lua(00233),,,,,1011042,,
+14488,Trains can't run on destroyed Tracks and stuck colonists may start to suffocate. Repairing is performed by Drones.,火車無法在被毀的軌道上行駛，被困車上的殖民地居民可能會開始窒息。修理工作由無人機執行。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00025),XTemplate ipTrack RolloverText,,,,1011042,,
+14489,<left_click> View,<left_click>查看,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00026),XTemplate ipTrack RolloverHint,,,,1011042,,
+14490,<ButtonA> View,<ButtonA>查看,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00027),XTemplate ipTrack RolloverHintGamepad,,,,1011042,,
+14491,Repair progress,修理進度,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00028),XTemplate ipTrack Title,,,,1011042,,
+14492,"Set Trains on this route to transport only colonists, resources or both.<newline><newline>Current status: <UITransportModeCurrentStatus><em>",將這條線路上的列車設置為僅運輸殖民地居民、僅運輸資源或兩者都運輸。<newline><newline>目前狀態：<UITransportModeCurrentStatus><em>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00126),XTemplate ipTrack RolloverText,,,,1011042,,
+14493,Colonists transported on this Track.,此軌道上運輸的殖民地居民。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00191),XTemplate ipTrack RolloverText,,,,1011042,,
+14494,Passengers,乘客,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00192),XTemplate ipTrack Title,,,,1011042,,
+14495,Travel time (rolling average)<right><SpentTimeAverageInHours> hours,旅行時間（移動平均）<right><SpentTimeAverageInHours> 小時,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00206),XTemplate ipTrack Text,,,,1011042,,
+14496,Waiting another Train (today/y-day)<right><right><full_today>/<colonist(full_yesterday)>,正在等待其他列車（今日/昨日）<right><right><full_today>/<colonist(full_yesterday)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrack.lua(00210),XTemplate ipTrack Text,,,,1011042,,
+14497,Toggle between transporting crates or fluids starting with the next trip.,切換下一趟行程是運輸貨箱還是流體。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00019),XTemplate ipTrain RolloverText,,,,1011042,,
+14498,Transport Fluids,運輸流體,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00020),XTemplate ipTrain RolloverTitle,,,,1011042,,
+14499,<left_click> Change the cargo type,<left_click> 變更貨物類型,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00021),XTemplate ipTrain RolloverHint,,,,1011061,,
+14500,<ButtonA> Change the cargo type,<ButtonA> 變更貨物類型,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00022),XTemplate ipTrain RolloverHintGamepad,,,,1011061,,
+14501,Send the Train back to a Station.,令列車返回車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00041),XTemplate ipTrain RolloverText,,,,1011061,,
+14502,Stop the Train,停下列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00042),XTemplate ipTrain RolloverTitle,,,,1011061,,
+14503,<left_click> Stop at next Station,<left_click>停在下一座車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00043),XTemplate ipTrain RolloverHint,,,,1011042,,
+14504,<ButtonA> Stop at next Station,<ButtonA>停在下一座車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00044),XTemplate ipTrain RolloverHintGamepad,,,,1011042,,
+14505,Current state or task of the Train.,列車目前的狀態或任務。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00054),XTemplate ipTrain RolloverText,,,,1011042,,
+14506,Trip duration: <TripTimeInHours> hours,行程持續時間：<TripTimeInHours>小時,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00065),XTemplate ipTrain Text,,,,1011042,,
+14507,Colonists transported by the Train.,列車運輸的殖民地居民。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00071),XTemplate ipTrain RolloverText,,,,1011042,,
+14508,Passengers,乘客,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00072),XTemplate ipTrain Title,,,,1011042,,
+14509,Travel time (rolling average)<right><SpentTimeAverageInHours> hours,旅行時間（移動平均）<right><SpentTimeAverageInHours> 小時,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00086),XTemplate ipTrain Text,,,,1011042,,
+14511,Resources carried<right><resource(StoredAmount)>/<resource(max_shared_storage)>,運載的資源<right><resource(StoredAmount)>/<resource(max_shared_storage)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00098),XTemplate ipTrain Title,,,,1011042,,
+14510,Resources transported by this Train.,此列車運輸的資源,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00128),XTemplate ipTrain RolloverText,,,,1011042,,
+14513,Resources carried<right><resource(StoredFluids)>/<resource(fluids_capacity)>,運載的資源<right><resource(StoredFluids)>/<resource(fluids_capacity)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00129),XTemplate ipTrain Title,,,,1011042,,
+14512,<resource(resource)>,<resource(resource)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/ipTrain.lua(00147),XTemplate ipTrain Text,,,,1011042,,
+14514,<left_click> Toggle<newline><right_click> Toggle all resources here,<left_click> 切換<newline><right_click> 在此處切換所有資源,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00010),XTemplate sectionDynamicFluidsRow RolloverHint,,,,1011042,,
+14515,<ButtonA> Toggle<newline><ButtonX> Toggle all resources here,<ButtonA> 切換<newline><ButtonX> 在此處切換所有資源,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00011),XTemplate sectionDynamicFluidsRow RolloverHintGamepad,,,,1011042,,
+14516,"Set the transport policy from nearby tanks and storage towers:
+<icon_Transport_default> Balance via Trains.
+<icon_Transport_send> Send all by Train.
+<icon_Transport_accept> Don't send by Train.
+If both connected buildings are set to send out everything then they won't transport that resource.","設置附近儲存罐和儲存塔的運輸方針：
+<icon_Transport_default>用列車運輸保持平衡。
+<icon_Transport_send>完全由列車運輸。
+<icon_Transport_accept>不用列車運輸。
+如果相連的兩座建築都設置為送出所有資源，則列車就不會運輸這種資源。",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00023),XTemplate sectionDynamicFluidsRow RolloverText,,,,1011061,,
+14517,Transport policy,運輸方針,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00024),XTemplate sectionDynamicFluidsRow RolloverTitle,,,,1011042,,
+14518,<left_click> Change transport policy<newline><right_click> Change policy for all fluids here,<left_click> 變更運輸方針<newline><right_click> 在此處變更所有流體的運輸方針,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00025),XTemplate sectionDynamicFluidsRow RolloverHint,,,,1011042,,
+14519,<ButtonA> Change transport policy<newline><ButtonX> Change policy for all fluids here,<ButtonA> 變更運輸方針<newline><ButtonX> 在此處變更所有流體的運輸方針,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicFluidsRow.lua(00026),XTemplate sectionDynamicFluidsRow RolloverHintGamepad,,,,1011042,,
+14520,<left_click> Toggle<newline><right_click> Toggle all resources here,<left_click> 切換<newline><right_click> 在此處切換所有資源,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00010),XTemplate sectionDynamicResourceRow RolloverHint,,,,1011042,,
+14521,<ButtonA> Toggle<newline><ButtonX> Toggle all resources here,<ButtonA> 切換<newline><ButtonX> 在此處切換所有資源,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00011),XTemplate sectionDynamicResourceRow RolloverHintGamepad,,,,1011042,,
+14522,"Set the transport policy for this resource:
+<icon_Transport_default> Balance via Trains.
+<icon_Transport_send> Send all by Train.
+<icon_Transport_accept> Don't send by Train.
+If both connected buildings are set to send out everything then they won't transport that resource.","設置此種資源的運輸方針：
+<icon_Transport_default>用列車運輸保持平衡。
+<icon_Transport_send>完全由列車運輸。
+<icon_Transport_accept>不用列車運輸。
+如果相連的兩座建築都設置為送出所有資源，則列車就不會運輸這種資源。",,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00023),XTemplate sectionDynamicResourceRow RolloverText,,,,1011061,,
+14523,Transport policy,運輸方針,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00024),XTemplate sectionDynamicResourceRow RolloverTitle,,,,1011042,,
+14524,<left_click> Change transport policy<newline><right_click> Change policy for all resources here,<left_click> 變更運輸方針<newline><right_click> 在此處變更所有資源的運輸方針,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00025),XTemplate sectionDynamicResourceRow RolloverHint,,,,1011042,,
+14525,<ButtonA> Change transport policy<newline><ButtonX> Change policy for all resources here,<ButtonA> 變更運輸方針<newline><ButtonX> 在此處變更所有資源的運輸方針,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicResourceRow.lua(00026),XTemplate sectionDynamicResourceRow RolloverHintGamepad,,,,1011042,,
+14558,Change to depot view for details and management.,變更為倉庫視角，已了解細節並進行管理。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicStorage.lua(00078),XTemplate sectionDynamicStorage RolloverText,,,,1011061,,
+14559,Stored resources,儲存的資源,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicStorage.lua(00081),,,,,1011061,,
+14560,Stored resources,儲存的資源,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionDynamicStorage.lua(00085),XTemplate sectionDynamicStorage Title,,,,1011061,,
+14526,Stations connected by this Track. You can assign available Trains from here.,此軌道連接的車站。你可以在此處指派可用的列車。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackStations.lua(00009),XTemplate sectionTrackStations RolloverText,,,,1011042,,
+14527,Stations,車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackStations.lua(00010),XTemplate sectionTrackStations Title,,,,1011042,,
+14576,Available Trains:<right><trains><newline><left>Waiting passengers:<right><passengers><newline><left>Stored resources:<right><resource(resources)>,可用列車：<right><trains><newline><left>正在等待乘客：<right><passengers><newline><left>儲存的資源：<right><resource(resources)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackStations.lua(00033),,,,,1011115,,
+14528,Station,車站,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackStations.lua(00043),XTemplate sectionTrackStations RolloverTitle,,,,1011042,,
+14529,<left_click> Select <right_click> Add Train to Track,<left_click> 選擇 <right_click> 將列車添加至軌道,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackStations.lua(00051),,,,,1011061,,
+14530,Select <ButtonA> Add Train to Track <ButtonX>,選擇 <ButtonA> 將列車添加至軌道 <ButtonX>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackStations.lua(00052),,,,,1011061,,
+14532,Trains running on this Track. You can remove a Train from here.,在這條軌道上行駛的列車。可在此處移除列車。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackTrains.lua(00009),XTemplate sectionTrackTrains RolloverText,,,,1011042,,
+14533,Trains<right><count(assigned_vehicles)>/<MaxVehicles> <icon_Train_large>,列車<right><count(assigned_vehicles)>/<MaxVehicles> <icon_Train_large>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackTrains.lua(00010),XTemplate sectionTrackTrains Title,,,,1011042,,
+14577,Passengers on board:<right><passengers><newline><left>Transported resources:<right><resource(resources)>,登車乘客：<right><passengers><newline><left>運輸的資源：<right><resource(resources)>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackTrains.lua(00033),,,,,1011115,,
+14534,Train,列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackTrains.lua(00041),XTemplate sectionTrackTrains RolloverTitle,,,,1011042,,
+14535,<left_click> Select  <right_click> Remove Train,<left_click> 選擇  <right_click> 移除列車,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackTrains.lua(00049),,,,,1011042,,
+14536,Select <ButtonA>  Remove Train <ButtonX>,選擇 <ButtonA>  移除列車 <ButtonX>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackTrains.lua(00050),,,,,1011042,,
+14531,Select <ButtonA>,選擇 <ButtonA>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTrackTrains.lua(00053),,,,,1011042,,
+14578,A Colonist transported by this Train.<newline><newline>Destination: <em><TravelDestination></em><newline>Travel reason: <em><TravelReason></em>,此列車運輸的殖民地居民。<newline><newline>目的地：<em><TravelDestination></em><newline>出行原因：<em><TravelReason></em>,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTransportedColonists.lua(00067),,,,,1011118,,
+12876,A free slot.,一個閒置欄位。,,,OK,,,,,Trunk\Mars/Dlc/prunariu/Presets/XTemplates/sectionTransportedColonists.lua(00069),,,,,246126,,
+745141627384,"Trains are here! With the Martian Express pack by modders Lucian and Sylvain, you’ll finally be able to move your colonists and resources between stations facilitating access to far away domes and remote resource deposits. Other outside manned buildings will also be buildable near stations without needing a dome.",列車到站啦！有了由模組作者Lucian和Sylvain製作的火星特快內容包，大家終於能在車站之間運輸殖民地居民與資源，並輕鬆到達遠處的穹頂，以及開採偏遠的資源點了。其他穹頂外需要人操作的建築也可以建造在車站附近，且不需要穹頂。,"Trains are here! With the Martian Express pack by modders Lucian and Sylvain, you’ll finally be able to move your colonists and resources between stations facilitating access to far away domes and remote resource deposits. Other outside manned buildings will also be buildable near stations without needing a dome.",列車到站啦！有了由模組作者Lucian和Sylvain製作的火星特快內容包，大家終於能在車站之間運輸殖民地居民與資源，並輕鬆到達遠處的穹頂，以及開採偏遠的資源點了。其他穹頂外需要人操作的建築也可以建造在車站附近，且不需要穹頂。,OK,,,,,Trunk\Mars/Dlc/prunariu/config.lua(00008),DLCConfig Default prunariu description,,,,1011061,,
+168219966957,Martian Express,火星特快,Prunariu,普魯納留,OK,,,,,Trunk\Mars/Dlc/prunariu/config.lua(00009),DLCConfig Default prunariu display_name,,,,1011061,,

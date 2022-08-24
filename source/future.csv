@@ -1,0 +1,4 @@
+ID,Text,Translation,Old Text,Old Translation,Status,Gender,Critical Warnings,Non-critical Warnings,Platform Warnings,Location,Context,Section,Actor,Voice Actor,Revision,Old Revision,Edit Distance
+14364,Shuttle Hub,穿梭機中心,,,OK,,,Restored. Contexts were different!,,Trunk\Mars/Dlc/future/Presets/BuildingTemplate.lua(00020),BuildingTemplate MicroGShuttleHub display_name,,,,1011042,0,
+14365,Shuttle Hubs,穿梭機中心,,,OK,,,Restored. Contexts were different!,,Trunk\Mars/Dlc/future/Presets/BuildingTemplate.lua(00021),BuildingTemplate MicroGShuttleHub display_name_pl,,,,1011042,0,
+14366,Houses and refuels Shuttles that facilitate long-range resource transportation between Depots and resettling of Colonists between Domes.,所有穿梭機都可以在此處停靠、補充燃料，用來進行倉庫之間遠距離資源運輸任務，以及穹頂間居民再分配的任務。,,,OK,,,Restored. Contexts were different!,,Trunk\Mars/Dlc/future/Presets/BuildingTemplate.lua(00022),BuildingTemplate MicroGShuttleHub description,,,,1011042,0,

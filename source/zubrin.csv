@@ -1,0 +1,32 @@
+ID,Text,Translation,Old Text,Old Translation,Status,Gender,Critical Warnings,Non-critical Warnings,Platform Warnings,Location,Context,Section,Actor,Voice Actor,Revision,Old Revision,Edit Distance
+13866,Warehouse requests:,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Code/Buildings/Warehouse.lua(00022),,,,,1008841,0,19
+13867,<name>: <amount>,<name>: <amount>,,,OK,,,,,Trunk\Mars/Dlc/zubrin/Code/Buildings/Warehouse.lua(00025),,,,,1008841,0,
+13868,Test blueprint for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00004),BlueprintPreset Aerogel_base description,,,,1008841,0,35
+357260061445,Aerogel,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00007),BlueprintPreset Aerogel_base name,,,,1008841,0,7
+13869,Test blueprint for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00015),BlueprintPreset Biomaterials_base description,,,,1008841,0,35
+857634443084,Biomaterials,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00018),BlueprintPreset Biomaterials_base name,,,,1008841,0,12
+709713404444,Experiment 1,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00026),BlueprintPreset ExperimentalBlueprint description,,,,1008841,0,12
+699671564568,Experimental blueprint for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00029),BlueprintPreset ExperimentalBlueprint name,,,,1008841,0,43
+13870,Test blueprint for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00035),BlueprintPreset Processors_alt description,,,,1008841,0,35
+180375430079,Plastic Processors,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00038),BlueprintPreset Processors_alt name,,,,1008841,0,18
+864971862817,Test blueprint for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00048),BlueprintPreset Processors_base description,,,,1008841,0,35
+244473397066,Processors,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00051),BlueprintPreset Processors_base name,,,,1008841,0,10
+13871,"Test 1, 2. Test  1, 2.",,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00061),BlueprintPreset TestBlueprint description,,,,1008841,0,22
+13872,Test blueprint for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BlueprintPreset.lua(00064),BlueprintPreset TestBlueprint name,,,,1008841,0,35
+874911003718,Distribution Center,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BuildingTemplate.lua(00008),BuildingTemplate DistributionCenter display_name,,,,1008841,0,19
+825181329277,Distribution Centers,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BuildingTemplate.lua(00009),BuildingTemplate DistributionCenter display_name_pl,,,,1008841,0,20
+181047440653,placeholder,placeholder,,,OK,,,Restored. Contexts were different!,,Trunk\Mars/Dlc/zubrin/Presets/BuildingTemplate.lua(00010),BuildingTemplate DistributionCenter description,,,,1008841,0,
+742219160922,Warehouse,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BuildingTemplate.lua(00029),BuildingTemplate Warehouse display_name,,,,1008841,0,9
+662552753223,Assembler,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/BuildingTemplate.lua(00051),BuildingTemplate Assembler display_name,,,,1008841,0,9
+13873,Test product for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00005),ProductPreset Aerogel description,,,,1008841,0,33
+764778264576,Aerogel,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00006),ProductPreset Aerogel display_name,,,,1008841,0,7
+13874,Test product for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00016),ProductPreset Biomaterials description,,,,1008841,0,33
+556339363056,Biomaterials,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00017),ProductPreset Biomaterials display_name,,,,1008841,0,12
+466775099973,Experimental product for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00027),ProductPreset ExperimentalProduct description,,,,1008841,0,41
+882753633324,ExperimentalProduct™,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00028),ProductPreset ExperimentalProduct display_name,,,,1008841,0,22
+13875,Test product for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00038),ProductPreset Processors description,,,,1008841,0,33
+479548333358,Processors,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00039),ProductPreset Processors display_name,,,,1008841,0,10
+13876,Test product for testing purposes,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00049),ProductPreset TestProduct description,,,,1008841,0,33
+13877,TestProduct™,,,,new,,,,,Trunk\Mars/Dlc/zubrin/Presets/ProductPreset.lua(00050),ProductPreset TestProduct display_name,,,,1008841,0,14
+242612280430,Zubrin,祖布林,,,OK,,,Restored.,,Trunk\Mars/Dlc/zubrin/config.lua(00008),DLCConfig Default zubrin description,,,,1007486,0,
+990970539163,Zubrin,祖布林,,,OK,,,Restored.,,Trunk\Mars/Dlc/zubrin/config.lua(00009),DLCConfig Default zubrin display_name,,,,1007486,0,
