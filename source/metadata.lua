@@ -16,8 +16,8 @@ return PlaceObj('ModDef', {
 	'version_major', 1,
 	'version_minor', 1,
 	'version', 63,
-	'lua_revision', 233360,
-	'saved_with_revision', 249143,
+	'lua_revision', 1011166,
+	'saved_with_revision', 1011166,
 	'loctables', {
 		{
 			filename = "CurrentLanguage/future.csv",
