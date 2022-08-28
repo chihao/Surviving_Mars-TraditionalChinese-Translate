@@ -20,7 +20,23 @@ return PlaceObj('ModDef', {
 	'saved_with_revision', 249143,
 	'loctables', {
 		{
-			filename = "Game.csv",
+			filename = "CurrentLanguage/future.csv",
+			language = "Any",
+		},
+		{
+			filename = "CurrentLanguage/Game.csv",
+			language = "Any",
+		},
+		{
+			filename = "CurrentLanguage/picard.csv",
+			language = "Any",
+		},
+		{
+			filename = "CurrentLanguage/prunariu.csv",
+			language = "Any",
+		},
+		{
+			filename = "CurrentLanguage/zubrin.csv",
 			language = "Any",
 		},
 	},
