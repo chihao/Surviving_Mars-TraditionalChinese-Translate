@@ -133,7 +133,7 @@ id <u(id)>, version <VersionText></color>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod
 1000208,Critical Error,嚴重錯誤,,,OK,,,,,Trunk\CommonLua/Core/autorun.lua(00184),,,,,222166,,
 1000209,Unspecified error occurred (code %s1). The game will now close.,發生未知錯誤（代碼%s1）。遊戲即將關閉。,,,OK,,,,,Trunk\CommonLua/Core/autorun.lua(00185),,,,,222166,,
 1000210,You need a supported DX11-compatible video card with updated drivers to play this game.,您需要使用與DX-11相容的顯示卡，更新驅動程式之後才能開始遊戲。,,,OK,,,,,Trunk\CommonLua/Core/autorun.lua(00186),,,,,223532,,
-1000211,Failed to initialize video mode.,初始化視訊模式失敗。,,,OK,,,,,Trunk\CommonLua/Core/autorun.lua(00187),,,,,222166,,
+1000211,Failed to initialize video mode.,初始化影像模式失敗。,,,OK,,,,,Trunk\CommonLua/Core/autorun.lua(00187),,,,,222166,,
 1000114,Error,錯誤,,,OK,,,,,Trunk\CommonLua/Core/autorun.lua(00191),,,,,221758,,
 1000115,You need DirectX 11/12 and a DirectX 11/12-compatible graphics card to run this game.,您需要安裝Directx 11/12，並使用與DirectX 11/12相容的顯示卡來執行此遊戲。,You need DirectX 11 and a DirectX 11-compatible graphics card to run this game.,您需要安裝Directx 11，並使用與DirectX 11相容的顯示卡來執行此遊戲。,OK,,,,,Trunk\CommonLua/Core/autorun.lua(00193),,,,,245386,,
 1000116,You need an OpenGL 4.1-capable graphics card to run this game.,您需要使用OpenGL 4.1-capable顯示卡才能開始遊戲。,,,OK,,,,,Trunk\CommonLua/Core/autorun.lua(00195),,,,,227595,,
@@ -215,7 +215,7 @@ id <u(id)>, version <VersionText></color>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod
 7382,High,高,,,OK,,,,,Trunk\CommonLua/Core/options.lua(00318),,,,,222739,,
 1000122,Display,顯示,,,OK,,,,,Trunk\CommonLua/Core/options.lua(00326),,,,,221758,,
 1000123,DISPLAY,顯示,,,OK,,,,,Trunk\CommonLua/Core/options.lua(00326),,,,,221758,,
-1000125,VIDEO,視訊,,,OK,,,,,Trunk\CommonLua/Core/options.lua(00327),,,,,221758,,
+1000125,VIDEO,影像,,,OK,,,,,Trunk\CommonLua/Core/options.lua(00327),,,,,221758,,
 1000126,Audio,音訊,,,OK,,,,,Trunk\CommonLua/Core/options.lua(00328),,,,,221758,,
 1000127,AUDIO,音訊,,,OK,,,,,Trunk\CommonLua/Core/options.lua(00328),,,,,221758,,
 1000128,Controls,控制,,,OK,,,,,Trunk\CommonLua/Core/options.lua(00329),,,,,221758,,
@@ -399,8 +399,8 @@ id <u(id)>, version <VersionText></color>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod
 8034,Eye Adaptation,人眼調節,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00053),,,,,225536,,
 10075,SSAO,SSAO,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00055),,,,,231705,,
 12362,Reflections,反射,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00056),,,,,243013,,
-3575,Antialiasing,抗鋸齒,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00057),,,,,221758,,
-3576,View Distance,視距,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00058),,,,,221758,,
+3575,Antialiasing,反鋸齒,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00057),,,,,221758,,
+3576,View Distance,視野距離,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00058),,,,,221758,,
 7772,Object Detail,物體細節,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00059),,,,,223911,,
 3577,Resolution Percent,解析度百分比,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00060),,,,,221758,,
 3578,Framerate Counter,幀數計數器,,,OK,,,,,Trunk\CommonLua/OptionsObject.lua(00061),,,,,221758,,
@@ -637,7 +637,7 @@ id <u(id)>, version <VersionText></color>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod
 3240,Turkey,土耳其,,,OK,,,,pc:key,Trunk\CommonLua/ParadoxCountries.lua(00899),,,,,221758,,
 3241,Trinidad and Tobago,千里達及托巴哥,,,OK,,,,,Trunk\CommonLua/ParadoxCountries.lua(00903),,,,,221758,,
 3242,Tuvalu,吐瓦魯,,,OK,,,,,Trunk\CommonLua/ParadoxCountries.lua(00907),,,,,221758,,
-3243,"Taiwan, China",中國臺灣,Taiwan,臺灣地區,OK,,,,,Trunk\CommonLua/ParadoxCountries.lua(00911),,,,,230950,,
+3243,"Taiwan, China",臺灣,Taiwan,臺灣地區,OK,,,,,Trunk\CommonLua/ParadoxCountries.lua(00911),,,,,230950,,
 3244,"Tanzania, United Republic of",坦尚尼亞聯合共和國,,,OK,,,,,Trunk\CommonLua/ParadoxCountries.lua(00915),,,,,221758,,
 3245,Ukraine,烏克蘭,,,OK,,,,,Trunk\CommonLua/ParadoxCountries.lua(00919),,,,,221758,,
 3246,Uganda,烏干達,,,OK,,,,,Trunk\CommonLua/ParadoxCountries.lua(00923),,,,,221758,,
@@ -668,7 +668,7 @@ id <u(id)>, version <VersionText></color>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod
 7710,MM,MM,,,OK,,,,,Trunk\CommonLua/ParadoxMenu.lua(00037),,,,,223766,,
 7711,DD,DD,,,OK,,,,,Trunk\CommonLua/ParadoxMenu.lua(00038),,,,,223766,,
 1000737,I have read and accept the Terms of Use,我已閱讀並接受《使用條款》,,,OK,,,,,Trunk\CommonLua/ParadoxMenu.lua(00042),,,,,230507,,
-1000738,I have read and understood the Privacy Policy,我已閱讀並理解了《保密協議》。,,,OK,,,,,Trunk\CommonLua/ParadoxMenu.lua(00043),,,,,230507,,
+1000738,I have read and understood the Privacy Policy,我已閱讀並理解了《隱私政策》。,,,OK,,,,,Trunk\CommonLua/ParadoxMenu.lua(00043),,,,,230507,,
 8499,I want to receive news and offers from Surviving Mars and Paradox Interactive,我想要獲取《火星求生》和Paradox Interactive的新聞與優惠資訊,Subscribe to Newsletter,訂閱最新資訊,OK,,,,,Trunk\CommonLua/ParadoxMenu.lua(00045),,,,,230507,,
 7719,current account,目前帳號,current,目前,OK,,,,,Trunk\CommonLua/ParadoxMenu.lua(00097),,,,,238668,,
 7720,Steam account,Steam帳號,Steam,Steam,OK,,,,,Trunk\CommonLua/ParadoxMenu.lua(00099),,,,,238668,,
@@ -706,7 +706,7 @@ id <u(id)>, version <VersionText></color>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod
 8712,Free Camera,自由視角,,,OK,,,,,Trunk\CommonLua/PhotoMode.lua(00212),,,,,228384,,
 3454,Photo Filter,照片濾鏡,,,OK,,,,,Trunk\CommonLua/PhotoMode.lua(00213),,,,,221758,,
 12323,Motion Blur,動態模糊,,,OK,,,,,Trunk\CommonLua/PhotoMode.lua(00214),,,,,242559,,
-3455,Vignette,虛光效果,,,OK,,,,,Trunk\CommonLua/PhotoMode.lua(00215),,,,,221758,,
+3455,Vignette,暗角,,,OK,,,,,Trunk\CommonLua/PhotoMode.lua(00215),,,,,221758,,
 3456,Exposure,曝光,,,OK,,,,,Trunk\CommonLua/PhotoMode.lua(00216),,,,,221758,,
 3457,Fog Density,灰霧密度,,,OK,,,,,Trunk\CommonLua/PhotoMode.lua(00217),,,,,221758,,
 8656,Depth of Field,景深,,,OK,,,,,Trunk\CommonLua/PhotoMode.lua(00218),,,,,227244,,
@@ -717,8 +717,8 @@ id <u(id)>, version <VersionText></color>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod
 
 Before you get started, please take a moment to read our Privacy Policy.","歡迎來到《火星求生》！
 
-開始遊戲之前，請花一點時間閱讀我們的《保密協議》。",,,OK,,,,,Trunk\CommonLua/Pops.lua(00770),,,,,230507,,
-1000740,We're updating our Privacy Policy! Please take a moment to read it.,我們對《保密協議》進行了更新！請花一些時間閱讀。,,,OK,,,,,Trunk\CommonLua/Pops.lua(00770),,,,,230507,,
+開始遊戲之前，請花一點時間閱讀我們的《隱私政策》。",,,OK,,,,,Trunk\CommonLua/Pops.lua(00770),,,,,230507,,
+1000740,We're updating our Privacy Policy! Please take a moment to read it.,我們對《隱私政策》進行了更新！請花一些時間閱讀。,,,OK,,,,,Trunk\CommonLua/Pops.lua(00770),,,,,230507,,
 1000741,Important Notice,重要通知,,,OK,,,,,Trunk\CommonLua/Pops.lua(00773),,,,,230507,,
 1000742,Please take a moment to read this Notice from Paradox Interactive.,請花一些時間閱讀這則來自Paradox Interactive的通知。,,,OK,,,,,Trunk\CommonLua/Pops.lua(00774),,,,,230507,,
 1000743,Read the Notice (opens a web browser),閱讀通知（啟動網頁瀏覽器）,,,OK,,,,,Trunk\CommonLua/Pops.lua(00775),,,,,230507,,
@@ -1058,9 +1058,9 @@ Before you get started, please take a moment to read our Privacy Policy.","歡�
 4886,Built the Geoscape Dome,已建造“地景穹頂”,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00110),Achievement BuiltGeoscapeDome description,,,,221758,,
 4885,Snow Globe,雪景球,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00111),Achievement BuiltGeoscapeDome display_name,,,,221758,,
 4887,Build the Geoscape Dome,建造“地景穹頂”,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00114),Achievement BuiltGeoscapeDome how_to,,,,221758,,
-4889,Built the Artificial Sun,已建造“人工太陽”,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00125),Achievement BuiltArtificialSun description,,,,221758,,
+4889,Built the Artificial Sun,已建造“人造太陽”,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00125),Achievement BuiltArtificialSun description,,,,221758,,
 4888,It's Always Sunny on Mars,火星晴空萬里,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00126),Achievement BuiltArtificialSun display_name,,,,221758,,
-4890,Build the Artificial Sun,建造“人工太陽”,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00129),Achievement BuiltArtificialSun how_to,,,,221758,,
+4890,Build the Artificial Sun,建造“人造太陽”,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00129),Achievement BuiltArtificialSun how_to,,,,221758,,
 4892,Built the Omega Telescope,已建造“歐米茄望遠鏡”,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00140),Achievement BuiltOmegaTelescope description,,,,221758,,
 4891,Alpha Scientist,首席科學家,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00141),Achievement BuiltOmegaTelescope display_name,,,,221758,,
 4893,Build the Omega Telescope,建造“歐米茄望遠鏡”,,,OK,,,,,Trunk\Mars/Data/Achievement.lua(00144),Achievement BuiltOmegaTelescope how_to,,,,221758,,
@@ -1318,7 +1318,7 @@ Before you get started, please take a moment to read our Privacy Policy.","歡�
 5248,Schools,學校,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(02426),BuildingTemplate School display_name_pl,,,,221758,,
 5233,+<upgrade1_mul_value_1>% Production.,+<upgrade1_mul_value_1>% 產量。,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(02462),BuildingTemplate ScienceInstitute upgrade1_description,,,,225536,,
 5250,+<upgrade2_mul_value_2>% Production; +<power(upgrade2_add_value_1)> Consumption.,+<upgrade2_mul_value_2>% 產量，+<power(upgrade2_add_value_1)> 消耗。,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(02470),BuildingTemplate ScienceInstitute upgrade2_description,,,,226204,,
-5252,Hawking Institutes,霍金研究院,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(02482),BuildingTemplate ScienceInstitute display_name_pl,,,,228384,,
+5252,Hawking Institutes,霍金研究所,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(02482),BuildingTemplate ScienceInstitute display_name_pl,,,,228384,,
 5272,+<upgrade1_add_value_1> Service Comfort.,+<upgrade1_add_value_1> 服務舒適度。,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(02519),BuildingTemplate SmartHome upgrade1_description,,,,225536,,
 7801,Smart Complexes,智慧複合式住宅,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(02528),BuildingTemplate SmartHome display_name_pl,,,,223978,,
 5270,Smart Homes,智慧住宅,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(02593),BuildingTemplate SmartHome_Small display_name_pl,,,,223978,,
@@ -1526,8 +1526,8 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 785654974292,Large Dumping Site,大型垃圾場,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05411),BuildingTemplate WasteRockDumpHuge display_name,,,,239707,,
 220612378829,Large Dumping Sites,大型垃圾場,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05412),BuildingTemplate WasteRockDumpHuge display_name_pl,,,,239707,,
 168638766723,Stores <wasterock(max_amount_WasteRock)>. Waste Rock is produced as side product of different mining activities.,可以儲存<wasterock(max_amount_WasteRock)>。礦渣是挖礦帶來的副產品。,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05413),BuildingTemplate WasteRockDumpHuge description,,,,239707,,
-5010,Artificial Sun,人工太陽,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05450),BuildingTemplate ArtificialSun display_name,,,,221758,,
-5011,Artificial Suns,人工太陽,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05451),BuildingTemplate ArtificialSun display_name_pl,,,,221758,,
+5010,Artificial Sun,人造太陽,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05450),BuildingTemplate ArtificialSun display_name,,,,221758,,
+5011,Artificial Suns,人造太陽,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05451),BuildingTemplate ArtificialSun display_name_pl,,,,221758,,
 5012,This marvel of Martian engineering produces colossal amounts of Power. It provides light for nearby solar panels during the night in addition to heating the surrounding area. Consumes vast amounts of Water on startup.,這個火星工程的奇蹟造物可以生產極為龐大的電力。它可以在夜間為外圍太陽能板提供光源，並加熱周邊區域。它啟動時會消耗大量的水。,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05452),BuildingTemplate ArtificialSun description,,,,223532,,
 5093,Geoscape Dome,地景穹頂,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05492),BuildingTemplate GeoscapeDome display_name,,,,221758,,
 5094,Geoscape Domes,地景穹頂,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05493),BuildingTemplate GeoscapeDome display_name_pl,,,,221758,,
@@ -1554,7 +1554,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5296,The Excavator,挖掘機,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05764),BuildingTemplate TheExcavator display_name,,,,221758,,
 5297,The Excavators,挖掘機,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05765),BuildingTemplate TheExcavator display_name_pl,,,,221758,,
 5298,"Using advanced extraction technology, allows for production of Concrete directly from the Martian soil without the requirement for a deposit.",採用先進的開採技術，可以在沒有沉積物的情況下，直接使用火星土壤生產混凝土。,,,OK,,,,,Trunk\Mars/Data/BuildingTemplate.lua(05766),BuildingTemplate TheExcavator description,,,,223532,,
-12651,Remote-controlled vehicle that takes Tourists on a Safari. Configure a route with waypoints near interesting sights to increase the Satisfaction awarded to Tourists.,無法初始化GRDK,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00038),Cargo RCSafari description,,,,245645,,
+12651,Remote-controlled vehicle that takes Tourists on a Safari. Configure a route with waypoints near interesting sights to increase the Satisfaction awarded to Tourists.,用來帶遊客觀景的遠程遙控載具。在有趣景點附近設置航路點以規劃遊覽路線，增加遊客獲得的滿意度。,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00038),Cargo RCSafari description,,,,245645,,
 12652,RC Safari,遙控觀景車,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00043),Cargo RCSafari name,,,,245645,,
 14359,Waste materials usually introduced as a byproduct of mining and landscaping activities.,廢料一般是採礦和地形改造時的副產物。,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00088),Cargo WasteRock description,,,,1010373,,
 10277,Reveals underground deposits in the scanned area.,在掃描區域中發現地下資源點。,,可以顯示掃描區域內是否含有地底資源。,OK,,,,,Trunk\Mars/Data/Cargo.lua(00140),Cargo OrbitalProbe description,,,,231705,,
@@ -1620,9 +1620,9 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5237,Generates Research.,產出研究點數。,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00592),Cargo ResearchLab description,,,,221758,,
 5247,School,學校,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00608),Cargo School name,,,,221758,,
 5253,Generates Research faster than a Research Lab.,產出研究點數，比普通的研究實驗室速度更快。,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00614),Cargo ScienceInstitute description,,,,221758,,
-5251,Hawking Institute,霍金研究院,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00619),Cargo ScienceInstitute name,,,,228384,,
+5251,Hawking Institute,霍金研究所,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00619),Cargo ScienceInstitute name,,,,228384,,
 5271,Provides a very comfortable living space for Colonists. Residents will recover additional Sanity when resting.,可為殖民地居民提供非常舒適的生活空間，居民在休息時會恢復額外的理智度。,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00625),Cargo SmartHome_Small description,,,,223532,,
-917416454692,Amphitheater,露天競技場,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00640),Cargo Amphitheater name,,,,1005383,,
+917416454692,Amphitheater,露天劇場,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00640),Cargo Amphitheater name,,,,1005383,,
 8821,A vocation building dedicated to creation of works of art. Workers receive Comfort and Morale boost and count towards the Workshop milestone. Consumes Polymers.,致力於創造藝術的職業性建築。工人的舒適度和士氣會得到提高，工作結果會計入工坊里程碑中。需要消耗聚合物。,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00646),Cargo ArtWorkshop description,,,,228838,,
 8819,Art Workshop,藝術工坊,,藝術工坊,OK,,,,,Trunk\Mars/Data/Cargo.lua(00651),Cargo ArtWorkshop name,,,,228838,,
 8827,A vocation building dedicated to the creation of Biorobots. Workers receive Comfort and Morale boost and count towards the Workshop milestone. Consumes Machine Parts.,致力於建立生化人的職業性建築。工人的舒適度和士氣會得到提高，工作結果會計入工坊里程碑中。需要消耗機械零件。,,,OK,,,,,Trunk\Mars/Data/Cargo.lua(00657),Cargo BioroboticsWorkshop description,,,,228838,,
@@ -1843,7 +1843,7 @@ Moisture Vaporators are based on WAVAR tech (Water-Vapor Adsorption Reactor), a 
 5320,"- Drones are gradually optimized to work and construct faster until Sol 100
 - Bonus Tech: <em>Autonomous Hubs</em> (Drone Hubs no longer require Power or maintenance)","- 在第100個太陽日之前，無人機的工作能力與建築速度都會不斷提高
 - 加成技術：<em>自動化控制中心</em> （無人機中心不再需要電力與維護）",,,OK,,,,,Trunk\Mars/Data/CommanderProfilePreset.lua(00036),CommanderProfilePreset Default inventor effect,,,,224716,,
-5321,Oligarch,政治寡頭,,,OK,,,,,Trunk\Mars/Data/CommanderProfilePreset.lua(00071),CommanderProfilePreset Default oligarch display_name,,,,221758,,
+5321,Oligarch,寡頭政治家,,,OK,,,,,Trunk\Mars/Data/CommanderProfilePreset.lua(00071),CommanderProfilePreset Default oligarch display_name,,,,221758,,
 5322,"- Fuel production increased by 25%
 - Bonus Tech: <em>Arcology</em> (unlocks a residential spire)","- 燃料生產速度提高25%
 - 加成技術：<em>生態建築學</em> （解鎖用於居住的尖塔）",,,OK,,,,,Trunk\Mars/Data/CommanderProfilePreset.lua(00072),CommanderProfilePreset Default oligarch effect,,,,223729,,
@@ -2424,7 +2424,7 @@ After the Founders arrive on the planet, the Colony will be under evaluation for
 
 Since the Founders number is limited to the capacity of the rocket, you may wish to handpick them using the <em>Review</em> command on the passenger rocket screen. Take care to micromanage their priorities during their first days on the Red Planet, using building priority and work slot management to guarantee that the crucial buildings are staffed.","創始者是第一批突破火星紅色大氣的人類先鋒，也是新殖民地的第一批居民。創始者最初任務是證明火星具有建造殖民地的條件，證明人類有可能實現在火星上的永久定居。
 
-創始者到達該星球後，會在幾個<em>太陽日</em>內對殖民地進行評價。直到殖民地獲得積極評價之前，都不會出現新的殖民地居民。只要創始者能在火星上成功生存幾個太陽日，或火星上有第一位嬰兒出生時，殖民地都將會獲得積極評價。
+創始者到達該星球後，會在幾個<em>太陽日</em>內對殖民地進行評價。直到殖民地獲得正面評價之前，都不會出現新的殖民地居民。只要創始者能在火星上成功生存幾個太陽日，或火星上有第一位嬰兒出生時，殖民地都將會獲得正面評價。
 
 由於火箭容量有限，創始者的數量也非常有限。您可能會想要透過火箭乘客螢幕上的<em>審核</em>功能，來手動選擇您需要的創始者。在火星殖民地最初的幾天中，要注意管理他們的優先事項。記得管理建築優先順序與工作崗位，確保所有關鍵的建築物都配備了工作人員。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00404),EncyclopediaArticle GameMechanics Founders text,,,,223739,,
 5415,Founders,創始者,,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00406),EncyclopediaArticle GameMechanics Founders title_text,,,,221758,,
@@ -2803,7 +2803,7 @@ The Rocket can be selected by opening the quick bar with <RB> and pressing <Butt
 您可以按下<RB>開啟快速物品欄，按下<ButtonA>選擇火箭。",,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00005),OnScreenHint HintGameStart gamepad_text,,,,225536,,
 5501,"Let's <em>designate a landing site</em> for the rocket! A promising area has already been scanned for resources.
 Select the Rocket from the highlighted icon at the bottom of your screen.","來給火箭<em>指定著陸點</em>吧！我們已經在一片很有發展前景的區域裡找到了資源。
-從螢幕下方標記的圖示中選擇火箭。",,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00008),OnScreenHint HintGameStart text,,,,223729,,
+從螢幕下方閃爍的圖示中選擇火箭。",,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00008),OnScreenHint HintGameStart text,,,,223729,,
 12463,Welcome to Mars!,歡迎來到火星！,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00009),OnScreenHint HintGameStart title,,,,243482,,
 8849,"To order the construction of a building upgrade, press the upgrade button located on the building infopanel.
 Press <RT> while the building is selected and use <DPadRight> to navigate to the upgrade button.","若想為既有的建築進行升級，點選建築資訊面板上的升級按鈕即可。
@@ -2935,7 +2935,7 @@ To add a Sector to the scanning queue, go to the <em>Overview Mode</em> and <lef
 5572,Research Available,研究已可用,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00414),OnScreenHint HintResearchAvailable title,,,,221758,,
 7435,Research will unlock various benefits for the Colony. Researching any technology will make a new technology in its field available for research. Changing your active research will preserve the progress of the previously researched technology.,研究技術將會為殖民地帶來各種各樣加成效果。當玩家完成某項技術的研究工作後，會解鎖同一領域的新技術，讓玩家可以進一步研究。如果您在研究中途切換至新的技術，之前的研究進度將會保留。,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00421),OnScreenHint HintResearch text,,,,223532,,
 7434,Researching Technologies,研究技術,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00422),OnScreenHint HintResearch title,,,,222739,,
-7436,The passenger rocket will deliver Colonists and a minimal food supply to Mars. Highlight an applicant to inspect their traits.,客運火箭能夠將殖民地居民與最小程度的食物補給帶往火星。標記一位應徵者以查看其特性。,The passenger rocket will deliver Colonists and a minimal food supply to Mars. Use <em>Review</em> to inspect the traits of the arrivals.,客運火箭能夠將殖民地居民與最小程度的食物補給帶往火星。您可以透過<em>審核</em>來查看新居民的特性。,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00429),OnScreenHint HintPassengerRocket text,,,,235826,,
+7436,The passenger rocket will deliver Colonists and a minimal food supply to Mars. Highlight an applicant to inspect their traits.,客運火箭能夠將殖民地居民與最小程度的食物補給帶往火星。游標移至一位應徵者上以查看其特性。,The passenger rocket will deliver Colonists and a minimal food supply to Mars. Use <em>Review</em> to inspect the traits of the arrivals.,客運火箭能夠將殖民地居民與最小程度的食物補給帶往火星。您可以透過<em>審核</em>來查看新居民的特性。,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00429),OnScreenHint HintPassengerRocket text,,,,235826,,
 5575,"Local Food production will be crucial to the survival of your Colonists. Consider constructing a <em>Hydroponic Farm</em>.
 Keep in mind that the initial Food production may not be sufficient for the Colony, so you may have to rely on <em>Resupply Rockets carrying Food</em> from Earth.","對殖民地居民的生命而言，來自本地的食物補給至關重要。您可以考慮建造<em>水耕農場</em>。
 記住，遊戲初期的食物產量並不足以讓殖民地自給自足。因此，您或許要靠<em>補給火箭從地球進口食物</em>。","Local Food production will be crucial to the survival of your Colonists. Consider constructing a <em>Hydroponic Farm</em>.
@@ -3677,7 +3677,7 @@ Use <RT> to focus the Dome's Info Panel.","選擇任一穹頂，開啟“<em>根
 138000713269,Increase sponsor research in exchange for constructing and launching an advanced communications satellite.,建造並發射一枚先進通訊衛星以換取更多贊助者研究點數。,,,OK,,,,,Trunk\Mars/Data/POI.lua(00041),POI HeighSpeedComSatellite description,,,,240487,,
 449474184601,High-speed Comm Satellite,高速通訊衛星,,,OK,,,,,Trunk\Mars/Data/POI.lua(00043),POI HeighSpeedComSatellite display_name,,,,239707,,
 221516902916,Grants Funding. Multiple uses of this project will yield diminishing returns.,獲得資金多次使用此工程會導致收益遞減。,,,OK,,,,,Trunk\Mars/Data/POI.lua(00080),POI SETISatellite description,,,,239707,,
-239893453674,Launch SETI Satellite,發射地外智慧生物搜尋衛星,,,OK,,,,,Trunk\Mars/Data/POI.lua(00082),POI SETISatellite display_name,,,,238668,,
+239893453674,Launch SETI Satellite,發射外星智慧生命搜尋衛星,,,OK,,,,,Trunk\Mars/Data/POI.lua(00082),POI SETISatellite display_name,,,,238668,,
 660953468688,Generates Funding by doing on-site research for third-party contractors.,為第三方承包商進行現場研究以產生資金。,,,OK,,,,,Trunk\Mars/Data/POI.lua(00118),POI StoryBit_ContractExplorationAccess description,,,,243013,,
 857386809253,Contract Exploration Access,科研勘探合約,,,OK,,,,,Trunk\Mars/Data/POI.lua(00120),POI StoryBit_ContractExplorationAccess display_name,,,,242226,,
 7072,None,無,,,OK,,,,,Trunk\Mars/Data/PhotoFilterPreset.lua(00005),PhotoFilterPreset None desc,,,,222166,,
@@ -3699,7 +3699,7 @@ Use <RT> to focus the Dome's Info Panel.","選擇任一穹頂，開啟“<em>根
 212092328795,A mysterious signal caught from this area is speculated to come from the remnants of a lost and secretive science mission.,我們在這個區域捕獲到的訊號據推測是從一處失聯的祕密科學代表團的遺蹟裡發出的。,,,OK,,,,,Trunk\Mars/Data/PlanetaryAnomalyDescription.lua(00031),PlanetaryAnomalyDescription Default Breakthrough_Specialists_4 description,,,,236473,,
 734867543182,This area registered off-the-charts readings for a while now. This prompts an expedition. ,這個區域的異常讀數已經持續一陣子了。我們應該派遣一支探險隊。 ,,,OK,,,,,Trunk\Mars/Data/PlanetaryAnomalyDescription.lua(00040),PlanetaryAnomalyDescription Default Custom_1 description,,,,236547,,
 104297822506,One-off strange readings usually don't merit much attention. This one is too weird to be a sensor glitch.,一次性的怪異讀數往往不會引起太多注意。這個讀數太詭異了，不可能是感應器故障。,,,OK,,,,,Trunk\Mars/Data/PlanetaryAnomalyDescription.lua(00046),PlanetaryAnomalyDescription Default Custom_2 description,,,,236547,,
-912284866362,"Multiple strange signals, detected over time, can all be traced to this area. It is now nicknamed ""The Zone"".",一段時間內發現的多處怪異訊號都指向這個區域。現在我們給它起了個外號叫“神祕地帶”。,,,OK,,,,,Trunk\Mars/Data/PlanetaryAnomalyDescription.lua(00052),PlanetaryAnomalyDescription Default Custom_3 description,,,,236547,,
+912284866362,"Multiple strange signals, detected over time, can all be traced to this area. It is now nicknamed ""The Zone"".",一段時間內發現的多處怪異訊號都指向這個區域。現在我們給它取了個外號叫“神祕地帶”。,,,OK,,,,,Trunk\Mars/Data/PlanetaryAnomalyDescription.lua(00052),PlanetaryAnomalyDescription Default Custom_3 description,,,,236547,,
 833131803329,Something interesting seems to be going on here. On Mars many interesting things can get you killed.,這裡似乎正在發生很有意思的事。在火星上，很多有意思的事往往能要你的命。,,,OK,,,,,Trunk\Mars/Data/PlanetaryAnomalyDescription.lua(00058),PlanetaryAnomalyDescription Default Custom_4 description,,,,236547,,
 979258072581,We have visuals of a large crater. Thе meteorite that formed it was composed of metallic iron-nickel material. Someone suggested that we use some of it to forge a sword and name it.,我們看到了一個大型隕石坑。形成該隕石坑的隕石由鐵鎳類金屬物質構成。有人提議我們用隕石的一部分金屬物質鍛造一把劍，並給它取個名字。,,,OK,,,,,Trunk\Mars/Data/PlanetaryAnomalyDescription.lua(00064),PlanetaryAnomalyDescription Default Metals_Colonists_1 description,,,,236473,,
 737401821822,Satellites have located an iron-rich region where pieces of hematite and other useful minerals can just be picked from the ground! One only needs robot patience to do that.,衛星發現了一處富含鐵資源的地點。在該地點，赤鐵和其他有用的礦物甚至不用開採就能直接拿走！只需要機器人一樣的耐心就夠了。,,,OK,,,,,Trunk\Mars/Data/PlanetaryAnomalyDescription.lua(00073),PlanetaryAnomalyDescription Default Metals_Drones_1 description,,,,236473,,
@@ -3823,10 +3823,10 @@ The following buildings will freeze during a Cold Wave:
 443985878555,We have succeeded in capturing and diverting meteors towards our general vicinity in a gambit to bring precious resources and even scientific insight withing our reach.,我們成功捕獲了隕石，並將其轉向了我們大致的位置附近，目的是讓珍貴的資源甚至科學發現出現在離我們很近的地方。,We have succeeded in capturing and diverting meteors towards our general vicinity in a gambit to bring precious resources and even scientific insight withing hands reach.,我們成功捕獲了隕石，並將其轉向了我們大致的位置附近，目的是讓珍貴的資源甚至科學發現出現在離我們很近的地方。,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00128),,,narrator,narrator,244011,,
 491282077872,The resulting speed at which data is now transferred makes everyone wonder how we got anything done before.,現在資料傳輸速度令大家不禁琢磨我們之前是怎麼熬過來的。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00135),PopupNotificationPreset CompletedHeighSpeedComSatellite text,,,,240619,,
 201673496950,High-speed Comm Satellite,高速通訊衛星,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00136),PopupNotificationPreset CompletedHeighSpeedComSatellite title,,,,240619,,
-12146,Our high-speed Comm Satellite is now online.,我們的高速通訊衛星現已上線。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00137),,,narrator,narrator,240619,,
+12146,Our high-speed Comm Satellite is now online.,我們的高速通訊衛星已上線。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00137),,,narrator,narrator,240619,,
 392168173764,It is now operational and will contribute towards the decades old mission of finding signs of intelligent life elsewhere in the galaxy.,它現在已正常運轉，並會對已有幾十年歷史的銀河系外星智慧生命跡象搜尋任務做出貢獻。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00144),PopupNotificationPreset CompletedSETISatellite text,,,,240619,,
-311475854684,SETI Satellite,地外智慧生物搜尋衛星,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00145),PopupNotificationPreset CompletedSETISatellite title,,,,239610,,
-439602669281,Our very own SETI Satellite has been delivered and launched into Martian orbit.,我們自己的地外智慧生物搜尋衛星已經發射進了火星軌道。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00146),,,narrator,narrator,240619,,
+311475854684,SETI Satellite,外星智慧生命搜尋衛星,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00145),PopupNotificationPreset CompletedSETISatellite title,,,,239610,,
+439602669281,Our very own SETI Satellite has been delivered and launched into Martian orbit.,我們自己的外星智慧生命搜尋衛星已經發射進了火星軌道。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00146),,,narrator,narrator,240619,,
 622650641152,Our partners on Earth are delighted by the fulfillment of the contract and have expressed their gratitude in a hefty amount of Funding.,我們在地球上的合夥人對合約的成果表示滿意，並給了我們大量資金以示感謝。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00153),PopupNotificationPreset CompletedStoryBit_ContractExplorationAccess text,,,,242226,,
 949945570603,Contract Exploration Access,科研勘探合約,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00154),PopupNotificationPreset CompletedStoryBit_ContractExplorationAccess title,,,,242226,,
 948001628351,The remote scientific outpost is set and has started transmitting intriguing data from the Red Planet.,遙控科學前哨站已建立完畢並開始從紅色星球向外傳輸十分有趣的資料。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00155),,,narrator,narrator,242226,,
@@ -3841,7 +3841,7 @@ Below and Beyond
 - <em>Exotic Minerals</em> - a new resource obtained from <em>Asteroids</em>, required for several of the new buildings.
 - <em>Recon & Expansion Research</em> - new field that unlocks new buildings and upgrades for the underground and asteroids.
 - <em>Uncover new wonders</em> - buried deep below the Martian surface.","免費更新（Piazzi）
-- <em>露天競技場</em> - 一種新的建築，用來給你的殖民地居民提供娛樂，提升遊客的舒適度。
+- <em>露天劇場</em> - 一種新的建築，用來給你的殖民地居民提供娛樂，提升遊客的舒適度。
 - <em>用戶介面改進</em> - 你可以在建造期間看到塵土範圍、重新安排研究隊列、查看電纜和洩漏管道上方的圖示、使用頂部介面在供應網之間循環切換、並在頂部介面中看到每種資源的詳情。
 - <em>更多殖民地操作</em> - 重命名你的殖民地、在穹頂人口滿時輕易地限制生育、新篩選選項：始終包含擁有特定特性或專長的殖民地居民。
 
@@ -3861,7 +3861,7 @@ Below and Beyond
 - <em>Exotic Minerals</em> - a new resource obtained from <em>Asteroids</em>, required for several of the new buildings.
 - <em>Recon & Expansion Research</em> - new field that unlocks new buildings and upgrades for the underground and asteroids.
 - <em>Uncover new wonders</em> - buried deep below the Martian surface.","免費更新（Piazzi）
-- <em>露天競技場</em> - 一種新的建築，用來給你的殖民地居民提供娛樂，提升遊客的舒適度。
+- <em>露天劇場</em> - 一種新的建築，用來給你的殖民地居民提供娛樂，提升遊客的舒適度。
 - <em>用戶介面改進</em> - 你可以在建造期間看到塵土範圍、重新安排研究隊列、查看電纜和洩漏管道上方的圖示、使用頂部介面在供應網之間循環切換、並在頂部介面中看到每種資源的詳情。
 - <em>更多殖民地操作</em> - 重命名你的殖民地、在穹頂人口滿時輕易地限制生育、新篩選選項：始終包含擁有特定特性或專長的殖民地居民。
 
@@ -3906,14 +3906,14 @@ Commander Profile: <em><commander_name></em>
 ",,,OK,,,,ps4:touch,Trunk\Mars/Data/PopupNotificationPreset.lua(00327),PopupNotificationPreset WelcomeGameInfo text,,,,222240,,
 5767,"Welcome to Mars, Commander!",指揮官，歡迎來到火星！,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00328),PopupNotificationPreset WelcomeGameInfo title,,,,221758,,
 7828,Read the Terms of Use (opens a web browser),閱讀《使用條款》（啟動網頁瀏覽器）,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00334),PopupNotificationPreset LegalAgreement choice1,,,,224102,,
-7829,Read the Privacy Policy (opens a web browser),閱讀《保密協議》（啟動網頁瀏覽器）,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00335),PopupNotificationPreset LegalAgreement choice2,,,,224102,,
-7830,I agree to the Terms of Use and the Privacy Policy,我同意《使用條款》與《保密協議》,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00336),PopupNotificationPreset LegalAgreement choice3,,,,224102,,
-7831,I do not agree to the Terms of Use and the Privacy Policy,我不同意《使用條款》與《保密協議》,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00338),PopupNotificationPreset LegalAgreement choice4,,,,224102,,
+7829,Read the Privacy Policy (opens a web browser),閱讀《隱私政策》（啟動網頁瀏覽器）,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00335),PopupNotificationPreset LegalAgreement choice2,,,,224102,,
+7830,I agree to the Terms of Use and the Privacy Policy,我同意《使用條款》與《隱私政策》,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00336),PopupNotificationPreset LegalAgreement choice3,,,,224102,,
+7831,I do not agree to the Terms of Use and the Privacy Policy,我不同意《使用條款》與《隱私政策》,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00338),PopupNotificationPreset LegalAgreement choice4,,,,224102,,
 7827,"Welcome to Surviving Mars!
 
 Before you get started, please take a moment to read our Terms of Use and Privacy Policy.","歡迎來到《火星求生》！
 
-開始遊戲之前，請花一點時間閱讀我們的《使用條款》和《保密協議》。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00345),PopupNotificationPreset LegalAgreement text,,,,224102,,
+開始遊戲之前，請花一點時間閱讀我們的《使用條款》和《隱私政策》。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00345),PopupNotificationPreset LegalAgreement text,,,,224102,,
 7826,Legal Agreements,法律協議,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00346),PopupNotificationPreset LegalAgreement title,,,,224102,,
 7789,"While the Applicants who came to Mars were aware of the many risks that would await them, the near-criminal neglect from our side is something different. We cannot keep this information from the public – and opinions are swaying in the direction that our Colony is a “death trap”.
 
@@ -4278,7 +4278,7 @@ The unparalleled everyday stress levels slowly drain the people of their resolve
 5720,Oh my!,我的天！,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00827),PopupNotificationPreset FirstStatusEffect_Dehydrated choice2,,,,221758,,
 5719,"Water is the vital fluid which sustains all life. The human body requires a constant access to fresh, drinkable water and quickly deteriorates when none is present. Thus the extraction of Water is one of our utmost priorities.
 
-<hint> Colonists with the Dehydrated status effect have no access to Water and will die within a short time. Connect their Dome to operational Water Producers or filled Water Towers to supply them with Water.","水是一切生命賴以生存的源泉。人體每天都需要潔淨的飲用水。如果沒有水，身體狀況就會迅速惡化。因此開採水資源是我們最重要的任務之一。
+<hint> Colonists with the Dehydrated status effect have no access to Water and will die within a short time. Connect their Dome to operational Water Producers or filled Water Towers to supply them with Water.","水是一切生命賴以為生的泉源。人體每天都需要潔淨的飲用水。如果沒有水，身體狀況就會迅速惡化。因此開採水資源是我們最重要的任務之一。
 
 <hint>無法使用水資源的殖民地居民會擁有脫水狀態效果，並會在短時間內死亡。將他們的穹頂與正常運轉的造水設施或裝滿的水塔相連即可為他們提供水資源。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00831),PopupNotificationPreset FirstStatusEffect_Dehydrated text,,,,223532,,
 5718,Dehydration!,脫水！,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00832),PopupNotificationPreset FirstStatusEffect_Dehydrated title,,,,221758,,
@@ -4326,10 +4326,10 @@ We are all here today not only because <ColonistName(colonist)> laid down the fo
 7093,Alcohol is not the answer.,一醉並不能解千愁。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00887),PopupNotificationPreset FirstFounderAlcoholic choice2,,,,222739,,
 7091,"Despite the great lengths we go through to make it seem safe and as close as possible to home, one’s mind is never too far from the dangers that the privilege of being an interplanetary pioneer carries. We all find our own ways to cope with this pressure.  <ColonistName(colonist)> finds it in the bottle.
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Alcoholic</em> Trait.","儘管我們竭盡全力為所有人營造儘可能安全溫馨的精神家園，但身為星際探索的先行者，我們的心理健康仍時刻受到威脅。我們都有自己應對壓力的方式。<ColonistName(colonist)>的方式是酗酒。
+<hint>The Founder <ColonistName(colonist)> has the <em>Alcoholic</em> Trait.","儘管我們竭盡全力為所有人營造儘可能安全又溫馨的家園，但身為星際探索的先行者，我們的心理健康仍時刻受到威脅。我們都有自己應對壓力的方式。<ColonistName(colonist)>的方式是酗酒。
 
 <hint>創始者<ColonistName(colonist)>擁有<em>酒鬼</em>特性。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00891),PopupNotificationPreset FirstFounderAlcoholic text,,,,226483,,
-7090,Nobody Knows The Trouble I've Seen...,沒人明白我的苦惱……,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00892),PopupNotificationPreset FirstFounderAlcoholic title,,,,222166,,
+7090,Nobody Knows The Trouble I've Seen...,沒人明白我的煩惱……,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00892),PopupNotificationPreset FirstFounderAlcoholic title,,,,222166,,
 7092,It's a rough life here on Mars. You can't prepare for addiction.,火星上的日子很不好過。犯癮令人防不勝防。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00893),,,narrator,narrator,223532,,
 7445,Oh boy...,老天啊……,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00899),PopupNotificationPreset FirstFounderWhiner choice2,,,,222739,,
 7443,"For they are meant to tread and live where no man has ever lived before – in an environment not meant for man to live in to begin with. This is why it came as a shock to us all when <ColonistName(colonist)> turned out to be such a whiner!
@@ -4360,13 +4360,13 @@ We are all here today not only because <ColonistName(colonist)> laid down the fo
 
 We must not judge. On the contrary, we must be supportive and help our dear comrade with whom we’ve traversed the void, spearheaded humanity’s expansion on other worlds, only to find that we are no safer from vices so Earthly, it’s as if we never left.
 
-<hint>The Founder <ColonistName(colonist)> has the <em>Gambler</em> trait.","他們飛越五千萬公里來到一個不適宜居住的荒涼星球，並意圖用人類的意志征服這片不毛之地。但話說回來，<ColonistName(colonist)>似乎是一個傳統意義上的賭徒。
+<hint>The Founder <ColonistName(colonist)> has the <em>Gambler</em> trait.","他們飛越五千萬英里來到一個不適宜居住的荒涼星球，並意圖用人類的意志征服這片不毛之地。但話說回來，<ColonistName(colonist)>似乎是一個傳統意義上的賭徒。
 
-我們不能對別人妄加評論。但我們和親愛的同志們互相幫助，畢竟我們一起穿越了虛空，一起充當人類探索其他星球的先鋒，可結果卻發現在火星上依然擺脫不了地球上的種種惡習，彷彿我們從未離開地球一樣。
+我們不能對別人妄加評論。但我們必須和親愛的同伴們互相幫助，畢竟我們一起穿越了虛空，一起充當人類探索其他星球的先鋒，可結果卻發現在火星上依然擺脫不了地球上的種種惡習，彷彿我們從未離開地球一樣。
 
 <hint>創始者<ColonistName(colonist)>擁有<em>賭徒</em>特性。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00939),PopupNotificationPreset FirstFounderGambler text,,,,226483,,
 7102,Gambling Midst The Stars ,星際賭博 ,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00940),PopupNotificationPreset FirstFounderGambler title,,,,223739,,
-7104,The first Colonists are all gamblers coming to Mars. It's the ultimate roll of the dice.,第一批來到火星的殖民地居民是一幫賭徒。這是終極的賭博。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00941),,,narrator,narrator,223532,,
+7104,The first Colonists are all gamblers coming to Mars. It's the ultimate roll of the dice.,第一批來到火星的殖民地居民都是一幫賭徒。這是終極的賭博。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00941),,,narrator,narrator,223532,,
 7447,OK,確定,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00947),PopupNotificationPreset FirstFounderIdiot choice2,,,,226204,,
 7106,"Warning signs and instructions are, usually, enough to prevent most of them being done by most people. <ColonistName(colonist)> is not like most people and instructions and warnings seem to be of little to no use. 
 
@@ -4404,7 +4404,7 @@ As I watch the rocket fly towards Earth I cannot force myself to think that <Col
 
 <effect>在殖民地能維持人類生命之前，不會有更多殖民者到達。你的殖民地的創始者居民必須存活10天，其他人才會到達。
 
-<hint>在時間結束前，如果首個人類在火星上出生，則殖民地會得到積極評價。如果你願意接受挑戰，則嘗試建造一座醫療建築並用服務建築儘可能提高創始者的舒適度。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00974),PopupNotificationPreset FirstPassengerRocket text,,,,226302,,
+<hint>在時間結束前，如果首個人類在火星上出生，則殖民地會得到正面評價。如果你願意接受挑戰，則嘗試建造一座醫療建築並用服務建築儘可能提高創始者的舒適度。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00974),PopupNotificationPreset FirstPassengerRocket text,,,,226302,,
 5751,A New Beginning,新的開始,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00975),PopupNotificationPreset FirstPassengerRocket title,,,,221758,,
 7124,"Full of hope and determination, the first Founders have set foot on the Red Planet.",滿懷希望的首批創始者毅然踏上了這顆紅色星球。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00976),,,narrator,narrator,226302,,
 7127,OK,確定,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00981),PopupNotificationPreset ColonyViabilityExit_MartianBorn choice1,,,,222166,,
@@ -4416,7 +4416,7 @@ Let this blooming of life serve as a symbol for all humans. Mars is no longer a 
 
 就讓這個新生命成為全人類的象徵。火星也能孕育出生命了。
 
-<effect>殖民地得到了積極評價。可以從地球上徵召額外殖民地居民。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00985),PopupNotificationPreset ColonyViabilityExit_MartianBorn text,,,,223532,,
+<effect>殖民地得到了正面評價。可以從地球上徵召額外殖民地居民。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00985),PopupNotificationPreset ColonyViabilityExit_MartianBorn text,,,,223532,,
 8856,"The Colonists have always felt like a family. But what makes the family stronger and more united is the promise of new life and better future. We have truly been blessed with a rewarding responsibility – to carry the torch of hope.
 
 Let this blooming of life serve as a symbol for all humans. Mars is no longer a dead world.
@@ -4425,7 +4425,7 @@ Let this blooming of life serve as a symbol for all humans. Mars is no longer a 
 
 就讓這個新生命成為全人類的象徵。火星也能孕育出生命了。
 
-<effect>殖民地得到了積極評價。由於最後的方舟遊戲規則，您無法從地球上運輸更多殖民地居民到火星。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00996),PopupNotificationPreset ColonyViabilityExit_MartianBorn_LastArk text,,,,228838,,
+<effect>殖民地得到了正面評價。由於最後的方舟遊戲規則，您無法從地球上運輸更多殖民地居民到火星。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00996),PopupNotificationPreset ColonyViabilityExit_MartianBorn_LastArk text,,,,228838,,
 7126,"For the first time, a human has been born on Mars. It's truly a unique miracle.",第一名新生兒在火星出生了。這是獨一無二的奇蹟。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00998),,,narrator,narrator,223532,,
 5758,"The long-time dream of the human civilization as a whole – to settle another world – has come true. To be among the people who made this happen makes me feel enthusiastic and proud.
 
@@ -4433,9 +4433,9 @@ We are already swarmed with applications for relocation on Mars and the wanderlu
 
 <effect> The Colony has been evaluated positively. Additional Colonists can be called from Earth.","人類文明多年以來在外星球殖民的夢想終於成真了。我此刻的心情既激動又自豪，因為我也為實現這個夢想出了一份力。
 
-我們已經收到無數人發來的移居火星的申請，這些人的熱情與探索欲令我因自己身為一名人類而深感驕傲。這顆紅色星球依然不適宜居住，甚至危機四伏，但我們這個種族一直以來都擁有適應與提高的能力，逆境只會催我們迎難而上。世上無難事，只怕有心人！
+我們已經收到無數人發來的移居火星的申請，這些人的熱情與探索欲令我因自己身為一名人類而深感驕傲。這顆紅色星球依然不適宜居住，甚至危機四伏，但我們這個種族一直以來都擁有適應與進步的能力，逆境只會催使我們迎難而上。世上無難事，只怕有心人！
 
-<effect>殖民地得到了積極評價。可以從地球上徵召額外殖民地居民。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01007),PopupNotificationPreset ColonyViabilityExit_Delay text,,,,223532,,
+<effect>殖民地得到了正面評價。可以從地球上徵召額外殖民地居民。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01007),PopupNotificationPreset ColonyViabilityExit_Delay text,,,,223532,,
 5759,Looks like we’ve got a serious adventure ahead of us!,看來我們即將迎來一場大冒險！,Looks live we’ve got a serious adventure ahead of us!,看來我們即將迎來一場大冒險！,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01014),PopupNotificationPreset ColonyViabilityExit_Delay_LastArk choice1,,,,238196,,
 8857,"The long-time dream of the human civilization as a whole – to settle another world – has come true. To be among the people who made this happen makes me feel enthusiastic and proud.
 
@@ -4443,9 +4443,9 @@ We are already swarmed with applications for relocation on Mars and the wanderlu
 
 <effect> The Colony has been evaluated positively. You can't call anymore colonists from Earth due to the Last Ark game rule.","人類文明多年以來在外星球殖民的夢想終於成真了。我此刻的心情既激動又自豪，因為我也為實現這個夢想出了一份力。
 
-我們已經收到無數人發來的移居火星的申請，這些人的熱情與探索欲令我因自己身為一名人類而深感驕傲。這顆紅色星球依然不適宜居住，甚至危機四伏，但我們這個種族一直以來都擁有適應與提高的能力，逆境只會催我們迎難而上。世上無難事，只怕有心人！
+我們已經收到無數人發來的移居火星的申請，這些人的熱情與探索欲令我因自己身為一名人類而深感驕傲。這顆紅色星球依然不適宜居住，甚至危機四伏，但我們這個種族一直以來都擁有適應與進步的能力，逆境只會催使我們迎難而上。世上無難事，只怕有心人！
 
-<effect>殖民地得到了積極評價。由於最後的方舟遊戲規則，您無法從地球上運輸更多殖民地居民到火星。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01018),PopupNotificationPreset ColonyViabilityExit_Delay_LastArk text,,,,228838,,
+<effect>殖民地得到了正面評價。由於最後的方舟遊戲規則，您無法從地球上運輸更多殖民地居民到火星。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01018),PopupNotificationPreset ColonyViabilityExit_Delay_LastArk text,,,,228838,,
 5756,The Door towards the Stars,通往群星之門,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01019),PopupNotificationPreset ColonyViabilityExit_Delay_LastArk title,,,,221758,,
 7128,This will go down in history.,這一刻將被載入史冊。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01020),,,narrator,narrator,223532,,
 9229,"In this training exercise you will learn how to gather basic resources from the Martian surface, how to construct a small base and how to refuel the Rocket in order to send it back to Earth.
@@ -5093,7 +5093,7 @@ The score of our colony is <score>.","您已完美完成<challenge_name>挑戰�
 4825,Upgrade 3,升級 3,,,OK,,,,,Trunk\Mars/Data/PropertyCategory.lua(00408),PropertyCategory Upgrade 3 display_name,,,,221758,,
 4826,Pin,固定,,,OK,,,,,Trunk\Mars/Data/PropertyCategory.lua(00415),PropertyCategory Pin display_name,,,,221758,,
 5771,The Free Earth Channel,自由地球頻道,,,OK,,,,,Trunk\Mars/Data/RadioStationPreset.lua(00004),RadioStationPreset FreeEarth display_name,,,,221758,,
-5769,No Radio,沒有無線電臺,,,OK,,,,,Trunk\Mars/Data/RadioStationPreset.lua(00012),RadioStationPreset NoRadio display_name,,,,221758,,
+5769,No Radio,關閉無線電臺,,,OK,,,,,Trunk\Mars/Data/RadioStationPreset.lua(00012),RadioStationPreset NoRadio display_name,,,,221758,,
 5773,The Official Mars Channel,官方火星頻道,,,OK,,,,,Trunk\Mars/Data/RadioStationPreset.lua(00019),RadioStationPreset OfficialMars display_name,,,,221758,,
 5772,Red Frontier,紅色邊疆,,,OK,,,,,Trunk\Mars/Data/RadioStationPreset.lua(00027),RadioStationPreset RedFrontier display_name,,,,224716,,
 5858,Expedition Disaster: Marooned In Space,探險隊災難：困於太空,,,OK,,,,,Trunk\Mars/Data/Scenario/Expeditions.lua(00012),Scenario Expeditions title,,,,221758,,
@@ -5972,7 +5972,7 @@ Just when we thought we survived the worst...
 
 <effect>一部巨型挖掘機將在<text_param1>個太陽日後降落在火星上。
 
-<hint>你可以用無人機拆解來襲挖掘機。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_2.lua(01663),Scenario Mystery 2 text,,,,223532,,
+<hint>你可以用無人機拆解即將到來的挖掘機。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_2.lua(01663),Scenario Mystery 2 text,,,,223532,,
 7200,5,5,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_2.lua(01666),Scenario Mystery 2 text_param1,,,,222166,,
 6056,A massive Dredger is inbound to land on Mars.,一部巨型挖掘機即將落在火星上。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_2.lua(01671),Scenario Mystery 2 text,,,,223978,,
 6057,The Dredgers – Conclusion: Fires of Tomorrow's Dawn,挖掘機 - 結局：明日黎明之火,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_2.lua(01687),Scenario Mystery 2 title,,,,223532,,
@@ -5996,7 +5996,7 @@ Somehow you don't feel like the victor. You stand silent as you ask yourself one
 You failed to destroy the massive Dredger and the Colony will pay the price in the months to come, but maybe this is for the better. Maybe today humanity avoided retribution from the unknown creators of the Dredgers, or started on the path of cooperation, and maybe even friendship, when the next generations reach the stars.
 
 <effect>Xeno-Extraction Technology is available for research
-<effect>Gained a new technology, <em><reg_param1></em>","挖掘機通訊訊號中興高采烈的和聲太過紛亂，令人難以理解，但也不需要理解，因為它們的行為表明了其意圖。鴉女星團的視訊消息中顯示天空中出現成千上萬個光點，這些光點都是打破太空沉寂的挖掘機。追蹤其動向的衛星發現挖掘機群集結在巨型挖掘機周圍並朝著太陽系的邊緣進發。
+<effect>Gained a new technology, <em><reg_param1></em>","挖掘機通訊訊號中興高采烈的歡呼聲太過紛亂，令人難以理解，但也不需要理解，因為它們的行為表明了其意圖。鴉女星團的影像訊息中顯示天空中出現成千上萬個光點，這些光點都是打破太空沉寂的挖掘機。追蹤其動向的衛星發現挖掘機群集結在巨型挖掘機周圍並朝著太陽系的邊緣進發。
 
 你沒能摧毀巨型挖掘機，幾個月後，殖民地將因此付出代價。但也許這樣更好。也許今天人類避免了挖掘機神祕創造者的報復，也許今天，我們在合作甚至友誼的道路上邁出了第一步，我們子孫後代踏上其他星球時，也會因我們今天的行為而受益。
 
@@ -6216,7 +6216,7 @@ The night is very hot, even though it is winter. The weather these days had gone
 
 “真高興能見到你！你去哪裡了？你還好嗎？”
 
-“我一直在和你為了相同的目標而奮鬥，即把我們從當權機構手中解放出來。我發現了可怕的祕密，也找到了我們問題的解決方案，但這麼做十分危險，甚至會出人命。我的同志們製作出了治療劑。”她攤開手掌，掌中放著兩小瓶顏色灰白的液體。“我是來和你一起喝下治療劑的。如果我活不過今天，那我想要在珍視之人的懷中迎接死亡，卡爾。我們一族只剩我們倆了，我想和族人們一起安息。”
+“我一直在和你為了相同的目標而奮鬥，即把我們從當權機構手中解放出來。我發現了可怕的祕密，也找到了我們問題的解決方案，但這麼做十分危險，甚至會出人命。我的夥伴們製作出了治療劑。”她攤開手掌，掌中放著兩小瓶顏色灰白的液體。“我是來和你一起喝下治療劑的。如果我活不過今天，那我想要在珍視之人的懷中迎接死亡，卡爾。我們一族只剩我們倆了，我想和族人們一起安息。”
 
 “莉，你這話什麼意思？我沒聽明白！”",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_4.lua(00264),Scenario Mystery 4 text,,,,223532,,
 7214,"Lea sits down beside you, taking your hand.",莉在你身邊坐下，握住了你的手。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_4.lua(00271),,,narrator,narrator,223532,,
@@ -6489,7 +6489,7 @@ NetSky LLC, CRS Division CEO<left>
 6168,Sweet opportunity!,這是個大好機會！,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_5.lua(00032),Scenario Mystery 5 choice1,,,,223532,,
 6169,We've been contacted by NetSky LLC. They’ve requested a Network Node to harbor their AI Project Number Six.,網路天空有限責任公司聯絡了我們。他們請求我們為他們的人工智慧“六號專案”提供一個網路節點。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_5.lua(00036),Scenario Mystery 5 text,,,,223978,,
 6170,AI: Hello,人工智慧：你好,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_5.lua(00054),Scenario Mystery 5 title,,,,221758,,
-7235,Another late night in the control room poring over maintenance and monitoring reports when a message pops up on your private terminal. This better be good.,你又在指揮室仔細閱讀維護和監控報告到深夜。這時，你的私人終端上突然彈出一條資訊。最好別是什麼壞事。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_5.lua(00055),,,narrator,narrator,223532,,
+7235,Another late night in the control room poring over maintenance and monitoring reports when a message pops up on your private terminal. This better be good.,你又在指揮室仔細閱讀維護和監控報告到深夜。這時，你的私人終端機上突然彈出一條訊息。最好別是什麼壞事。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_5.lua(00055),,,narrator,narrator,223532,,
 6171,">>> Greetings. Additional address/communication protocols missing. Expressing simulated emotion of happiness.
 >>> What is this nonsense? Who's this?
 >>> Number Six requesting authorization to communicate. Awaiting user input.
@@ -7549,14 +7549,14 @@ These are ordinary people who survived the Wildfire crisis somehow and managed t
 8486,Now that Mars has become a safe haven from the Wildfire infection the authorities on Earth have sent a rocket with non-infected refugees to be sheltered in your colony.,現在火星已經成為了不受野火感染威脅的安全港灣，地球上的當局已經向你的殖民地發射了一枚搭載著未受感染難民的火箭，以讓他們在你的殖民地中避難。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_8.lua(01014),Scenario Mystery 8 text,,,,226214,,
 8358,Refugees on board are fleeing the infected Earth.,難民正乘坐火箭逃離受感染的地球。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_8.lua(01021),Scenario Mystery 8 description,,,,226204,,
 8359,Beyond Earth: Vision of the Future,超越地球：展望未來,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00035),Scenario Mystery 9 title,,,,226204,,
-8360,"“No, aliens did not build the pyramids – human beings built the pyramids with ingenuity and hard work.",“不，建造金字塔的並不是外星人，而是人類，因為我們擁有聰明才智而又勤勞。,"“No, aliens did not build the pyramids – human beings built the pyramids because we are clever and hard workers.",“不，建造金字塔的並不是外星人，而是人類，因為我們聰明而勤勞。,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00036),,,billionaire,billionaire,232789,,
+8360,"“No, aliens did not build the pyramids – human beings built the pyramids with ingenuity and hard work.",“不，建造金字塔的並不是外星人，而是人類，因為我們擁有聰明才智又刻苦耐勞。,"“No, aliens did not build the pyramids – human beings built the pyramids because we are clever and hard workers.",“不，建造金字塔的並不是外星人，而是人類，因為我們聰明又刻苦耐勞。,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00036),,,billionaire,billionaire,232789,,
 8361,"And in this day and age, when we value the strength of a civilization not by its ability to wage war - but by its ability to prevent it, our hard work and cleverness have only one place left to take us – up.
 
 Up towards the stars - above our superficial segregations and competing with ourselves. Up towards a united humanity spread out on many worlds… possibly even stars.  
 
 I am more than certain that the last several thousand years of our history are but the bumpy road towards a version of humanity where there is no hunger, no war, no needless suffering and where the future holds nothing but opportunity and wonder.  And I also believe we are quite close to the end of this turbulent road. I make it my mission to help take us through this last stretch and today I announce my plan in investing the vast majority of my considerable fortune to this endeavor. “
 
-Rede Goddenberry, one of the wealthiest and most powerful people on Earth, addresses the UN General Assembly ","在當今這個時代，當我們重視一個文明的力量不是因為它發動戰爭的能力，而是因為它的預防戰爭的能力。聰明才智只能帶我們更上一層樓。
+Rede Goddenberry, one of the wealthiest and most powerful people on Earth, addresses the UN General Assembly ","在當今這個時代，當我們重視一個文明的力量不是因為它發動戰爭的能力，而是因為它預防戰爭的能力時。只有我們的聰明才智和刻苦耐勞才能帶領我們更上一層樓。
 
 超脫於膚淺的隔離與內鬥，朝著星海邁進。朝著人類團結一致踏上其他星球，甚至到達其他恆星系的目標邁進。
 
@@ -7941,7 +7941,7 @@ Oxygen production is vital for the colony but the filter repair will take <durat
 
 氧氣生產對殖民地至關重要，但修復濾塵器需要<duration>小時。怎麼辦？",,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE.lua(00023),StoryBit BadMOXIE Text,,,,235394,,
 506079231667,Problematic MOXIE,氧氣生成裝置故障,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE.lua(00026),StoryBit BadMOXIE Title,,,,235394,,
-231334389170,You tap the red light on the terminal with your finger. It should have turned green when the Dust Storm dissipated. Looks like a MOXIE unit is out of order.,你用手指輕按終端上的紅燈。它本該在沙塵暴結束時變綠。看來一臺氧氣生成裝置出問題了。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE.lua(00028),,,narrator,narrator,235394,,
+231334389170,You tap the red light on the terminal with your finger. It should have turned green when the Dust Storm dissipated. Looks like a MOXIE unit is out of order.,你用手指輕按終端機上的紅燈。它本該在沙塵暴結束時變綠。看來一臺氧氣生成裝置出問題了。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE.lua(00028),,,narrator,narrator,235394,,
 651105259439,Let’s bypass the filter.,無視濾塵器。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE.lua(00041),StoryBit BadMOXIE Text,,,,235394,,
 901749272193,the MOXIE will start working immediately but will request maintenance more often,氧氣生成裝置將立刻開始運轉，但需要更頻繁的維護,the MOXIE will start to work immediately but will request maintenance more often,氧氣生成裝置將立刻開始運轉，但需要更頻繁的維護,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE.lua(00043),StoryBit BadMOXIE CustomOutcomeText,,,,238196,,
 239117513617,We can wait for the repairs.,我們可以等到修理完畢。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE.lua(00056),StoryBit BadMOXIE Text,,,,235394,,
@@ -7953,7 +7953,7 @@ Oxygen production is vital for the colony but the filter repair will take <durat
 It looks like a failure in one of our MOXIE units has highlighted a design flaw in the technology. We have to find a solution that works for all MOXIEs.","氧氣生成裝置用一種電解作用從二氧化碳中生產出氧氣。不過，此過程需要（對火星而言）相當高的溫度。
 
 似乎我們一臺氧氣生成裝置的故障揭示出了此技術設計上的缺陷。我們得想出適用於所有氧氣生成裝置的解決方案。",,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_ColdWave.lua(00020),StoryBit BadMOXIE_ColdWave Text,,,,235394,,
-728411744190,"As the frost outside settles, an urgent maintenance report flashes on your terminal. There’s a problem with a MOXIE unit.",外面開始結霜，有一條維護報告在你的終端上閃動。一臺氧氣生成裝置出了問題。,As the frost outside settles an urgent maintenance report flashes on your terminal. There’s a problem with a MOXIE unit.,外面開始結霜，有一條維護報告在你的終端上閃動。一臺氧氣生成裝置出了問題。,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_ColdWave.lua(00024),,,narrator,narrator,238196,,
+728411744190,"As the frost outside settles, an urgent maintenance report flashes on your terminal. There’s a problem with a MOXIE unit.",外面開始結霜，有一條緊急維護報告從你的終端機上閃過。一臺氧氣生成裝置出了問題。,As the frost outside settles an urgent maintenance report flashes on your terminal. There’s a problem with a MOXIE unit.,外面開始結霜，有一條緊急維護報告從你的終端機上閃過。一臺氧氣生成裝置出了問題。,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_ColdWave.lua(00024),,,narrator,narrator,238196,,
 899944302275,Install additional heaters.,安裝額外的加熱器。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_ColdWave.lua(00036),StoryBit BadMOXIE_ColdWave Text,,,,235394,,
 637039960544,MOXIEs power consumption increased by <power(increased_consumption)>,氧氣生成裝置電力消耗提升<power(increased_consumption)>,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_ColdWave.lua(00038),StoryBit BadMOXIE_ColdWave CustomOutcomeText,,,,235394,,
 879385110893,Improve the insulation of the MOXIEs.,改良氧氣生成裝置的隔熱。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_ColdWave.lua(00058),StoryBit BadMOXIE_ColdWave Text,,,,235394,,
@@ -7961,7 +7961,7 @@ It looks like a failure in one of our MOXIE units has highlighted a design flaw 
 570399353506,Leave the MOXIEs as they are.,不對氧氣生成裝置採取任何措施。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_ColdWave.lua(00089),StoryBit BadMOXIE_ColdWave Text,,,,235394,,
 982145860164,MOXIEs will require maintenance more often,氧氣生成裝置將需要更頻繁的維護,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_ColdWave.lua(00091),StoryBit BadMOXIE_ColdWave CustomOutcomeText,,,,235394,,
 164476060825,"Once again, a MOXIE unit has shut down and stopped producing Oxygen. Drones report that many of the internal parts of the MOXIE have suffered structural damage much earlier than expected.",一臺氧氣生成裝置又失靈且不再產生氧氣了。無人機報告指出該氧氣生成裝置很多內部零件的結構受損，而這種情況我們原本預計要到很久之後才會出現。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_SecondTime.lua(00018),StoryBit BadMOXIE_SecondTime Text,,,,235394,,
-536896361272,A yellow light starts flashing on your terminal. Sure enough it is one of those damned MOXIE units again.,你終端上一盞黃燈開始閃爍。肯定又有氧氣生成裝置受損了。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_SecondTime.lua(00021),,,narrator,narrator,235394,,
+536896361272,A yellow light starts flashing on your terminal. Sure enough it is one of those damned MOXIE units again.,你終端機上的黃燈開始閃爍。肯定又有氧氣生成裝置受損了。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_SecondTime.lua(00021),,,narrator,narrator,235394,,
 335704931889,Reinforce the failing parts.,加固受損的零件。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_SecondTime.lua(00038),StoryBit BadMOXIE_SecondTime Text,,,,235394,,
 411896115173,"MOXIE cost increased by <metals(cost_increase)>, existing MOXIEs will need emergency maintenance",氧氣生成裝置造價提高<metals(cost_increase)>，現有氧氣生成裝置將需要緊急維護,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_SecondTime.lua(00040),StoryBit BadMOXIE_SecondTime CustomOutcomeText,,,,235394,,
 573967371988,Reduce the pressure in the system.,降低系統中的壓力。,,,OK,,,,,Trunk\Mars/Data/StoryBit/BadMOXIE_SecondTime.lua(00068),StoryBit BadMOXIE_SecondTime Text,,,,235394,,
@@ -8417,7 +8417,7 @@ You read the title of the project again. Interesting...","根據檔案裡的內�
 473822641251,Dream Reality.,夢想現實。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost5_LeapForward.lua(00073),StoryBit Boost5_LeapForward Text,,,,242226,,
 407459351494,reveals the tech enabling the Wonder Project Morpheus,"解鎖奇觀""莫菲斯計劃""所需的技術",,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost5_LeapForward.lua(00075),StoryBit Boost5_LeapForward CustomOutcomeText,,,,242226,,
 943333178414,Micro Fusion.,微聚變。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost5_LeapForward.lua(00092),StoryBit Boost5_LeapForward Text,,,,242226,,
-826549039619,reveals the tech enabling the Wonder Artificial Sun,"解鎖奇觀""人工太陽""所需的技術",,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost5_LeapForward.lua(00094),StoryBit Boost5_LeapForward CustomOutcomeText,,,,242226,,
+826549039619,reveals the tech enabling the Wonder Artificial Sun,"解鎖奇觀""人造太陽""所需的技術",,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost5_LeapForward.lua(00094),StoryBit Boost5_LeapForward CustomOutcomeText,,,,242226,,
 612362415360,"“Commander, we have an offer for you. Recently our organization has run into severe problems with one of our more delicate projects. We want you to take care of it.”
 
 All in all, the mysterious man wants you to shelter a number of Clone applicants in your project, no questions asked, no answers given.","“指揮官，我們有件事希望你能幫忙。最近，我們的組織在進行某個更加精細的計劃時遇到了嚴重的問題。我們希望你能幫忙解決。”
@@ -8761,7 +8761,7 @@ Our medical staff strongly recommends that we discharge those affected with the 
 
 <effect><morale_penalty>士氣，持續<sols(morale_penalty_duration)>個太陽日",,,OK,,,,,Trunk\Mars/Data/StoryBit/DustSickness_Deaths.lua(00016),StoryBit DustSickness_Deaths Text,,,,234708,,
 910476648346,The mood at the wake is somber and you can’t escape the accusatory looks from some colonists. The Dust Sickness has claimed another life.,事件過後，人們心情低落，一些殖民地居民向你投來了職責的目光。又有一名沙塵病患者去世了。,,,OK,,,,,Trunk\Mars/Data/StoryBit/DustSickness_Deaths.lua(00020),,,narrator,narrator,234708,,
-879798410528,We are all grieving for our lost comrades.,我們都在為過世的同志哀悼。,,,OK,,,,,Trunk\Mars/Data/StoryBit/DustSickness_Deaths.lua(00036),StoryBit DustSickness_Deaths Text,,,,234708,,
+879798410528,We are all grieving for our lost comrades.,我們都在為過世的同伴哀悼。,,,OK,,,,,Trunk\Mars/Data/StoryBit/DustSickness_Deaths.lua(00036),StoryBit DustSickness_Deaths Text,,,,234708,,
 645207227486,A sad day but we have to look to the future.,這是悲傷的一天，但我們必須向前看。,,,OK,,,,,Trunk\Mars/Data/StoryBit/DustSickness_Deaths.lua(00039),StoryBit DustSickness_Deaths Text,,,,234708,,
 380323562379,I will make sure that no colonists will ever suffer the same fate!,我保證不會再有人遭受同樣的命運！,,,OK,,,,,Trunk\Mars/Data/StoryBit/DustSickness_Deaths.lua(00042),StoryBit DustSickness_Deaths Text,,,,235394,,
 287549493472,Morale penalty reduced to <lower_morale_penalty>,士氣減益降低至<lower_morale_penalty>,,,OK,,,,,Trunk\Mars/Data/StoryBit/DustSickness_Deaths.lua(00044),StoryBit DustSickness_Deaths CustomOutcomeText,,,,235394,,
@@ -9348,7 +9348,7 @@ DreamWeb's success enabled us with the opportunity to build a grand project base
 
 Judging by the 24 karat smile they sported when leaving the Casino, it's safe to say that our budding Martian tourism hit the jackpot as well.
 
-<effect><tourists> Tourists have been added in the Applicant pool.","更妙的是，<DisplayName>居然是個知名視訊部落格主。
+<effect><tourists> Tourists have been added in the Applicant pool.","更妙的是，<DisplayName>居然是個知名影像部落客。
 
 從他們離開賭場時臉上掛著的“24K純金”笑容判斷，可以大膽地說我們發展剛剛起步的火星旅遊業也中大獎了。
 
@@ -9494,7 +9494,7 @@ Note: All effects will last until the end of the Cold Wave.","這場該死的寒
 
 ""I just need some more special bits. The nabblygarbling generator would soon be ready and I can finally gather all the scubblydubs! Here’s the list! Now, go, go, and bring them to me, quickly!""
 
-A list of complex electronic components and machine parts follows.","幾小時後，困惑的天才<DisplayName>給你發來了視訊消息：
+A list of complex electronic components and machine parts follows.","幾小時後，困惑的天才<DisplayName>給你傳來了影像訊息：
 
 “我還需要一些特殊碎片。玄學產生器很快就能準備就緒，到時候我就終於能集齊所有救非物質了！這是清單！快去把東西給我弄來！”
 
@@ -9658,7 +9658,7 @@ Effect: <DisplayName> has become a Genius","這幅作品令同行們佩服得五
 670755450579,"As the repairs are completed, our Rover’s lights and telemetry spring to life.",隨著修復的完成，探測車的車燈以及遙測恢復了正常。,,,OK,,,,,Trunk\Mars/Data/StoryBit/MissingRover_5_Repaired.lua(00019),,,narrator,narrator,234708,,
 926491438625,"""I want you to have something nice. Here’s the menu. No need to worry about the cost, okay?""
 
-<if(is_commander(""psychologist""))>[<commander_profile>] This is a classic case of personality disorder. He needs my help.</if>","“希望你吃頓好的。這是選單。錢什麼的不用你操心，明白了嗎？”
+<if(is_commander(""psychologist""))>[<commander_profile>] This is a classic case of personality disorder. He needs my help.</if>","“希望你吃頓好的。這是菜單。錢什麼的不用你操心，明白了嗎？”
 
 <if(is_commander(""psychologist""))>[<commander_profile>]這是人格障礙的典型案例。他需要我的幫助。</if>",,,OK,,,,,Trunk\Mars/Data/StoryBit/MorningStar.lua(00019),StoryBit MorningStar Text,,,,238668,,
 523495728078,Morning Star,晨星,,,OK,,,,,Trunk\Mars/Data/StoryBit/MorningStar.lua(00022),StoryBit MorningStar Title,,,,234062,,
@@ -9961,7 +9961,7 @@ As you come closer, the crowd turns towards you.","你趕到現場時正好看�
 373007909943,Home Collective tech research cost is reduced,集合式住宅技術研究消耗降低,,,OK,,,,,Trunk\Mars/Data/StoryBit/PersonalSpace.lua(00139),StoryBit PersonalSpace CustomOutcomeText,,,,235394,,
 726992247519,Stress on one of our power networks is causing a massive power surge. There’s a serious threat of overloading the entire network if we don’t do something quickly.,我們一處電網的壓力引發了巨大的電壓突波。如果我們不趕快採取行動，整個電網都有超載的危險。,,,OK,,,,,Trunk\Mars/Data/StoryBit/PowerSurge.lua(00049),StoryBit PowerSurge Text,,,,234333,,
 942882055765,Power Surge,電壓突波,,,OK,,,,,Trunk\Mars/Data/StoryBit/PowerSurge.lua(00052),StoryBit PowerSurge Title,,,,234708,,
-424202355279,A number of red lights go off as sparks start flying from the terminal that monitors our power networks.,監控電網的終端冒出火花，若干紅燈熄滅。,,,OK,,,,,Trunk\Mars/Data/StoryBit/PowerSurge.lua(00053),,,narrator,narrator,234333,,
+424202355279,A number of red lights go off as sparks start flying from the terminal that monitors our power networks.,監控電網的終端機冒出火花，若干紅燈熄滅。,,,OK,,,,,Trunk\Mars/Data/StoryBit/PowerSurge.lua(00053),,,narrator,narrator,234333,,
 215331417381,Shut down <number_of_buildings> power producers for <sols(shutdown_duration)> Sols!,將<number_of_buildings>座發電建築關閉<sols(shutdown_duration)>太陽日！,,,OK,,,,,Trunk\Mars/Data/StoryBit/PowerSurge.lua(00073),StoryBit PowerSurge Text,,,,234708,,
 648548815711,Reroute power to Batteries!,讓電力流向電池！,,,OK,,,,,Trunk\Mars/Data/StoryBit/PowerSurge.lua(00102),StoryBit PowerSurge Text,,,,235394,,
 617341107964,some Batteries may explode,有些電池可能會爆炸,,,OK,,,,,Trunk\Mars/Data/StoryBit/PowerSurge.lua(00104),StoryBit PowerSurge CustomOutcomeText,,,,235394,,
@@ -10479,11 +10479,11 @@ The video abruptly ends there.
 
 A team of investigators is sent immediately and they found the following: the lifeless body of <DisplayName>, next to a pipe leak. Cause of death - the premature explosion of some poorly made explosive device.","“如果你不想看到殖民地居民無水可喝，就照我說的做！首先，我要一枚火箭！然後，我需要5億美元……”
 
-這時視訊突然中斷。
+這時影像突然中斷。
 
 一隊調查人員立刻奉命出動，並取得了以下發現：在一處管道洩漏地點旁躺著<DisplayName>的屍體。死因：某種劣質的爆炸裝置過早爆炸。",,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIdiotMobster.lua(00034),StoryBit TheIdiotMobster Text,,,,238196,,
 630508737382,Renegades: Darwin Nominee,叛徒：達爾文候選人,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIdiotMobster.lua(00037),StoryBit TheIdiotMobster Title,,,,235394,,
-383800392456,You receive a video message:,你接收到了一則視訊消息。,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIdiotMobster.lua(00038),,,narrator,narrator,235024,,
+383800392456,You receive a video message:,你接收到了一則影像訊息。,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIdiotMobster.lua(00038),,,narrator,narrator,235024,,
 601436842622,Carry on...,繼續忙吧……,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIdiotMobster.lua(00050),StoryBit TheIdiotMobster Text,,,,235024,,
 496403163205,"There’s a potential breach in our Fusion Reactor. If the magnetic confinement fails, we may be sitting on a fusion bomb. Theoretically, the fail-safes should contain the explosion within the vicinity of the reactor.
 
@@ -10491,7 +10491,7 @@ The workers have a chance to evacuate. However, several of them have volunteered
 
 工人有機會撤離。不過，幾名工人自願從內部封住破損。",,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident.lua(00030),StoryBit TheIncident Text,,,,234708,,
 975591644532,The Incident,反應爐事件,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident.lua(00033),StoryBit TheIncident Title,,,,234062,,
-973682140790,"An Engineer moves to compensate the tiny misalignment in the magnetic confinement caused by the Dust Storm. Suddenly, a siren starts to wail as red lights cover the terminal.",工程師開始修正沙塵暴引起的微小磁約束偏差。突然，警報聲響起，終端上亮起一片紅燈。,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident.lua(00035),,,narrator,narrator,234708,,
+973682140790,"An Engineer moves to compensate the tiny misalignment in the magnetic confinement caused by the Dust Storm. Suddenly, a siren starts to wail as red lights cover the terminal.",工程師開始修正沙塵暴引起的微小磁約束偏差。突然，警報聲響起，終端機上亮起一片紅燈。,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident.lua(00035),,,narrator,narrator,234708,,
 392904520586,Allow the volunteers to try to stop the meltdown,允許志願者設法阻止核心熔燬,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident.lua(00039),StoryBit TheIncident Text,,,,235394,,
 187767337180,high chance of success; the workers will perish,高幾率成功，工人將死亡,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident.lua(00041),StoryBit TheIncident CustomOutcomeText,,,,235394,,
 860256808258,"The magnetic containment has failed but our brave Colonists managed to contain the meltdown to the Fusion Reactor. That comes at a great cost, as all the workers gave their lives to save us.
@@ -10543,7 +10543,7 @@ Some Colonists are unhappy with this findings and remain skeptical about fusion 
 部分殖民地居民對此發現表示不滿，且對聚變發電依然持懷疑態度。
 
 <effect>可再次建造核融合反應爐。",,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident_4_TechResearched.lua(00025),StoryBit TheIncident_4_TechResearched Text,,,,234708,,
-506461182049,All public terminal broadcast as the head of the investigation team reads the report findings out loud. Human error.,調查隊大聲閱讀報告中的發現，並由所有公共終端進行實況直播。人為失誤。,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident_4_TechResearched.lua(00029),,,narrator,narrator,234708,,
+506461182049,All public terminal broadcast as the head of the investigation team reads the report findings out loud. Human error.,調查隊大聲閱讀報告中的發現，並由所有公用終端機進行廣播。人為失誤。,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident_4_TechResearched.lua(00029),,,narrator,narrator,234708,,
 355216690253,Close,關閉,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident_4_TechResearched.lua(00033),StoryBit TheIncident_4_TechResearched Text,,,,234096,,
 631045983210,The memory of the incident with the Fusion Reactor is still fresh in the minds of some colonists. Fusion sceptics are against any new Fusion Reactors being built and demand that you take decisive action on the matter.,一部分殖民地居民對核融合反應爐事件記憶猶新。對核融合持懷疑態度者反對建造任何新的核融合反應爐，並要求你在這件事上果斷地作出決定。,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident_5_Sceptics.lua(00017),StoryBit TheIncident_5_Sceptics Text,,,,234708,,
 589142472904,Remember The Incident ,記住反應爐事件 ,,,OK,,,,,Trunk\Mars/Data/StoryBit/TheIncident_5_Sceptics.lua(00020),StoryBit TheIncident_5_Sceptics Title,,,,234096,,
@@ -10649,7 +10649,7 @@ Yours sincerely, <DisplayName>""
 
 ""I can’t take it anymore! Machines! Machines! Only bloody, senseless, soulless machines! I will destroy them! ALL OF THEM!""
 
-Then, all of a sudden, the red alert lights flash! <DisplayName> has set the building to self-destruct!","憤怒的殖民地居民從建築物內傳出一段視訊，視訊中此人怒吼道：
+Then, all of a sudden, the red alert lights flash! <DisplayName> has set the building to self-destruct!","憤怒的殖民地居民從建築物內傳出一段影像，影像中此人怒吼道：
 
 “我再也受不了了！機器！機器！只有無知覺無靈魂的可惡機器！我要毀了它們！全部摧毀！”
 
@@ -10921,7 +10921,7 @@ This could have a disastrous effect on the reputation of anyone in these days, e
 
 “這就是你們想要的嗎？來吧，看個夠吧！”
 
-這種事會對一個人的名聲產生災難性後果，尤其是當有人把視訊上傳到網上時。我們即將向地球進行下一次資料傳送，意味著視訊即將被上傳到網上。",,,OK,,,,,Trunk\Mars/Data/StoryBit/VagranciesOfFame.lua(00021),StoryBit VagranciesOfFame Text,,,,235394,,
+這種事會對一個人的名聲產生災難性後果，尤其是當有人把影片上傳到網路上時。我們即將向地球進行下一次資料傳送，意味著影片即將被上傳到網路上。",,,OK,,,,,Trunk\Mars/Data/StoryBit/VagranciesOfFame.lua(00021),StoryBit VagranciesOfFame Text,,,,235394,,
 444314383348,Sanity Breakdown - Vagrancies of Fame,理智崩潰 - 名譽掃地,,,OK,,,,,Trunk\Mars/Data/StoryBit/VagranciesOfFame.lua(00024),StoryBit VagranciesOfFame Title,,,,235394,,
 954587907189,A well-known Celebrity has lost it and is now making a shameful display around the Dome. The Colonists are in shock and don’t know how to react!,一位名人發了瘋，現正在穹頂內到處丟人現眼。殖民地居民們都嚇呆了，不知如何是好。,,,OK,,,,,Trunk\Mars/Data/StoryBit/VagranciesOfFame.lua(00026),,,narrator,narrator,234708,,
 827433522948,Ban the upload.,禁止上傳。,,,OK,,,,,Trunk\Mars/Data/StoryBit/VagranciesOfFame.lua(00038),StoryBit VagranciesOfFame Text,,,,234708,,
@@ -11054,7 +11054,7 @@ The water chip is quite complex and it will take us <sols(base_time_to_fix)> Sol
 
 水控晶片十分複雜，我們在火星上要花<sols(base_time_to_fix)>個太陽日才能製作出來。另外，我們也可以從地球再進口一枚。",,,OK,,,,,Trunk\Mars/Data/StoryBit/WaterChip.lua(00039),StoryBit WaterChip Text,,,,235779,,
 648156407702,Water Chip,水控晶片,,,OK,,,,,Trunk\Mars/Data/StoryBit/WaterChip.lua(00042),StoryBit WaterChip Title,,,,234333,,
-958368945245,"The terminal softly beeps, indicating that the water chip for one of our Domes has failed.",終端發出微弱的嗶嗶聲，提示我們一座穹頂的水控晶片已經失靈。,,,OK,,,,,Trunk\Mars/Data/StoryBit/WaterChip.lua(00043),,,narrator,narrator,234708,,
+958368945245,"The terminal softly beeps, indicating that the water chip for one of our Domes has failed.",終端機發出微弱的嗶嗶聲，提示我們一座穹頂的水控晶片已經失靈。,,,OK,,,,,Trunk\Mars/Data/StoryBit/WaterChip.lua(00043),,,narrator,narrator,234708,,
 691139803107,Import Water Chip from Earth.,從地球進口水控晶片。,,,OK,,,,,Trunk\Mars/Data/StoryBit/WaterChip.lua(00063),StoryBit WaterChip Text,,,,235394,,
 526125635228,It should arrive in <sols(short_time)> Sols and will cost us <funding(funding_cost)>,應該能在<sols(short_time)>個太陽日後到達，價格為<funding(funding_cost)>,,,OK,,,,,Trunk\Mars/Data/StoryBit/WaterChip.lua(00065),StoryBit WaterChip CustomOutcomeText,,,,235394,,
 936678147521,We can build a temporary filtration device.,我們可以建造一個臨時過濾裝置。,,,OK,,,,,Trunk\Mars/Data/StoryBit/WaterChip.lua(00085),StoryBit WaterChip Text,,,,235394,,
@@ -11486,7 +11486,7 @@ The kid's parents held an impromptu wake for the fallen hero.","我們設法在�
 6591,Frictionless Composites,無阻力複合材料,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(00472),TechPreset FrictionlessComposites display_name,,,,221758,,
 10511,"<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Low-G Lab, </if>Research Lab & Hawking Institute Upgrade (<em>Zero-Space Computing</em>) - Research points production increased.
 
-<grey>Thinking outside the box, Martian mathematicians have begun developing a new mathematical apparatus which will open the doors to new scientific models and theories.</grey>","研究點數與霍金研究院升級（<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>零維空間計算</if>）- 研究點數產量提高。<em></em>
+<grey>Thinking outside the box, Martian mathematicians have begun developing a new mathematical apparatus which will open the doors to new scientific models and theories.</grey>","研究點數與霍金研究所升級（<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>零維空間計算</if>）- 研究點數產量提高。<em></em>
 
 <grey>火星數學家擺脫了常規思想的束縛，發展出了一項全新的數學工具，為新的科學模型與新的科學理論打開了大門。</grey>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(00487),TechPreset ZeroSpaceComputing description,,,,232789,,
 5232,Zero-Space Computing,零維空間計算,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(00488),TechPreset ZeroSpaceComputing display_name,,,,232789,,
@@ -12107,7 +12107,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 10514,"<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>Low-G Lab, </if> Research Lab, Hawking Institute & Network Node Upgrade (<em>Amplify</em>) - Increases production by <param1>% but also increases Power consumption.
 
 <grey>""Your best and wisest refuge from all troubles is in your science.""
-<right>Ada Lovelace</grey><left>","<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>低重力實驗室、</if>研究實驗室、霍金研究院與網路節點升級（<em>增幅</em>）- 增加<param1>%產量，但同時增加電力消耗。
+<right>Ada Lovelace</grey><left>","<if_all(has_dlc('gagarin'),is_sponsor('ESA'))>低重力實驗室、</if>研究實驗室、霍金研究所與網路節點升級（<em>增幅</em>）- 增加<param1>%產量，但同時增加電力消耗。
 
 <grey>“你最好且最明智的庇護所是科學。”
 <right>阿達·洛芙萊斯</grey><left>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02357),TechPreset ResearchAmplification description,,,,246126,,
@@ -12122,7 +12122,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6472,Fusion Autoregulation,核融合自動調節,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02382),TechPreset FusionAutoregulation display_name,,,,221758,,
 6477,"Wonder: <em>Artificial Sun</em> (<buildinginfo('ArtificialSun')>) - Produces colossal amounts of Power. It provides light for nearby Solar Panels during the dark hours and heats the surrounding area. Consumes vast amounts of Water on startup.
 
-<grey>Unlocking the secrets of the stars is now within the grasp of humanity.</grey>","奇觀：<em>人工太陽</em>（<buildinginfo('ArtificialSun')>）- 可以提供鉅額電力。它可以在夜間為外圍太陽能板提供光源，並加熱周邊區域。啟動時會消耗鉅額水資源。
+<grey>Unlocking the secrets of the stars is now within the grasp of humanity.</grey>","奇觀：<em>人造太陽</em>（<buildinginfo('ArtificialSun')>）- 可以提供鉅額電力。它可以在夜間為外圍太陽能板提供光源，並加熱周邊區域。啟動時會消耗鉅額水資源。
 
 <grey>如今，人類已經掌握了行星執行的祕密。</grey>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02394),TechPreset MicroFusion description,,,,226204,,
 6476,Micro Fusion,微聚變,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02395),TechPreset MicroFusion display_name,,,,221758,,
@@ -12240,7 +12240,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 6433,"New Spire Building: <em>Network Node</em> (<buildinginfo('NetworkNode')>) - increases the research output of all Research Labs and Hawking Institutes in the Dome.<if_all(has_dlc('kerwin'))>
 Hospital Upgrade (<em>Remote Medic</em>) upgrade - decreases the total work slots. </if>
 
-<grey>Rapid transfer of information and an easier access to it could speed up research several times-fold.</grey>","新尖塔建築：<em>網路節點</em> (<buildinginfo('NetworkNode')>) - 提高穹頂內所有研究實驗室和霍金研究院的科研點數產出。<if_all(has_dlc('kerwin'))>
+<grey>Rapid transfer of information and an easier access to it could speed up research several times-fold.</grey>","新尖塔建築：<em>網路節點</em> (<buildinginfo('NetworkNode')>) - 提高穹頂內所有研究實驗室和霍金研究所的科研點數產出。<if_all(has_dlc('kerwin'))>
 醫院升級 (<em>遠端醫療</em>)  - 降低工作崗位總數。</if>
 
 <grey>資訊的快速傳輸和易獲取性能夠成倍加快研發速度。</grey>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02828),TechPreset TheMartianNetwork description,,,,1001307,,
@@ -12346,7 +12346,7 @@ New Building: <em>Hospital</em> (<buildinginfo('HospitalCCP1')>) - A larger, mor
 6503,"New Building: <em>Hawking Institute</em> (<buildinginfo('ScienceInstitute')>) - Generates Research faster than a Research Lab.
 
 <grey>""Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious."" 
-<right>Stephen Hawking</grey><left>","新建築：<em>霍金研究院</em>（<buildinginfo('ScienceInstitute')>）- 產出研究點數，比普通的研究實驗室速度更快。
+<right>Stephen Hawking</grey><left>","新建築：<em>霍金研究所</em>（<buildinginfo('ScienceInstitute')>）- 產出研究點數，比普通的研究實驗室速度更快。
 
 <grey>“仰望星空，而不要俯視腳下。試圖發現眼前事物的合理性，去猜想到底宇宙存在的意義。永遠保持好奇心。”
 <right>史蒂芬·霍金</grey><left>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(03058),TechPreset MartianInstituteOfScience description,,,,228384,,
@@ -14177,7 +14177,7 @@ Damn scientists and their sense of humor. Under what name would you announce the
 
 <effect>Mars has gained <resource(terr_veg,'VegetationTP')>.","土地改造專家把你帶到了實驗室的大型水族館處。“快看，指揮官！”你看到了一個像褐色大罐子一樣的東西，罐子幾乎有你的一半高，上面還有個寬闊的開口。你退了一步，體內流過某種似曾相識的感覺。你甚至已經感覺到，好像有什麼東西要從裡面爬出來，從玻璃上面跳出來一樣。當然，這不過是人畜無害的海綿動物而已，它可以在火星的海水中生活。
 
-“我們還給它起了個名字，”你的顧問笑著對你說，它叫“諾史莫號”。
+“我們還給它取了個名字，”你的顧問笑著對你說，它叫“諾史莫號”。
 
 這些煩人的科學家，連開玩笑都開得這麼煩人。既然你準備在火星上繁殖這種生物，你準備給它起個什麼名字呢？
 
@@ -14702,13 +14702,13 @@ New Building: <em>Forestation Plant</em> (<buildinginfo('ForestationPlant')>) - 
 <right>John Steinbeck</grey><left>","當<em>遊客</em>返回地球時，額外支付<param1>%的資金。獲得<em><param2>遊客應徵者</em>。
 
 <grey>“不是人在旅途，而是旅途載人。”
-<right>約翰·斯坦貝克</grey><left>","<em>Tourists</em> pay <param1>% more Funding to come to Mars. Receive <em><param2> Tourist applicants</em>.
+<right>約翰·史坦貝克</grey><left>","<em>Tourists</em> pay <param1>% more Funding to come to Mars. Receive <em><param2> Tourist applicants</em>.
 
 <grey>""People don’t take trips, trips take people."" 
 <right>John Steinbeck</grey><left>","<em>遊客</em>為前往火星而支付的資金增加<param1>%。獲得<em><param2>遊客應徵者</em>。
 
 <grey>""不是人在旅途，而是旅途載人。""
-<right>約翰- 斯坦貝克</grey><left>",OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/TechPreset.lua(00406),TechPreset TeraTourism description,,,,1001525,,
+<right>約翰- 史坦貝克</grey><left>",OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/TechPreset.lua(00406),TechPreset TeraTourism description,,,,1001525,,
 11930,Terra Tourism,地外旅遊,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/TechPreset.lua(00407),TechPreset TeraTourism display_name,,,,242226,,
 727160625163,"New Building: <em>Open Farm</em> (<buildinginfo('OpenFarm')>) - plants edible crops at the cost of Seeds. Fully-grown plants are harvested for Food by Drones.
 
@@ -15249,7 +15249,7 @@ Metatron doesn’t care if we want to be tested. It has simply come to announce 
 
 <effect>Ion Storm Clouds target your colony and disable all out-dome buildings in their radius. Colonists and in-dome buildings are unaffected.
 
-<hint>Create redundant systems to circumvent the Ion Storm Clouds.","梅塔特隆對我們進行了評估，決定以最困難的逆境來考驗我們。離子風暴將會像一場災難一樣降臨在我們的殖民地上。屆時，我們將會失去我們最重要的力量 - 我們賴以生存的技術與機器。
+<hint>Create redundant systems to circumvent the Ion Storm Clouds.","梅塔特隆對我們進行了評估，決定以最困難的逆境來考驗我們。離子風暴將會像一場災難一樣降臨在我們的殖民地上。屆時，我們將會失去我們最重要的力量 - 我們賴以為生的技術與機器。
 
 “適應吧，發展吧，進化吧。”它是這麼說的。
 
@@ -16204,7 +16204,7 @@ Rare Metals price: $<ExportPricePreciousMetals> M
 471852857299,"Oh, it's you, my friend! I'm glad to see you on screen. How is everything going?",是你啊，朋友！很高興在螢幕上看到你。近況如何啊？,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Negotiation/Greeting_Good_2.lua(00011),Negotiation Greeting_Good_2 Text,,,,236547,,
 184746956165,"I used to be an astrogeologist like you, but then I took an asteroid in the sensor tower.",我以前和你一樣也是個天文地質學家，直到我的感應塔中了一顆小行星。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Negotiation/Greeting_Good_Astrogeologist.lua(00014),Negotiation Greeting_Good_Astrogeologist Text,,,,236547,,
 153334256532,Hello there!,你好！,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Negotiation/Greeting_Good_BlueSun.lua(00014),Negotiation Greeting_Good_BlueSun Text,,,,236547,,
-329832476748,"Ni hao, comrade, let's go party... There's no party like our party!",你好，同志，我們去開派對吧……我們的派對獨一無二！,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Negotiation/Greeting_Good_China.lua(00014),Negotiation Greeting_Good_China Text,,,,236547,,
+329832476748,"Ni hao, comrade, let's go party... There's no party like our party!",你好，夥伴，我們去開派對吧……我們的派對獨一無二！,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Negotiation/Greeting_Good_China.lua(00014),Negotiation Greeting_Good_China Text,,,,236547,,
 746762559551,"Hello, Commander! I see you're player too!",你好，指揮官！看來你也是個玩家啊！,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Negotiation/Greeting_Good_Paradox.lua(00014),Negotiation Greeting_Good_Paradox Text,,,,236547,,
 633004457555,"Good morning, Commander! You know, I had a weird dream again last night... Do you think it may be related to a childhood trauma?",早上好，指揮官！我知道，我昨晚做了個詭異的夢……你覺得這會不會和童年創傷有關呢？,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Negotiation/Greeting_Good_Psychologist.lua(00014),Negotiation Greeting_Good_Psychologist Text,,,,236547,,
 494684100006,"Hello, Commander. Which one is harder – running a colony or rocket science? You seem to have talent for both.",你好，指揮官。經營殖民地與火箭科學哪個更難？你似乎在這兩方面都很有才華。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Negotiation/Greeting_Good_RocketScientist.lua(00014),Negotiation Greeting_Good_RocketScientist Text,,,,236547,,
@@ -16682,7 +16682,7 @@ What is your response to this provocation?","原來，來自<DisplayName>的包�
 292689213195,gain <standing_gain_high> Standing with <DisplayName>; a few Colonists lose Morale,與<DisplayName>的聲望提高<standing_gain_high>，少量居民士氣下降,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/BadJoke.lua(00132),StoryBit BadJoke CustomOutcomeText,,,,239549,,
 337391706448,"Because the time frame in which the accidents happened was rather small, the ensuing quick investigation found software corruption in all of the involved Drones - corruption our engineers say can only happen if their system was hacked.
 
-Although an obvious act of sabotage, we can't prove who is to blame precisely. What we can do is raise the issue to Earthly judicial bodies - which will probably hinder all of our rival's (not just the guilty one's) operations for a short while.","由於事故的時間段非常短，經過快速調查，檢查人員發現所有發生事故的無人機都出現了軟體損壞的情況。根據工程師的說法，只有系統遭到了黑客入侵，才會出現這樣的損壞。
+Although an obvious act of sabotage, we can't prove who is to blame precisely. What we can do is raise the issue to Earthly judicial bodies - which will probably hinder all of our rival's (not just the guilty one's) operations for a short while.","由於事故的時間段非常短，經過快速調查，檢查人員發現所有發生事故的無人機都出現了軟體損壞的情況。根據工程師的說法，只有系統遭到了駭客入侵，才會出現這樣的損壞。
 
 儘管這明顯屬於破壞行為，但我們卻無法指出究竟是什麼人做了這樣的事情。我們能做的事情，只有將這場事故報告給地球上的司法機構。這樣一來，我們所有的對手（不僅僅是犯罪者）的發展速度可能都會減緩一段時間。",,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/ColdMachines.lua(00038),StoryBit ColdMachines Text,,,,240487,,
 351319490417,Cold Machines,冷冰冰的機器,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/ColdMachines.lua(00041),StoryBit ColdMachines Title,,,,239610,,
@@ -16696,14 +16696,14 @@ While looking for a system weakness, our hackers stumbled upon very salacious in
 
 Sharing the information will also make it quite hard to deny running spies on Mars on our part.","他們推斷，恐怕用不了多久，這個漏洞就會被修復。因此，他們在系統內植入了木馬，可以監視對方的系統，同時阻止對方的操作。
 
-在尋找系統漏洞的過程中，我們的黑客偶然發現了非常淫穢的視訊。如果這樣的視訊流出去，肯定會對<DisplayName>的公關產生巨大的影響。
+在尋找系統漏洞的過程中，我們的駭客偶然發現了非常淫穢的影片。如果這樣的影片流出去，肯定會對<DisplayName>的公關產生巨大的影響。
 
-不過，如果把這樣的視訊發出去，我們的間諜行為幾乎也一定會被發現。",,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00024),StoryBit CyberWar Text,,,,240619,,
+不過，如果把這樣的影片發出去，我們的間諜行為幾乎也一定會被發現。",,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00024),StoryBit CyberWar Text,,,,240619,,
 441765424474,Cyber War,網路大戰,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00027),StoryBit CyberWar Title,,,,239549,,
 787024356319,Our cyber security team has taken advantage of a gaping hole within one of our rivals’ network defenses.,我們的網路安全團隊發現，某位競爭對手的網路防禦系統存在漏洞。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00028),,,narrator,narrator,239549,,
 566586895851,"No need, just hinder their production. ",沒必要，只要干擾他們的生產工作就行了。 ,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00037),StoryBit CyberWar Text,,,,239549,,
 648522331515,rival loses resources,對手失去資源,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00039),StoryBit CyberWar CustomOutcomeText,,,,239549,,
-878953405646,Share the story with Earth.,在地球上分享這段視訊。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00062),StoryBit CyberWar Text,,,,239549,,
+878953405646,Share the story with Earth.,在地球上分享這段影片。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00062),StoryBit CyberWar Text,,,,239549,,
 725295209601,"rival loses colonists and money, we lose standing with all rivals",對手失去居民與金錢，我們在所有對手中的聲望下降,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00064),StoryBit CyberWar CustomOutcomeText,,,,240619,,
 725844682183,Warn them – this could be embarrassing for us all.,警告他們，他們的行為可能會讓我們所有人都身處困境。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00087),StoryBit CyberWar Text,,,,239549,,
 182958779404,gain standing with <DisplayName>,在<DisplayName>處的聲望升高,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/CyberWar.lua(00089),StoryBit CyberWar CustomOutcomeText,,,,240487,,
@@ -16944,13 +16944,13 @@ One thing is certain: such ambitious goal cannot be accomplished in the next few
 
 Others are meant to agitate the same Medics and Scientists, with some clips claiming that many of the unpopular decisions the leadership of the colony has made are because of pressure put on by the factory workers.
  
-Until we get all our firewalls running again, we can block only a few of the channels. Some will have to remain online for a short duration during which they can and will be watched by many colonists.","有些視訊的煽動物件的是工廠和挖掘站的工人，聲稱殖民地裡有一種精英文化令科學家、醫生這類團體享受特權。
+Until we get all our firewalls running again, we can block only a few of the channels. Some will have to remain online for a short duration during which they can and will be watched by many colonists.","有些影片的煽動對象的是工廠和挖掘站的工人，聲稱殖民地裡有一種精英文化令科學家、醫生這類團體享受特權。
 
-還有一些的煽動物件卻是剛剛提到的那些醫生和科學家，聲稱殖民地領袖是因為遭到工廠工人的施壓才做出了很多不得人心的決定。
+還有一些的煽動對象卻是剛剛提到的那些醫生和科學家，聲稱殖民地領袖是因為遭到工廠工人的施壓才做出了很多不得人心的決定。
 
 在我們的防火牆完全恢復運轉之前，我們能阻擋頻道的數量十分有限。有些頻道在短時間內將正常播出節目，這些節目會被很多殖民地居民看到。",,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/InfoWars.lua(00015),StoryBit InfoWars Text,,,,238196,,
 490815845053,Info Wars,資訊戰,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/InfoWars.lua(00018),StoryBit InfoWars Title,,,,235779,,
-615674236126,"Commander, an unknown rival is streaming propaganda videos at us - videos aimed at inciting discord between several classes of colonists.",指揮官，一個身份不明的對手正在向我們直播宣傳視訊，這些視訊目的是煽動殖民地居民不同階層之間的不和。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/InfoWars.lua(00019),,,narrator,narrator,235779,,
+615674236126,"Commander, an unknown rival is streaming propaganda videos at us - videos aimed at inciting discord between several classes of colonists.",指揮官，一個身份不明的對手正在向我們直播宣傳影片，這些影片目的是煽動殖民地居民不同階層之間的不和。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/InfoWars.lua(00019),,,narrator,narrator,235779,,
 570870101227,We can't afford to agitate the workers in factories and extractors.,千萬不能激怒工廠和挖掘站裡的工人。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/InfoWars.lua(00032),StoryBit InfoWars Text,,,,235779,,
 821888202593,Medics and Scientists lose Morale for <sols(duration)> Sols,醫生和科學家士氣下降，持續<sols(duration)>個太陽日,Medics and Scientists lose morale for <sols(duration)> Sols,醫生和科學家士氣下降，持續<sols(duration)>個太陽日,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/InfoWars.lua(00034),StoryBit InfoWars CustomOutcomeText,,,,236473,,
 974841578922,The Morale in our infirmaries and labs is a top priority.,我們應最優先考慮醫務室和實驗室的士氣。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/InfoWars.lua(00064),StoryBit InfoWars Text,,,,235779,,
@@ -17076,7 +17076,7 @@ It's just a matter of time before things get out of hand.","在這顆蠻荒的�
 
 This ad runs on some of the most renowned TV channels on Earth. Your secretary is in shock that there are people willing to travel to Mars in order to live watch some stupid game.","“來看《火星爭霸》錦標賽直播吧！整個太陽系最棒的沉浸式遊戲等你來體驗！由<DisplayName>殖民地贊助。”
 
-這條廣告在地球上若干個最有人氣的電視訊道中播出。你的祕書驚訝萬分，居然有人就為了現場觀看愚蠢的遊戲比賽而願意飛來火星。",,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/MedSt_GamingTournament.lua(00032),StoryBit MedSt_GamingTournament Text,,,,235779,,
+這條廣告在地球上若干個最有人氣的電視頻道中播出。你的祕書驚訝萬分，居然有人就為了現場觀看愚蠢的遊戲比賽而願意飛來火星。",,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/MedSt_GamingTournament.lua(00032),StoryBit MedSt_GamingTournament Text,,,,235779,,
 858995617253,Gaming Tournament,遊戲錦標賽,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/MedSt_GamingTournament.lua(00035),StoryBit MedSt_GamingTournament Title,,,,235779,,
 728445887608,"Another Colony is organizing a large scale  gaming competition, highly anticipated by all Gamer Colonists.",一座殖民地正在組織大規模遊戲比賽，受到了殖民地居民中游戲玩家的高度關注。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/MedSt_GamingTournament.lua(00036),,,narrator,narrator,235779,,
 833977738104,Surviving Mars is not a game!,火星求生又不是遊戲！,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/StoryBit/MedSt_GamingTournament.lua(00081),StoryBit MedSt_GamingTournament Text,,,,235779,,
@@ -17893,7 +17893,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 187,No deposits,無資源點,,,OK,,,,,Trunk\Mars/Lua/Buildings/Building.lua(02371),,,,,221758,,
 188,There are no exploitable deposits in range,範圍內沒有可挖掘的資源點,,,OK,,,,,Trunk\Mars/Lua/Buildings/Building.lua(02372),,,,,223532,,
 189,Storage space is full,儲存空間已滿,,,OK,,,,,Trunk\Mars/Lua/Buildings/Building.lua(02373),,,,,221758,,
-191,Inactive work shift,閒置輪班,,,OK,,,,,Trunk\Mars/Lua/Buildings/Building.lua(02375),,,,,221758,,
+191,Inactive work shift,空閒輪班,,,OK,,,,,Trunk\Mars/Lua/Buildings/Building.lua(02375),,,,,221758,,
 192,Not enough Workers,工人不足,,,OK,,,,,Trunk\Mars/Lua/Buildings/Building.lua(02376),,,,,221758,,
 194,Not enough Oxygen,氧氣不足,,,OK,,,,,Trunk\Mars/Lua/Buildings/Building.lua(02378),,,,,221758,,
 12388,Unbreathable atmosphere,大氣不可呼吸,,,OK,,,,,Trunk\Mars/Lua/Buildings/Building.lua(02379),,,,,243013,,
@@ -18226,7 +18226,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 11161,"After analyzing complex data, our scientists have suggested an expedition to this area.",我們的科學家們分析完複雜的資料後，建議派探險隊前往該區域。,,,OK,,,,,Trunk\Mars/Lua/Buildings/PlanetaryAnomaly.lua(00080),,,,,235024,,
 11162,We have identified strange spectrographic readings on this location.,我們在此地點發現了奇特的攝譜讀數。,We have intercepted messages from a rival colony about this site. Probably it's a good idea to investigate it.,我們從對手殖民地截獲了有關此地點的消息。去調查一下或許是個好主意。,OK,,,,,Trunk\Mars/Lua/Buildings/PlanetaryAnomaly.lua(00081),,,,,235779,,
 11163,Strange signal anomaly has been detected near these coordinates.,我們在這些座標附近偵測到了怪異的異象訊號。,,,OK,,,,,Trunk\Mars/Lua/Buildings/PlanetaryAnomaly.lua(00082),,,,,235024,,
-11164,Unexplicable visual data from this sector has sparked the interest of our scientists.,該區域無法解釋的視訊資料引起了我們科學家的興趣。,,,OK,,,,,Trunk\Mars/Lua/Buildings/PlanetaryAnomaly.lua(00083),,,,,235024,,
+11164,Unexplicable visual data from this sector has sparked the interest of our scientists.,該區域無法解釋的影像資料引起了我們科學家的興趣。,,,OK,,,,,Trunk\Mars/Lua/Buildings/PlanetaryAnomaly.lua(00083),,,,,235024,,
 11165,Unusual physical anomalies have been detected on this location.,在此地點偵測到了不尋常的物理異象。,,,OK,,,,,Trunk\Mars/Lua/Buildings/PlanetaryAnomaly.lua(00084),,,,,235394,,
 1000240,Custom,自定義,,,OK,,,,,Trunk\Mars/Lua/Buildings/PlanetaryAnomaly.lua(00132),,,,,222166,,
 11452,Tech Unlock,技術解鎖,,,OK,,,,,Trunk\Mars/Lua/Buildings/PlanetaryAnomaly.lua(00135),,,,,236293,,
@@ -19117,8 +19117,8 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.","
 10391,CHANGE RATING,更改等級,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00132),,,,,232789,,
 10392,Change rating,更改等級,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00133),,,,,232789,,
 10393,Choose rating,選擇等級,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00134),,,,,232789,,
-10394,Rate again,再次評級,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00135),,,,,232789,,
-10395,RATE AGAIN,再次評級,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00136),,,,,232789,,
+10394,Rate again,再次評分,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00135),,,,,232789,,
+10395,RATE AGAIN,再次評分,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00136),,,,,232789,,
 10396,Choose Rating,選擇等級,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00137),,,,,232789,,
 11695,No applicants selected,未選擇應徵者,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00145),,,,,237077,,
 11696,Launch Issue: No Passengers,發射問題：無乘客,,,OK,,,,,Trunk\Mars/Lua/LocalizationTexts.lua(00146),,,,,237077,,
@@ -20847,9 +20847,9 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.","
 2660,Nitya,尼提亞,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02079),,,,,221758,,
 2661,Pari,帕麗,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02080),,,,,221758,,
 2662,Parinaaz,帕麗納茲,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02081),,,,,221758,,
-2663,Pihu,毗琥,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02082),,,,,221758,,
-2664,Prisha,毗裡莎,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02083),,,,,221758,,
-2665,Priya,毗里亞,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02084),,,,,221758,,
+2663,Pihu,皮胡,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02082),,,,,221758,,
+2664,Prisha,普麗莎,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02083),,,,,221758,,
+2665,Priya,普麗亞,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02084),,,,,221758,,
 2666,Riya,里亞,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02085),,,,,221758,,
 2667,Samaira,撒瑪利亞,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02086),,,,,221758,,
 2668,Shanaya,莎娜雅,,,OK,,,,,Trunk\Mars/Lua/Names.lua(02089),,,,,221758,,
@@ -21636,14 +21636,14 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.","
 3024,Exported string,匯出字串,,,OK,,,,,Trunk\Mars/Lua/NightLightObjects.lua(00062),,,,,221758,,
 3525,Orbital Probe,軌道探測器,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00005),,,,,221758,,
 10086,Reveals underground deposits in the scanned area.,在掃描區域中發現地下資源點。,,可以顯示掃描區域內是否含有地底資源。,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00007),,,,,231705,,
-3680,Immediately scans a Sector for deposits and Anomalies.<DeepScanWarning><newline><newline>Available Orbital Probes<right><NumProbes>,立刻掃描目標區域，獲得資源點與異象相關資訊。<DeepScanWarning><newline><newline>可用軌道探測器<right><NumProbes>,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00016),,,,,223532,,
+3680,Immediately scans a Sector for deposits and Anomalies.<DeepScanWarning><newline><newline>Available Orbital Probes<right><NumProbes>,立刻掃描目標區域，獲得資源點與異象相關資訊。<DeepScanWarning><newline><newline>可用的軌道探測器<right><NumProbes>,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00016),,,,,223532,,
 3681,<left_click> Select Sector,<left_click>選擇區域,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00017),,,,,223037,,
 7882,<PinRolloverGamepadHint>,<PinRolloverGamepadHint>,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00018),,,,,226570,,
 3683,<NumProbes>,<NumProbes>,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00021),,,,,221758,,
 3682,<ButtonA> Overview,<ButtonA>總覽,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00030),,,,,223219,,
 8569,<ButtonA> Select Sector,<ButtonA>選擇區域,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00032),,,,,226570,,
 3684,<newline><em>Deep scanning of the Sector is not possible with the current technology</em>,<newline><em>目前技術無法深層掃描該地區</em>,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00068),,,,,223532,,
-11413,Immediately scans a Sector and the four adjacent Sectors for deposits and anomalies.<DeepScanWarning><newline><newline>Available Orbital Probes<right><NumProbes>,立刻掃描一塊區域和與其鄰近的四塊區域，以發現資源點和異象。<DeepScanWarning><newline><newline>可用軌道探測器<right><NumProbes>,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00156),,,,,235779,,
+11413,Immediately scans a Sector and the four adjacent Sectors for deposits and anomalies.<DeepScanWarning><newline><newline>Available Orbital Probes<right><NumProbes>,立刻掃描一塊區域和與其鄰近的四塊區域，以發現資源點和異象。<DeepScanWarning><newline><newline>可用的軌道探測器<right><NumProbes>,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00156),,,,,235779,,
 10087,Advanced Orbital Probe,高階軌道探測器,,,OK,,,,,Trunk\Mars/Lua/OrbitalProbe.lua(00159),,,,,231705,,
 8798,Passage piece,通道裂隙,,,OK,,,,,Trunk\Mars/Lua/Passage.lua(00304),,,,,228838,,
 11676,Passage pieces,通道裂隙,,,OK,,,,,Trunk\Mars/Lua/Passage.lua(00305),,,,,237055,,
@@ -21774,14 +21774,14 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.","
 3918,Unknown Tech (<FieldDisplayName>),未知技術（<FieldDisplayName>）,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01334),,,,,221758,,
 3919,"<FieldDescription><newline><newline>To unlock, research more technologies in this field or use the Explorer rover to analyze anomalies.",<FieldDescription><newline><newline>想要解鎖技術，您可以進一步研究該領域的技術，或者使用探測車來分析異常情況。,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01345),,,,,223489,,
 3920,<description><newline><newline><em>Researched</em>,<description><newline><newline><em>已研究</em>,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01347),,,,,221758,,
-10980,<description><newline><newline>Research cost<right><ResearchPoints(cost)><if(percent_check)><newline><left>Cost reduction<right><percent>%</if>,<description><newline><newline>科研成本<right><ResearchPoints(cost)><if(percent_check)><newline><left>Cost reduction<right><percent>%</if>,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01351),,,,,234062,,
+10980,<description><newline><newline>Research cost<right><ResearchPoints(cost)><if(percent_check)><newline><left>Cost reduction<right><percent>%</if>,<description><newline><newline>科研成本<right><ResearchPoints(cost)><if(percent_check)><newline><left>技術花費降低<right><percent>%</if>,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01351),,,,,234062,,
 12638,<left><left_click> Queue for research<right><em>Ctrl+<left_click></em> Queue on top,<left><left_click>研究佇列<right><em>Ctrl+<left_click></em>移動至佇列頂端,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01354),,,,,244298,,
 7775,<right_click> Remove from research queue,<right_click>從研究佇列中移除,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01355),,,,,223911,,
 8534,<em>Ctrl+<left_click></em> Queue on top,<em>Ctrl+<left_click></em> 移動至佇列頂端,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01357),,,,,228384,,
 3925,<left><ButtonA> Queue for research<right><RightTrigger><ButtonA> Queue on top,<left><ButtonA>研究佇列<right><RightTrigger><ButtonA>移動至佇列頂端,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01373),,,,,228384,,
 3924,<ButtonX> Remove from research queue,<ButtonX>從研究佇列中移除,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01374),,,,,223911,,
 8659,<RightTrigger><ButtonA> Queue on top,<RightTrigger><ButtonA>移動至佇列頂端,,,OK,,,,,Trunk\Mars/Lua/Research.lua(01375),,,,,228384,,
-3610,Aggregated information for all resources in the Colony.,殖民地所有資源的聚合資訊。,,,OK,,,,,Trunk\Mars/Lua/ResourceOverview.lua(00099),,,,,221758,,
+3610,Aggregated information for all resources in the Colony.,殖民地所有資源的匯總資訊。,,,OK,,,,,Trunk\Mars/Lua/ResourceOverview.lua(00099),,,,,221758,,
 235513581267,Resource Overview,資源概況,,,OK,,,,,Trunk\Mars/Lua/ResourceOverview.lua(00124),Post-Cert,,,,224215,,
 7853,Colonists Overview,殖民地概況,,,OK,,,,,Trunk\Mars/Lua/ResourceOverview.lua(00126),Post-Cert,,,,224215,,
 3611,"Last export<right>Sol <day>, Hour <hour><newline><left>Rare Metals exported<right><preciousmetals(amount)>",上次出口<right>太陽日<day>，小時<hour><newline><left>出口稀有金屬<right><preciousmetals(amount)>,,,OK,,,,,Trunk\Mars/Lua/ResourceOverview.lua(00285),,,,,221758,,
@@ -21942,7 +21942,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.","
 
 <mods>
 
-</if><if(skipped)>模組無法載入，因為依賴功能缺失或不相容
+</if><if(skipped)>模組無法載入，因為相依性缺失或不相容
 
 <skipped>
 
@@ -21950,7 +21950,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.","
 3686,Load anyway,繼續讀取,,,OK,,,,,Trunk\Mars/Lua/Savegame.lua(00210),,,,,221758,,
 6851,Warning,警告,,,OK,,,,,Trunk\Mars/Lua/Savegame.lua(00232),,,,,222166,,
 10888,This savegame was loaded in the past without required mods or with an incompatible game version. It may not function properly.,目前存檔為之前載入，並未提供所需模組，或可能與目前遊戲版本不相容。目前遊戲可能無法正常執行。,,,OK,,,,,Trunk\Mars/Lua/Savegame.lua(00232),,,,,233513,,
-3688,Autosave Sol <current_sol>,自動儲存太陽日<current_sol>,,,OK,,,,,Trunk\Mars/Lua/Savegame.lua(00329),,,,,221758,,
+3688,Autosave Sol <current_sol>,自動儲存 太陽日 <current_sol>,,,OK,,,,,Trunk\Mars/Lua/Savegame.lua(00329),,,,,221758,,
 3691,Random number,隨機數字,,,OK,,,,,Trunk\Mars/Lua/Sequences/SA_Filters.lua(00010),,,,,221758,,
 3692,Random percent,隨機百分比,,,OK,,,,,Trunk\Mars/Lua/Sequences/SA_Filters.lua(00011),,,,,221758,,
 3693,Input register,輸入暫存器,,,OK,,,,,Trunk\Mars/Lua/Sequences/SA_Filters.lua(00054),,,,,221758,,
@@ -22458,8 +22458,8 @@ Larger networks will malfunction more often.","這個地區的供應網出現了
 6907,Damaged savegame,已損壞的存檔,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00204),,,,,222166,,
 8648,Incompatible savegame,不相容的存檔,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00206),,,,,227019,,
 7549,<hours>:<minutes>,<hours>：<minutes>,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00282),,,,,223037,,
-4273,Saved on <save_date>,儲存至<save_date>,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00286),,,,,221758,,
-4274,Playtime <playtime>,遊戲時間<playtime>,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00287),,,,,221758,,
+4273,Saved on <save_date>,儲存時間 <save_date>,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00286),,,,,221758,,
+4274,Playtime <playtime>,遊戲時間 <playtime>,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00287),,,,,221758,,
 4193,Save file is corrupted!,存檔檔案已損壞！,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00291),,,,,223532,,
 8649,Please update the game to the latest version to load this savegame.,請將遊戲更新至最新版本，以讀取存檔。,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00293),,,,,227019,,
 8502,<red>Missing downloadable content: <dlcs></red>,<red>缺少的可下載內容：<dlcs></red>,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00295),,,,,226302,,
@@ -22471,7 +22471,7 @@ Larger networks will malfunction more often.","這個地區的供應網出現了
 4196,Sols on Mars,火星上的太陽日,Sols on Mars: <sharp_yellow><value></sharp_yellow>,火星上的太陽日：<sharp_yellow><value></sharp_yellow>,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00313),,,,,236293,,
 4200,Active mods,生效模組,Active mods: <sharp_yellow><value></sharp_yellow>,啟用模組：<sharp_yellow><value></sharp_yellow>,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00334),,,,,236293,,
 4191,DEL to delete. ,按 DEL 鍵刪除。 ,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00351),,,,,221758,,
-4189,Are you sure you want to delete the savegame <savename>?,是否確定刪除遊戲存檔<savename>？,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00385),,,,,223739,,
+4189,Are you sure you want to delete the savegame <savename>?,是否確定刪除遊戲存檔 <savename>？,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00385),,,,,223739,,
 6905,Warning,警告,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00385),,,,,222166,,
 7729,Are you sure you want to load this savegame? You will lose your current game progress.,您是否確定讀取遊戲存檔？您將會失去目前的遊戲進度。,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00421),,,,,223766,,
 4183,Are you sure you want to overwrite <savename>?,是否確定覆蓋<savename>？,,,OK,,,,,Trunk\Mars/Lua/UI/SaveLoad.lua(00465),,,,,221758,,
@@ -22562,7 +22562,7 @@ Larger networks will malfunction more often.","這個地區的供應網出現了
 12763,"An excited Tourist, looking for a holiday experience that is out of this world.",一名興奮的遊客，正在期待渡過一個無與倫比的假期。,"An excited Tourist, looking for an out of this world holiday.",一名興奮的遊客，正在期待一個無與倫比的假期。,OK,,,,,Trunk\Mars/Lua/Units/Colonist.lua(02801),,,,,246126,,
 4314,One of the youngest residents of the Colony,殖民地中最年輕的居民之一,,,OK,,,,,Trunk\Mars/Lua/Units/Colonist.lua(02802),,,,,223532,,
 3849,"A brave citizen of Mars, ready to tame the final frontier.",一位勇敢的火星居民，時刻準備去征服最後的疆界。,,,OK,,,,,Trunk\Mars/Lua/Units/Colonist.lua(02804),,,,,221758,,
-4315,The last remains of <em><u(name)></em>. Deceased.,<em><u(name)></em>的遺物，已身亡。,,,OK,,,,,Trunk\Mars/Lua/Units/Colonist.lua(02807),,,,,222739,,
+4315,The last remains of <em><u(name)></em>. Deceased.,<em><u(name)></em>的遺體，已歿。,,,OK,,,,,Trunk\Mars/Lua/Units/Colonist.lua(02807),,,,,222739,,
 4316,<newline><nbsp><nbsp><em>Status:</em> <ui_command>,<newline><nbsp><nbsp><em>狀態：</em> <ui_command>,,,OK,,,,,Trunk\Mars/Lua/Units/Colonist.lua(02812),,,,,222240,,
 4317,<newline><nbsp><nbsp><em>Issues:</em> <issues>,<newline><nbsp><nbsp><em>問題：</em> <issues>,,,OK,,,,,Trunk\Mars/Lua/Units/Colonist.lua(02813),,,,,222240,,
 7782,<newline><nbsp><nbsp><em>Traits:</em> <traits_list>,<newline><nbsp><nbsp><em>特性：</em> <traits_list>,,,OK,,,,,Trunk\Mars/Lua/Units/Colonist.lua(02825),,,,,223911,,
@@ -22715,7 +22715,7 @@ Larger networks will malfunction more often.","這個地區的供應網出現了
 12766,RC Safaris,遙控觀景車,,,OK,,,,,Trunk\Mars/Lua/Units/RCSafari.lua(00043),,,,,245645,,
 12767,Remote-controlled vehicle that takes Tourists on a Safari. Configure a route with waypoints near interesting sights to increase the Satisfaction awarded to Tourists.,用來帶遊客觀景的遠程遙控載具。在有趣景點附近設置航路點以規劃遊覽路線，增加遊客獲得的滿意度。,,,OK,,,,,Trunk\Mars/Lua/Units/RCSafari.lua(00053),,,,,245645,,
 12896,??,??,,,OK,,,,,Trunk\Mars/Lua/Units/RCSafari.lua(00070),,,,,246126,,
-12768,Create Safari Route,生成觀景車路線,,,OK,,,,,Trunk\Mars/Lua/Units/RCSafari.lua(00135),,,,,245645,,
+12768,Create Safari Route,建立觀景車路線,,,OK,,,,,Trunk\Mars/Lua/Units/RCSafari.lua(00135),,,,,245645,,
 12769,Create a safari route. Add waypoints that the RC Safari will travel between. Ensure the starting point is close to a Dome so Tourists can board the vehicle. Click on the first waypoint to <em>Finish Route</em>,生成觀景車路線。添加遙控觀景車將往返的航路點。確保起始點在穹頂附近，以便遊客搭乘載具。點擊第一個航路點以<em>完成路線</em>,Create a safari route. Add points that the RC Safari will travel between. Ensure the starting point is close to a Dome so Tourists can board the vehicle. Click the first waypoint to <em>Finish Route</em>,生成觀景車路線。添加遙控觀景車將往返的航路點。確保起始點在穹頂附近，以便遊客搭乘載具。點擊第一個航路點以<em>完成路線</em>,OK,,,,pc:click ps4:click,Trunk\Mars/Lua/Units/RCSafari.lua(00136),,,,,246126,,
 12770,Clear Safari Route,清除觀景車路線,,,OK,,,,,Trunk\Mars/Lua/Units/RCSafari.lua(00152),,,,,245645,,
 12771,Clears route and stops the vehicle,清除路線並停止載具,,,OK,,,,,Trunk\Mars/Lua/Units/RCSafari.lua(00153),,,,,245645,,
@@ -22944,7 +22944,7 @@ New Spire Building: <em><template_display_name></em> ","
 9661, or , 或 ,,,OK,,,,,Trunk\Mars/Lua/X/ColonyControlCenter.lua(01111),,,,,230058,,
 9668,<inside_buildings><outside_buildings>,<inside_buildings><outside_buildings>,,,OK,,,,,Trunk\Mars/Lua/X/ColonyControlCenter.lua(01115),,,,,230058,,
 716941050141,Transportation,運輸,,,OK,,,,,Trunk\Mars/Lua/X/ColonyControlCenter.lua(01125),,,,,230058,,
-12187,<decorations><storages><power_producers><production_buildings><services><residential><terraforming><transportation><other>,<decorations><storages><power_producers><production_buildings><services><residential><terraforming><other>,<decorations><storages><power_producers><production_buildings><services><residential><terraforming><other>,,OK,,,,,Trunk\Mars/Lua/X/ColonyControlCenter.lua(01136),,,,,1011042,,
+12187,<decorations><storages><power_producers><production_buildings><services><residential><terraforming><transportation><other>,<decorations><storages><power_producers><production_buildings><services><residential><terraforming><transportation><other>,<decorations><storages><power_producers><production_buildings><services><residential><terraforming><other>,<decorations><storages><power_producers><production_buildings><services><residential><terraforming><other>,OK,,,,,Trunk\Mars/Lua/X/ColonyControlCenter.lua(01136),,,,,1011042,,
 9667,<center><em>Active Filters</em>,<center><em>目前篩選條件</em>,<center><em>Filters</em>,<center><em>篩選</em>,OK,,,,,Trunk\Mars/Lua/X/ColonyControlCenter.lua(01148),,,,,230507,,
 9670,<center><em>Connected Domes</em>,<center><em>連接的穹頂</em>,,,OK,,,,,Trunk\Mars/Lua/X/ColonyControlCenter.lua(01165),,,,,230058,,
 9659,<center><em>Drones</em>,<center><em>無人機</em>,,,OK,,,,,Trunk\Mars/Lua/X/ColonyControlCenter.lua(01369),,,,,230058,,
@@ -22983,20 +22983,20 @@ New Spire Building: <em><template_display_name></em> ","
 13672,<newline><center><em>Other maps</em>,<newline><center><em>其他地圖</em>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00497),,,,,1005383,,
 13825,"Total living across maps<right><resource(amount, type)>","地圖總生活人數<right><resource(amount, type)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00503),,,,,1007486,,
 13826,"Total staying across maps<right><resource(amount, type)>","地圖總滯留人數<right><resource(amount, type)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00504),,,,,1007486,,
-13673,"Total stored across maps<right><resource(amount, type)>","整個地圖的存儲總量<right><resource(amount, type)>",Total stored across maps<right><total><icon_tag>,整個地圖的存儲總量<right><total><icon_tag>,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00505),,,,,1007231,,
+13673,"Total stored across maps<right><resource(amount, type)>","整個地圖儲存的總量<right><resource(amount, type)>",Total stored across maps<right><total><icon_tag>,整個地圖儲存的總量<right><total><icon_tag>,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00505),,,,,1007231,,
 13674,"<map_name><right><resource(amount, type)>","<map_name><right><resource(amount, type)>",<map_name><right><amount><icon_tag>,<map_name><right><amount><icon_tag>,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00517),,,,,1007231,,
 3636,Metals production<right><metals(MetalsProducedYesterday)>,金屬產量<right><metals(MetalsProducedYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00532),,,,,221758,,
 3637,From surface deposits<right><metals(MetalsGatheredYesterday)>,來自地表資源點<right><metals(MetalsGatheredYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00533),,,,,221758,,
 3638,Metals consumption<right><metals(MetalsConsumedByConsumptionYesterday)>,金屬消耗<right><metals(MetalsConsumedByConsumptionYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00535),,,,,221758,,
 3639,Metals maintenance<right><metals(MetalsConsumedByMaintenanceYesterday)>,金屬維護<right><metals(MetalsConsumedByMaintenanceYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00536),,,,,221758,,
-10081,"In construction sites<right><metals(MetalsInConstructionSitesActual, MetalsInConstructionSitesTotal)>","在建建築工地<right><metals(MetalsInConstructionSitesActual, MetalsInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00537),,,,,231705,,
+10081,"In construction sites<right><metals(MetalsInConstructionSitesActual, MetalsInConstructionSitesTotal)>","建造中的工地<right><metals(MetalsInConstructionSitesActual, MetalsInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00537),,,,,231705,,
 10526,"Upgrade construction<right><metals(MetalsUpgradeConstructionActual, MetalsUpgradeConstructionTotal)>","升級建築<right><metals(MetalsUpgradeConstructionActual, MetalsUpgradeConstructionTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00538),,,,,233030,,
 13814,Discovered Metals<right><metals(number)>,已發現金屬<right><metals(number)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00547),,,,,1007231,,
 13815,Discovered Underground Metals<right><metalsDeep(number)>,已發現地下金屬<right><metalsDeep(number)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00548),,,,,1007231,,
 3640,Concrete production<right><concrete(ConcreteProducedYesterday)>,混凝土產量<right><concrete(ConcreteProducedYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00561),,,,,221758,,
 3641,Concrete consumption<right><concrete(ConcreteConsumedByConsumptionYesterday)>,混凝土消耗<right><concrete(ConcreteConsumedByConsumptionYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00563),,,,,221758,,
 3642,Concrete maintenance<right><concrete(ConcreteConsumedByMaintenanceYesterday)>,混凝土維護<right><concrete(ConcreteConsumedByMaintenanceYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00564),,,,,221758,,
-10082,"In construction sites<right><concrete(ConcreteInConstructionSitesActual, ConcreteInConstructionSitesTotal)>","在建建築工地<right><concrete(ConcreteInConstructionSitesActual, ConcreteInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00565),,,,,231705,,
+10082,"In construction sites<right><concrete(ConcreteInConstructionSitesActual, ConcreteInConstructionSitesTotal)>","建造中的工地<right><concrete(ConcreteInConstructionSitesActual, ConcreteInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00565),,,,,231705,,
 10527,"Upgrade construction<right><concrete(ConcreteUpgradeConstructionActual, ConcreteUpgradeConstructionTotal)>","升級建築<right><concrete(ConcreteUpgradeConstructionActual, ConcreteUpgradeConstructionTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00566),,,,,233030,,
 13816,Discovered Concrete<right><concrete(number)>,已發現混凝土<right><concrete(number)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00574),,,,,1007231,,
 3643,Food production<right><food(FoodProducedYesterday)>,食物產量<right><food(FoodProducedYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00586),,,,,221758,,
@@ -23016,18 +23016,18 @@ New Spire Building: <em><template_display_name></em> ","
 3656,From surface deposits<right><polymers(PolymersGatheredYesterday)>,來自地表資源點<right><polymers(PolymersGatheredYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00649),,,,,221758,,
 3657,Polymers consumption<right><polymers(PolymersConsumedByConsumptionYesterday)>,聚合物消耗<right><polymers(PolymersConsumedByConsumptionYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00651),,,,,221758,,
 3658,Polymers maintenance<right><polymers(PolymersConsumedByMaintenanceYesterday)>,聚合物維護<right><polymers(PolymersConsumedByMaintenanceYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00652),,,,,221758,,
-10083,"In construction sites<right><polymers(PolymersInConstructionSitesActual, PolymersInConstructionSitesTotal)>","在建建築工地<right><polymers(PolymersInConstructionSitesActual, PolymersInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00653),,,,,231705,,
+10083,"In construction sites<right><polymers(PolymersInConstructionSitesActual, PolymersInConstructionSitesTotal)>","建造中的工地<right><polymers(PolymersInConstructionSitesActual, PolymersInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00653),,,,,231705,,
 10529,"Upgrade construction<right><polymers(PolymersUpgradeConstructionActual, PolymersUpgradeConstructionTotal)>","升級建築<right><polymers(PolymersUpgradeConstructionActual, PolymersUpgradeConstructionTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00654),,,,,233030,,
 13818,Discovered Polymers<right><polymers(number)>,已發現聚合物<right><polymers(number)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00662),,,,,1007231,,
 3659,Electronics production<right><electronics(ElectronicsProducedYesterday)>,電子元件產量<right><electronics(ElectronicsProducedYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00674),,,,,221758,,
 3660,Electronics consumption<right><electronics(ElectronicsConsumedByConsumptionYesterday)>,電子元件消耗<right><electronics(ElectronicsConsumedByConsumptionYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00675),,,,,221758,,
 3661,Electronics maintenance<right><electronics(ElectronicsConsumedByMaintenanceYesterday)>,電子元件維護<right><electronics(ElectronicsConsumedByMaintenanceYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00676),,,,,221758,,
-10084,"In construction sites<right><electronics(ElectronicsInConstructionSitesActual, ElectronicsInConstructionSitesTotal)>","在建建築工地<right><electronics(ElectronicsInConstructionSitesActual, ElectronicsInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00677),,,,,231705,,
+10084,"In construction sites<right><electronics(ElectronicsInConstructionSitesActual, ElectronicsInConstructionSitesTotal)>","建造中的工地<right><electronics(ElectronicsInConstructionSitesActual, ElectronicsInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00677),,,,,231705,,
 10530,"Upgrade construction<right><electronics(ElectronicsUpgradeConstructionActual, ElectronicsUpgradeConstructionTotal)>","升級建築<right><electronics(ElectronicsUpgradeConstructionActual, ElectronicsUpgradeConstructionTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00678),,,,,233030,,
 3662,Machine Parts production<right><machineparts(MachinePartsProducedYesterday)>,機械零件產量<right><machineparts(MachinePartsProducedYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00689),,,,,221758,,
 3663,Machine Parts consumption<right><machineparts(MachinePartsConsumedByConsumptionYesterday)>,機械零件消耗<right><machineparts(MachinePartsConsumedByConsumptionYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00690),,,,,221758,,
 3664,Machine Parts maintenance<right><machineparts(MachinePartsConsumedByMaintenanceYesterday)>,機械零件維護<right><machineparts(MachinePartsConsumedByMaintenanceYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00691),,,,,221758,,
-10085,"In construction sites<right><machineparts(MachinePartsInConstructionSitesActual, MachinePartsInConstructionSitesTotal)>","在建建築工地<right><machineparts(MachinePartsInConstructionSitesActual, MachinePartsInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00692),,,,,231705,,
+10085,"In construction sites<right><machineparts(MachinePartsInConstructionSitesActual, MachinePartsInConstructionSitesTotal)>","建造中的工地<right><machineparts(MachinePartsInConstructionSitesActual, MachinePartsInConstructionSitesTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00692),,,,,231705,,
 10531,"Upgrade construction<right><machineparts(MachinePartsUpgradeConstructionActual, MachinePartsUpgradeConstructionTotal)>","升級建築<right><machineparts(MachinePartsUpgradeConstructionActual, MachinePartsUpgradeConstructionTotal)>",,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00693),,,,,233030,,
 3665,Fuel production<right><fuel(FuelProducedYesterday)>,燃料產量<right><fuel(FuelProducedYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00704),,,,,221758,,
 3666,Fuel consumption<right><fuel(FuelConsumedByConsumptionYesterday)>,燃料消耗<right><fuel(FuelConsumedByConsumptionYesterday)>,,,OK,,,,,Trunk\Mars/Lua/X/Infobar.lua(00705),,,,,221758,,
@@ -23083,9 +23083,9 @@ New Spire Building: <em><template_display_name></em> ","
 3545,<ButtonA> Select,<ButtonA> 選擇,,,OK,,,,,Trunk\Mars/Lua/X/InfopanelItems.lua(00265),,,,,223160,,
 4164,"Mods are player created software packages that modify your game experience. USE THEM AT YOUR OWN RISK! We do not examine, monitor, support or guarantee this user created content. You should take all precautions you normally take regarding downloading files from the Internet before using mods.",模組是玩家制作的軟體包，能改變你的遊戲體驗。使用模組風險自擔！我們對這款使用者創作的內容沒有審查、監督、支援與擔保的責任。你在使用此模組前，應當採取平時從網上下載檔案時應做好的一切防範措施。,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00071),,,,,221758,,
 6900,OK,確定,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00072),,,,,222166,,
-12606,The required dependency is outdated,所需的依賴功能已過時,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00131),,,,,244011,,
-12446,Missing dependency,依賴功能缺失,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00133),,,,,243082,,
-12447,Disabled dependencies,依賴功能停用,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00138),,,,,243082,,
+12606,The required dependency is outdated,模組所需的相依性已過時,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00131),,,,,244011,,
+12446,Missing dependency,相依性缺失,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00133),,,,,243082,,
+12447,Disabled dependencies,相依性停用,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00138),,,,,243082,,
 10931,Incompatible mod version.,不相容的模組版本。,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00143),,,,,233875,,
 10932,Check for a game update!,檢查遊戲更新！,Game update required!,需要更新遊戲！,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00145),,,,,240619,,
 12402,Alphabetically (A-Z),按字母順序（A-Z）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00161),,,,,243013,,
@@ -23099,18 +23099,18 @@ New Spire Building: <em><template_display_name></em> ","
 10937,Oldest first,時間最早者優先,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00168),,,,,233875,,
 10938,OLDEST FIRST,時間最早者優先,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00168),,,,,233875,,
 10939,Most recent first,時間最近者優先,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00169),,,,,233875,,
-12300,MOST RECENT FIRST,優先最近,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00169),,,,,242226,,
-10941,Rating (ASC),評級（升序）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00170),,,,,233875,,
-10942,RATING (ASC),評級（升序）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00170),,,,,233875,,
-10943,Rating (DESC),評級（降序）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00171),,,,,233875,,
-10944,RATING (DESC),評級（降序）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00171),,,,,233875,,
+12300,MOST RECENT FIRST,時間最近者優先,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00169),,,,,242226,,
+10941,Rating (ASC),評分（升序）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00170),,,,,233875,,
+10942,RATING (ASC),評分（升序）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00170),,,,,233875,,
+10943,Rating (DESC),評分（降序）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00171),,,,,233875,,
+10944,RATING (DESC),評分（降序）,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00171),,,,,233875,,
 10426,Filter by,過濾條件,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00199),,,,,232789,,
-12406,Report <ModName>,報告<ModName>,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00262),,,,,243013,,
-10385,Rate <ModName>,評級<ModName>,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00297),,,,,232789,,
+12406,Report <ModName>,回報 <ModName>,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00262),,,,,243013,,
+10385,Rate <ModName>,給予 <ModName> 評分,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00297),,,,,232789,,
 1079,Surviving Mars,《火星求生》,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00298),,,,,223729,,
-10386,Use the stars below to rate the <game_title> mod <ModName> by <AuthorName>,使用以下星級對<AuthorName>的<game_title>模組<ModName>進行評級,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00298),,,,,233030,,
+10386,Use the stars below to rate the <game_title> mod <ModName> by <AuthorName>,使用以下星級對<AuthorName>的<game_title>模組<ModName>進行評分,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00298),,,,,233030,,
 10388,"Your rating for <ModName> was submitted.
-Thank you for helping the Paradox family.","您對<ModName>的評級已提交。
+Thank you for helping the Paradox family.","您對 <ModName> 的評分已提交。
 謝謝您對Paradox系列遊戲的支援。",,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00311),,,,,233030,,
 12428,"The mod <name> is not compatible with the current game version. Once installed, it might not be loaded or work correctly. Do you want to install it anyway?",模組<name>與目前遊戲版本不相容。安裝後或許無法載入或正常執行。是否仍要安裝？,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00348),,,,,243082,,
 10945,Do you want to uninstall the mod <ModName>?,想要解除安裝<ModName>模組？,,,OK,,,,,Trunk\Mars/Lua/X/ModsUI.lua(00369),,,,,233875,,
@@ -23155,7 +23155,7 @@ Do you want to enable this mod anyway?","以下以來功能未啟用：
 
 The mod <u(name)> will not be loaded.
 
-Do you want to enable this mod anyway?","缺失以下依賴功能：
+Do you want to enable this mod anyway?","缺失以下相依性：
 
 <dependencies>
 
@@ -23168,7 +23168,7 @@ Do you want to enable this mod anyway?","缺失以下依賴功能：
 
 The mod <u(name)> might not work correctly.
 
-Do you want to enable this mod anyway?","缺失以下可選依賴功能：
+Do you want to enable this mod anyway?","缺失以下非必要的相依性：
 
 <dependencies>
 
@@ -23188,9 +23188,9 @@ Do you want to enable this mod anyway?","缺失以下可選依賴功能：
 4094,Gamepad text,手把文字,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00020),,,,,221758,,
 8982,Tutorial,教學,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00021),,,,,229778,,
 161,Encyclopedia Image,百科圖片,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00022),,,,,221758,,
-1000124,Video,視訊,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00023),,,,,221758,,
-11832,Xbox Video,XBox視訊,XBox Video,XBox視訊,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00024),,,,,238668,,
-11833,PS4 Video,PS4視訊,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00025),,,,,238196,,
+1000124,Video,影像,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00023),,,,,221758,,
+11832,Xbox Video,XBox 影像,XBox Video,XBox 影像,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00024),,,,,238668,,
+11833,PS4 Video,PS4 影像,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00025),,,,,238196,,
 7586,<Back> Dismiss hint,<Back> 關閉提示,<center><Back> Dismiss hint,<center><Back> 關閉提示,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00167),hint,,,,235394,,
 4248,Hints,提示,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00533),,,,,221758,,
 8983,<Back> Hints,<Back> 提示,,,OK,,,,,Trunk\Mars/Lua/X/OnScreenHintDlg.lua(00533),,,,,229778,,
@@ -23202,8 +23202,8 @@ Do you want to enable this mod anyway?","缺失以下可選依賴功能：
 4082,Do you want to rebind <key> from <old_action> to <new_action>?,您是否要將<key>從<old_action>設定為<new_action>？,,,OK,,,,,Trunk\Mars/Lua/X/XOptions.lua(00044),,,,,221758,,
 4091,Changes could not be applied and will be reverted.,變更無法套用，將恢復至原有設定。,,,OK,,,,,Trunk\Mars/Lua/X/XOptions.lua(00091),,,,,223532,,
 3846,<name>,<name>,,,OK,,,,,Trunk\Mars/Lua/X/XOptions.lua(00170),,,,,221758,,
-4089,Video mode change,更改視訊模式,,,OK,,,,,Trunk\Mars/Lua/X/XOptions.lua(00187),,,,,221758,,
-4090,The video mode has been changed. Keep changes?,視訊模式已更改，是否儲存？,,,OK,,,,,Trunk\Mars/Lua/X/XOptions.lua(00187),,,,,223532,,
+4089,Video mode change,更改影像模式,,,OK,,,,,Trunk\Mars/Lua/X/XOptions.lua(00187),,,,,221758,,
+4090,The video mode has been changed. Keep changes?,影像模式已更改，是否儲存？,,,OK,,,,,Trunk\Mars/Lua/X/XOptions.lua(00187),,,,,223532,,
 13789,Our Colony,我方殖民地,,,OK,,,,,Trunk\Mars/Lua/X/XPGMission.lua(00016),,,,,1007006,,
 13790,<h RenameColony Rename>< image <img> 2000 > ,<h RenameColony Rename>< image <img> 2000 > ,,,OK,,,,,Trunk\Mars/Lua/X/XPGMission.lua(00022),,,,,1007266,,
 10881,<white>Completed <CompletedChallenges>/<TotalChallenges></white>,<white>已完成<CompletedChallenges>/<TotalChallenges></white>,,,OK,,,,,Trunk\Mars/Lua/X/XPGMission.lua(00068),,,,,233513,,
@@ -23219,14 +23219,14 @@ Do you want to enable this mod anyway?","缺失以下可選依賴功能：
 6880,Warning,警告,,,OK,,,,,Trunk\Mars/Lua/X/XPGMission.lua(00400),,,,,222166,,
 6881,Are you sure you want to buy a new Rocket for <funding(price)>?,您確定要花費 <funding(price)> 來購買一艘火箭嗎？,,,OK,,,,,Trunk\Mars/Lua/X/XPGMission.lua(00400),,,,,223532,,
 7546,Insufficient funding! You need <funding(price)> to purchase a Rocket!,資金不足！您需要<funding(price)>才能購買火箭！,,,OK,,,,,Trunk\Mars/Lua/X/XPGMission.lua(00412),,,,,223729,,
-10972,Steam virtual keyboard requires Steam Big Picture Mode to be enabled. Please restart the game from Big Picture Mode in order to use the Steam virtual keyboard.,Steam虛擬鍵盤需要啟動Steam大圖模式。請在Steam大圖模式下重新啟動遊戲，以便使用Steam虛擬鍵盤。,,,OK,,,,pc:key,Trunk\Mars/Lua/X/XRenameControl.lua(00015),,,,,234062,,
+10972,Steam virtual keyboard requires Steam Big Picture Mode to be enabled. Please restart the game from Big Picture Mode in order to use the Steam virtual keyboard.,Steam虛擬鍵盤需要啟動Steam Big Picture模式。請在Steam Big Picture模式下重新啟動遊戲，以便使用Steam虛擬鍵盤。,,,OK,,,,pc:key,Trunk\Mars/Lua/X/XRenameControl.lua(00015),,,,,234062,,
 1000620,Warning,警告,,,OK,,,,,Trunk\Mars/Lua/X/XRenameControl.lua(00015),,,,,222739,,
 7730,Invalid input,無效輸入,,,OK,,,,,Trunk\Mars/Lua/X/XRenameControl.lua(00062),,,,,223766,,
 7731,<field> should be in the format <format>,<field>的格式必須為<format>,,,OK,,,,,Trunk\Mars/Lua/X/XRenameControl.lua(00062),,,,,223766,,
 7976,SKIP,跳過,,,OK,,,,,Trunk\Mars/Lua/X/XSplashScreen.lua(00034),,,,,225213,,
 1000159,Escape,離開,,,OK,,,,,Trunk\Mars/Lua/X/XSplashScreen.lua(00050),,,,,222166,,
 599355083725,Unlocked <white><unlocked> / <total>,已解鎖 <white><unlocked> / <total>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/AchievementsContent.lua(00011),XTemplate AchievementsContent Subtitle,,,,226483,,
-345376930850,<UIOverviewInfo>,<OverviewInfo>,<OverviewInfo>,,OK,,,,,Trunk\Mars/Lua/XTemplates/BuildingOverviewRow.lua(00011),XTemplate BuildingOverviewRow RolloverText,,,,230058,,
+345376930850,<UIOverviewInfo>,<UIOverviewInfo>,<OverviewInfo>,<OverviewInfo>,OK,,,,,Trunk\Mars/Lua/XTemplates/BuildingOverviewRow.lua(00011),XTemplate BuildingOverviewRow RolloverText,,,,230058,,
 862135144106,Gone Rogue,已叛變,,,OK,,,,,Trunk\Mars/Lua/XTemplates/BuildingOverviewRow.lua(00234),XTemplate BuildingOverviewRow Text,,,,235024,,
 904592423533,BUILDINGS,建築,,,OK,,,,,Trunk\Mars/Lua/XTemplates/BuildingsOverview.lua(00038),XTemplate BuildingsOverview Title,,,,230058,,
 642090198735,Toggle filtering of inside buildings.,切換內部建築篩選,,,OK,,,,,Trunk\Mars/Lua/XTemplates/BuildingsOverview.lua(00093),,,,,230058,,
@@ -23419,17 +23419,17 @@ Perfect Time Sol <PerfectDeadline>
 4522,Open POC Map 4,開啟POC地圖4,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00510),XTemplate GameShortcuts ActionName,,,,221758,,
 6974,Open POC Map LateGame,開啟POC地圖後期遊戲,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00518),XTemplate GameShortcuts ActionName,,,,222166,,
 152768500780,Toggle In Game Main Menu,切換遊戲內選單,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00526),XTemplate GameShortcuts ActionName,,,,221758,,
-964722863858,Pan Up,向上平移,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00544),XTemplate GameShortcuts ActionName,,,,221758,,
-981867141540,Pan Down,向下平移,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00554),XTemplate GameShortcuts ActionName,,,,221758,,
-199913045993,Pan Left,向左平移,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00564),XTemplate GameShortcuts ActionName,,,,221758,,
-644017017186,Pan Right,向右平移,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00574),XTemplate GameShortcuts ActionName,,,,221758,,
+964722863858,Pan Up,向上平移視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00544),XTemplate GameShortcuts ActionName,,,,221758,,
+981867141540,Pan Down,向下平移視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00554),XTemplate GameShortcuts ActionName,,,,221758,,
+199913045993,Pan Left,向左平移視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00564),XTemplate GameShortcuts ActionName,,,,221758,,
+644017017186,Pan Right,向右平移視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00574),XTemplate GameShortcuts ActionName,,,,221758,,
 741646947499,Rotate Camera Left,向左旋轉視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00584),XTemplate GameShortcuts ActionName,,,,221758,,
 892715092566,Rotate Camera Right,向右旋轉視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00593),XTemplate GameShortcuts ActionName,,,,221758,,
 384814720970,Rotate Camera Up,向上旋轉視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00602),XTemplate GameShortcuts ActionName,,,,233030,,
 240317934981,Rotate Camera Down,向下旋轉視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00611),XTemplate GameShortcuts ActionName,,,,233030,,
 279635353384,Zoom In,放大,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00620),XTemplate GameShortcuts ActionName,,,,228384,,
 305580647526,Zoom Out,縮小,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00628),XTemplate GameShortcuts ActionName,,,,228384,,
-969312516259,Orbit Camera,環繞視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00636),XTemplate GameShortcuts ActionName,,,,228384,,
+969312516259,Orbit Camera,自由旋轉視角,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00636),XTemplate GameShortcuts ActionName,,,,228384,,
 200927746859,Pause Game,暫停遊戲,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00644),XTemplate GameShortcuts ActionName,,,,221758,,
 933108950407,Speed Up,加速,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00659),XTemplate GameShortcuts ActionName,,,,221758,,
 450845916933,Speed Down,減速,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00681),XTemplate GameShortcuts ActionName,,,,221758,,
@@ -23448,8 +23448,8 @@ Perfect Time Sol <PerfectDeadline>
 749913145697,Previous Rover,上一臺探測車,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00979),XTemplate GameShortcuts ActionName,,,,223729,,
 447211684750,Next Building,下一建築物,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00988),XTemplate GameShortcuts ActionName,,,,233513,,
 961951175823,Previous Building,上一建築物,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(00997),XTemplate GameShortcuts ActionName,,,,233513,,
-936607973592,Salvage Selected,拆除選擇內容,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01006),XTemplate GameShortcuts ActionName,,,,221758,,
-646525548286,Pin/Unpin Selected,固定/取消選擇內容,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01047),XTemplate GameShortcuts ActionName,,,,221758,,
+936607973592,Salvage Selected,回收選取的物件,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01006),XTemplate GameShortcuts ActionName,,,,221758,,
+646525548286,Pin/Unpin Selected,固定/取消選取的物件,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01047),XTemplate GameShortcuts ActionName,,,,221758,,
 463783151661,Clear Pins,清除固定,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01066),XTemplate GameShortcuts ActionName,,,,233875,,
 337463951534,Rename Selected,重新命名選擇內容,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01079),XTemplate GameShortcuts ActionName,,,,221758,,
 765178809736,Move / Interact with target,移動/與目標互動,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01099),XTemplate GameShortcuts ActionName,,,,223037,,
@@ -23463,8 +23463,8 @@ Perfect Time Sol <PerfectDeadline>
 204031300524,Filter colonists by traits,根據特性篩選殖民地居民,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01277),XTemplate GameShortcuts ActionName,,,,223037,,
 748588275043,Last Notification,最後的通知提示,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01295),XTemplate GameShortcuts ActionName,,,,221758,,
 614477738289,Last Constructed Building,最後完成的建築物,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01313),XTemplate GameShortcuts ActionName,,,,221758,,
-881,Power Cables,電纜,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01332),XTemplate GameShortcuts ActionName,,,,221758,,
-882,Pipes,管道,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01348),XTemplate GameShortcuts ActionName,,,,221758,,
+881,Power Cables,建造電纜,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01332),XTemplate GameShortcuts ActionName,,,,221758,,
+882,Pipes,建造管道,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GameShortcuts.lua(01348),XTemplate GameShortcuts ActionName,,,,221758,,
 554083515055,CHEATS,作弊,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GamepadCheatsDlg.lua(00015),XTemplate GamepadCheatsDlg Text,,,,223978,,
 867595017482,<display_name>,<display_name>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GamepadCheatsDlg.lua(00065),XTemplate GamepadCheatsDlg Text,,,,223978,,
 790001218703,Game speed / Infobar / Map Switch,遊戲速度 / 資訊欄 / 地圖切換,,,OK,,,,,Trunk\Mars/Lua/XTemplates/GamepadControlsOverview.lua(00107),XTemplate GamepadControlsOverview Text,,,,1006192,,
@@ -23586,7 +23586,7 @@ Current Research: <em><CurrentResearchName></em>
 587907473693,<FoodText>,<FoodText>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00396),XTemplate Infobar Text,,,,231705,,
 101740720498,<RareMetalsRollover>,<RareMetalsRollover>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00403),XTemplate Infobar RolloverText,,,,234062,,
 421995872564,Rare Metals,稀有金屬,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00404),XTemplate Infobar RolloverTitle,,,,234062,,
-868548677390,<ButtonA> Cycle stored resources<newline><DPad> Navigate <DPadDown> Close,<ButtonA>循環儲存資源<newline><DPad>導航<DPadDown>關閉,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00406),XTemplate Infobar RolloverHintGamepad,,,,234062,,
+868548677390,<ButtonA> Cycle stored resources<newline><DPad> Navigate <DPadDown> Close,<ButtonA>循環檢視儲存的資源<newline><DPad>導航<DPadDown>關閉,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00406),XTemplate Infobar RolloverHintGamepad,,,,234062,,
 118276114882,<PreciousMetalsText>,<PreciousMetalsText>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00437),XTemplate Infobar Text,,,,231705,,
 353676002560,<PolymersRollover>,<PolymersRollover>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00464),XTemplate Infobar RolloverText,,,,234062,,
 112574648549,Polymers,聚合物,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00465),XTemplate Infobar RolloverTitle,,,,234062,,
@@ -23602,16 +23602,16 @@ Current Research: <em><CurrentResearchName></em>
 312385745918,<ElectronicsText>,<ElectronicsText>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00621),XTemplate Infobar Text,,,,231705,,
 12108,<SeedsRollover>,<SeedsRollover>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00652),XTemplate Infobar RolloverText,,,,240487,,
 563862740772,Seeds,種子,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00653),XTemplate Infobar RolloverTitle,,,,240487,,
-910237457414,<ButtonA> Cycle stored resources<newline><DPad> Navigate <DPadDown> Close,<ButtonA>循環儲存資源<newline><DPad>導航<DPadDown>關閉,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00655),XTemplate Infobar RolloverHintGamepad,,,,234062,,
+910237457414,<ButtonA> Cycle stored resources<newline><DPad> Navigate <DPadDown> Close,<ButtonA>循環檢視儲存的資源<newline><DPad>導航<DPadDown>關閉,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00655),XTemplate Infobar RolloverHintGamepad,,,,234062,,
 12109,<SeedsText>,<SeedsText>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00695),XTemplate Infobar Text,,,,240487,,
 722125688483,<PreciousMineralsRollover>,<PreciousMineralsRollover>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00724),XTemplate Infobar RolloverText,,,,245645,,
 608869515243,Exotic Minerals,奇異礦物,Rare Minerals,稀有礦物,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00725),XTemplate Infobar RolloverTitle,,,,1005383,,
-185759925809,<left_click> Cycle stored resources,<left_click>循環儲存資源,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00726),XTemplate Infobar RolloverHint,,,,234062,,
+185759925809,<left_click> Cycle stored resources,<left_click>循環檢視儲存的資源,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00726),XTemplate Infobar RolloverHint,,,,234062,,
 644253517128,<PreciousMineralsText>,<PreciousMineralsText>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00758),XTemplate Infobar Text,,,,245645,,
 12408,<WasteRockRollover>,<WasteRockRollover>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00786),XTemplate Infobar RolloverText,,,,243013,,
 12409,Waste Rock,礦渣,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00787),XTemplate Infobar RolloverTitle,,,,243013,,
-846761005248,<left_click> Cycle stored resources,<left_click>循環儲存資源,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00788),XTemplate Infobar RolloverHint,,,,234062,,
-238973917718,<ButtonA> Cycle stored resources<newline><DPad> Navigate <DPadDown> Close,<ButtonA>循環儲存資源<newline><DPad>導航<DPadDown>關閉,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00789),XTemplate Infobar RolloverHintGamepad,,,,234062,,
+846761005248,<left_click> Cycle stored resources,<left_click>循環檢視儲存的資源,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00788),XTemplate Infobar RolloverHint,,,,234062,,
+238973917718,<ButtonA> Cycle stored resources<newline><DPad> Navigate <DPadDown> Close,<ButtonA>循環檢視儲存的資源<newline><DPad>導航<DPadDown>關閉,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00789),XTemplate Infobar RolloverHintGamepad,,,,234062,,
 12410,<WasteRockText>,<WasteRockText>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00820),XTemplate Infobar Text,,,,243013,,
 13687,<PrefabRollover>,<PrefabRollover>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00848),XTemplate Infobar RolloverText,,,,1005383,,
 13688,Prefabs,預製件,,,OK,,,,,Trunk\Mars/Lua/XTemplates/Infobar.lua(00849),XTemplate Infobar RolloverTitle,,,,1005383,,
@@ -23824,7 +23824,7 @@ Mission parameters and colony site are predetermined.","在限定時間內挑戰
 1130,MOD EDITOR,模組編輯器,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PGMenuNew.lua(00229),XTemplate PGMenuNew ActionName,,,,232789,,
 1131,OPTIONS,選項,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PGMenuNew.lua(00250),XTemplate PGMenuNew ActionName,,,,232789,,
 856797454991,ACHIEVEMENTS,成就,,,OK,,,,xb1:achievement,Trunk\Mars/Lua/XTemplates/PGMenuNew.lua(00258),XTemplate PGMenuNew ActionName,,,,232789,,
-4525,PARADOX ACCOUNT,PARADOX帳號,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PGMenuNew.lua(00267),XTemplate PGMenuNew ActionName,,,,232789,,
+4525,PARADOX ACCOUNT,PARADOX 帳號,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PGMenuNew.lua(00267),XTemplate PGMenuNew ActionName,,,,232789,,
 1000932,Mods are disabled because no Xbox Live user with privilege to see and upload community creations is logged in.,模組已停用，因為沒有查看和上傳社群創作權限的Xbox Live使用者登入。,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PGMenuNew.lua(00275),,,,,1005383,,
 6884,Warning,警告,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PGMenuNew.lua(00276),,,,,222166,,
 1132,QUIT,退出,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PGMenuNew.lua(00287),XTemplate PGMenuNew ActionName,,,,232789,,
@@ -23893,7 +23893,7 @@ Mission parameters and colony site are predetermined.","在限定時間內挑戰
 7716,Read Terms of Use,閱讀使用條款,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ParadoxAccountSignUp.lua(00463),XTemplate ParadoxAccountSignUp Text,,,,232789,,
 7717,Read Privacy Policy,閱讀隱私政策,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ParadoxAccountSignUp.lua(00498),XTemplate ParadoxAccountSignUp Text,,,,232789,,
 838793210805,I have read and accept the Terms of Use ,我已閱讀並接受《使用條款》 ,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ParadoxAccountSignUp.lua(00552),XTemplate ParadoxAccountSignUp Text,,,,232789,,
-479560164468,I have read and understood the Privacy Policy,我已閱讀並理解《保密協議》,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ParadoxAccountSignUp.lua(00614),XTemplate ParadoxAccountSignUp Text,,,,232789,,
+479560164468,I have read and understood the Privacy Policy,我已閱讀並理解《隱私政策》,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ParadoxAccountSignUp.lua(00614),XTemplate ParadoxAccountSignUp Text,,,,232789,,
 482718759015,REQUIRED,必須,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ParadoxAccountSignUp.lua(00623),XTemplate ParadoxAccountSignUp Text,,,,233030,,
 644311688887,I want to receive news and offers from Surviving Mars and Paradox Interactive,我想要獲取《火星求生》和Paradox Interactive的新聞與優惠資訊,I want to receive news and offers from Survivng Mars and Paradox Interactive,我想要獲取《火星求生》和Paradox Interactive的新聞與優惠資訊,OK,,,,,Trunk\Mars/Lua/XTemplates/ParadoxAccountSignUp.lua(00676),XTemplate ParadoxAccountSignUp Text,,,,244573,,
 816278241152,CREATE ACCOUNT,新建帳號,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ParadoxAccountSignUp.lua(00711),XTemplate ParadoxAccountSignUp Text,,,,221758,,
@@ -23918,7 +23918,7 @@ Mission parameters and colony site are predetermined.","在限定時間內挑戰
 208937843602,View,查看,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PlanetaryView.lua(00313),XTemplate PlanetaryView ActionName,,,,1005383,,
 918384704159,<newline><em>The rocket will be lost!</em>,<newline><em>將損失該火箭！</em>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PlanetaryView.lua(00372),XTemplate PlanetaryView Text,,,,239549,,
 12011,Crew,工作人員,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PlanetaryView.lua(00430),XTemplate PlanetaryView Text,,,,239549,,
-387987656324,Additional Inventory,額外物品欄,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PlanetaryView.lua(00450),XTemplate PlanetaryView Text,,,,236855,,
+387987656324,Additional Inventory,額外物資需求,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PlanetaryView.lua(00450),XTemplate PlanetaryView Text,,,,236855,,
 874227567877,Expedition time,探險時間,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PlanetaryView.lua(00460),XTemplate PlanetaryView Text,,,,236855,,
 130571839539,Outcome,效果,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PlanetaryView.lua(00470),XTemplate PlanetaryView Text,,,,242559,,
 12012,PROGRESS,進度,,,OK,,,,,Trunk\Mars/Lua/XTemplates/PlanetaryView.lua(00615),XTemplate PlanetaryView Title,,,,239549,,
@@ -24023,7 +24023,7 @@ Research cost<right><ResearchPoints(cost)>","<description>
 620347027255,Available Rockets,可用火箭,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyCategories.lua(00066),XTemplate ResupplyCategories Text,,,,236165,,
 602355606532,Available Supply Pods,可用補給艙,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyCategories.lua(00074),XTemplate ResupplyCategories Text,,,,236855,,
 704448862257,Passenger Pods,乘客艙,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyCategories.lua(00083),XTemplate ResupplyCategories Text,,,,236855,,
-270405570569,<TotalCapacity> kg,<Capacity>公斤,<Capacity> kg,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyCategories.lua(00095),XTemplate ResupplyCategories Text,,,,1005383,,
+270405570569,<TotalCapacity> kg,<TotalCapacity> 公斤,<Capacity> kg,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyCategories.lua(00095),XTemplate ResupplyCategories Text,,,,1005383,,
 134782360990,<funding(Funding)>,<funding(Funding)>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyCategories.lua(00103),XTemplate ResupplyCategories Text,,,,236165,,
 778838088243,<AvailableRockets>/<TotalRockets>,<AvailableRockets>/<TotalRockets>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyCategories.lua(00111),XTemplate ResupplyCategories Text,,,,236165,,
 443216200399,<AvailableSupplyPods>/<TotalSupplyPods>,<AvailableSupplyPods>/<TotalSupplyPods>,<AvailableSupplyPods>,<AvailableSupplyPods>,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyCategories.lua(00119),XTemplate ResupplyCategories Text,,,,235826,,
@@ -24047,7 +24047,7 @@ Research cost<right><ResearchPoints(cost)>","<description>
 189122132072,Pod Capacity,運輸艙容量,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyPassengers.lua(00111),XTemplate ResupplyPassengers Text,,,,236855,,
 475005233850,Matching Applicants,符合的應徵者,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyPassengers.lua(00118),XTemplate ResupplyPassengers Text,,,,236855,,
 914238670538,Available Residences on Mars,火星上的可用住宅,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyPassengers.lua(00125),XTemplate ResupplyPassengers Text,,,,236855,,
-386907088421,Specialists on board,火箭上有專家,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyPassengers.lua(00168),XTemplate ResupplyPassengers Text,,,,242226,,
+386907088421,Specialists on board,火箭上的專家,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyPassengers.lua(00168),XTemplate ResupplyPassengers Text,,,,242226,,
 223702992751,Specialists,專家,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyPassengers.lua(00204),XTemplate ResupplyPassengers RolloverTitle,,,,242226,,
 12312,<approved>/<all>,<approved>/<all>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyPassengers.lua(00214),,,,,242226,,
 12313,Selected Applicants / All Matching Specialist Amount<newline>Open positions<right><open_positions>,選擇應徵者/所有匹配的專家數量<newline>開放位置<right><open_positions>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ResupplyPassengers.lua(00216),,,,,242226,,
@@ -24486,7 +24486,7 @@ Status: <em><UILaunchStatus></em>","派此火箭進行探險
 493502715544,Average in range<right><AvgSoilQualityInRange>%,範圍內平均<right><AvgSoilQualityInRange>%,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipConstruction.lua(00073),XTemplate ipConstruction Text,,,,240487,,
 264432180534,Highest<right><HighestSoilQualityInRange>%,最高<right><HighestSoilQualityInRange>%,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipConstruction.lua(00077),XTemplate ipConstruction Text,,,,240487,,
 910,"<middle_click> <em>(press)</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em> Rotate",<middle_click><em>（按下）</em> / <em><ShortcutName('actionRotBuildingLeft')>，<ShortcutName('actionRotBuildingRight')></em>旋轉,<middle_click> <em>(press)</em> Rotate,<middle_click><em>（按下）</em>旋轉,OK,,,,,Trunk\Mars/Lua/XTemplates/ipConstruction.lua(00114),XTemplate ipConstruction Text,,,,228838,,
-12020,"<middle_click> <em>(press)</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em> Resize","<middle_click> <em>（按）</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em> 改變大小",,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipConstruction.lua(00119),XTemplate ipConstruction Text,,,,239549,,
+12020,"<middle_click> <em>(press)</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em> Resize","<middle_click> <em>（按下）</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em> 改變大小",,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipConstruction.lua(00119),XTemplate ipConstruction Text,,,,239549,,
 911,<middle_click> Zoom in/out,<middle_click> 放大/縮小,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipConstruction.lua(00123),XTemplate ipConstruction Text,,,,223037,,
 912,<em>Hold Shift</em> Place multiple,<em> 按住 Shift </em> 放置多個,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipConstruction.lua(00128),XTemplate ipConstruction Text,,,,223037,,
 948977985272,<em>Hold CTRL</em> Show effect ranges,<em>按住CTRL</em>顯示效果範圍,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipConstruction.lua(00133),XTemplate ipConstruction Text,,,,1007006,,
@@ -24529,7 +24529,7 @@ Status: <em><UILaunchStatus></em>","派此火箭進行探險
 893,Control hints,操作提示,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipGridConstruction.lua(00029),XTemplate ipGridConstruction Title,,,,221758,,
 908,<left_click> Place,<left_click> 放置,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipGridConstruction.lua(00037),XTemplate ipGridConstruction Text,,,,223037,,
 909,<right_click> Cancel,<right_click> 取消,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipGridConstruction.lua(00041),XTemplate ipGridConstruction Text,,,,223037,,
-532866078027,"<middle_click> <em>(press)</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em> Change placement angle","<middle_click> <em>(press)</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em>更改放置角度",,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipGridConstruction.lua(00048),XTemplate ipGridConstruction Text,,,,233030,,
+532866078027,"<middle_click> <em>(press)</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em> Change placement angle","<middle_click> <em>（按下）</em> / <em><ShortcutName('actionRotBuildingLeft')>, <ShortcutName('actionRotBuildingRight')></em>更改放置角度",,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipGridConstruction.lua(00048),XTemplate ipGridConstruction Text,,,,233030,,
 10542,<left_click> outside of Domes to create turns in the Passage,<left_click>在穹頂外的通道中建立彎道,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipGridConstruction.lua(00053),XTemplate ipGridConstruction Text,,,,233030,,
 914,<ButtonA> Place,<ButtonA> 放置,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipGridConstruction.lua(00062),XTemplate ipGridConstruction Text,,,,223160,,
 915,<ButtonB> Cancel,<ButtonB> 取消,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipGridConstruction.lua(00066),XTemplate ipGridConstruction Text,,,,223160,,
@@ -24662,7 +24662,7 @@ Current status: <em><UIWorkingStatus></em>","被關閉的建築不會發揮作�
 <ButtonX>針對所有探測車切換",,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipRover.lua(00185),XTemplate ipRover RolloverHintGamepad,,,,234062,,
 519056325841,Clears the route and stops the rover,清除路線並停止探測車,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipRover.lua(00201),XTemplate ipRover RolloverText,,,,245645,,
 207617533981,Clear Route,清除路線,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipRover.lua(00202),XTemplate ipRover RolloverTitle,,,,245645,,
-370493164990,Current state or task of the rover.,探測車目前的狀態或認為。,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipRover.lua(00221),XTemplate ipRover RolloverText,,,,243013,,
+370493164990,Current state or task of the rover.,探測車目前的狀態或任務。,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipRover.lua(00221),XTemplate ipRover RolloverText,,,,243013,,
 138085146102,Status,狀態,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipRover.lua(00222),XTemplate ipRover RolloverTitle,,,,242226,,
 49,Status,狀態,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipRover.lua(00223),XTemplate ipRover Title,,,,226204,,
 51,<ui_command>,<ui_command>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/ipRover.lua(00228),XTemplate ipRover Text,,,,221758,,
@@ -25108,7 +25108,7 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 464159782202,The maximum number of sols that tourists stay on Mars.,遊客在火星能逗留的太陽日數。,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00210),ConstDef Colonist TouristSolsOnMarsMax help,,,,245645,,
 365958818165,TouristSolsOnMarsMax,TouristSolsOnMarsMax,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00212),ConstDef Colonist TouristSolsOnMarsMax name,,,,245645,,
 850859674012,The number of sols that tourists stay on Mars.,遊客在火星上停留的太陽日數。,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00217),ConstDef Colonist TouristSolsOnMarsMin help,,,,232789,,
-432745681792,TouristSolsOnMarsMin,遊客在火星太陽日數,TouristSolsOnMars,,OK,,,,,Trunk\Mars/Lua/_const.lua(00219),ConstDef Colonist TouristSolsOnMarsMin name,,,,245645,,
+432745681792,TouristSolsOnMarsMin,TouristSolsOnMarsMin,TouristSolsOnMars,遊客在火星太陽日數,OK,,,,,Trunk\Mars/Lua/_const.lua(00219),ConstDef Colonist TouristSolsOnMarsMin name,,,,245645,,
 4763,Comfort penalty when failing to satisfy a need via a visit,未能透過訪問滿足需求時，舒適度減益效果,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00225),ConstDef Colonist VisitFailPenalty name,,,,221758,,
 4748,Arrival chance (Botanist),到達機率（植物學家）,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00232),ConstDef Colonist botanist_arrival_chance name,,,,221758,,
 4752,"Food eaten per visit to building, Farm or stockpile",每次訪問建築、農場或庫存時食用的食物,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00237),ConstDef Colonist eat_food_per_visit help,,,,223532,,
