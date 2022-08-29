@@ -31,61 +31,53 @@ ID,Text,Translation,Old Text,Old Translation,Status,Gender,Critical Warnings,Non
 1000771,Mod <ModLabel> will be uploaded to Paradox,<ModLabel>模組將上傳至Paradox,,,OK,,,,,Trunk\CommonLua/Classes/GedModEditor.lua(00741),,,,,233513,,
 1000009,Confirmation,確認,,,OK,,,,,Trunk\CommonLua/Classes/GedModEditor.lua(00751),,,,,221758,,
 1000785,Mod <ModLabel> will be unpublished from Paradox.,將從Paradox取消釋出<ModLabel>模組,,,OK,,,,,Trunk\CommonLua/Classes/GedModEditor.lua(00751),,,,,233875,,
-1000019,Preview image,預覽影像,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00174),,,,,221758,,
-1000754,Last changes,最新更改,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00175),,,,,232789,,
-1000834,Ignore files,忽略檔案,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00176),,,,,238196,,
-12353,Dependencies,依賴功能,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00177),,,,,243013,,
-1000021,Steam ID,Steam ID,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00179),,,,,223532,,
-1000772,Paradox Desktop UUID,Paradox桌面UUID,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00180),,,,,233513,,
-1000773,Paradox All UUID,Paradox所有UUID,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00181),,,,,233875,,
-12356,Revision,修訂,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00185),,,,,243013,,
-1000024,Required game version,需要的遊戲版本,Game version,遊戲版本,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00186),,,,,240619,,
-12144,Saved with game version,儲存的遊戲版本,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00187),,,,,240619,,
-1000774,Screenshot,螢幕截圖,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00199),,,,,233513,,
+1000019,Preview image,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00174),,,,,221724,,13
+1000754,Last changes,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00175),,,,,232789,,12
+1000834,Ignore files,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00176),,,,,238196,,12
+12353,Dependencies,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00177),,,,,243013,,12
+1000021,Steam ID,,Steam Id,Steam ID,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00179),,,,,223532,,1
+1000772,Paradox Desktop UUID,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00180),,,,,233513,,20
+1000773,Paradox All UUID,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00181),,,,,233875,,16
+12356,Revision,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00185),,,,,243013,,8
+1000024,Required game version,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00186),,,,,240619,,21
+12144,Saved with game version,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00187),,,,,240619,,23
+1000774,Screenshot,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00199),,,,,233513,,10
 12357,"<u(title)> (loaded)
-id <u(id)>, version <VersionText>",,"<u(title)> (loaded)
-id <u(id)>, version <VersionText>","<u(title)>（讀取）
-ID <u(id)>，版本 <VersionText>",OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00233),,,,,243013,,
+id <u(id)>, version <VersionText>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00233),,,,,243013,,53
 12358,"<color 128 128 128><u(title)>
-id <u(id)>, version <VersionText></color>",,"<color 128 128 128><u(title)>
-id <u(id)>, version <VersionText></color>","<color 128 128 128><u(title)>
-id <u(id)>, 版本 <VersionText></color>",OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00235),,,,,243013,,
-1000869,Failed to load mod items from <ModLabel>. Error: <u(err)>,未能從<ModLabel>載入模組物品。錯誤：<u(err)>,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00309),,,,,243721,,
-12359,"<u(title)> (id <u(id)>, version <VersionText>)",<u(title)>（ID <u(id)>，版本 <VersionText>）,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00576),,,,,243013,,
-1000029,Savegame Mod <ModLabel> is present but not loaded,存檔模組<ModLabel>已存在，但尚未載入,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00605),,,,,221758,,
-1000030,Savegame Mod <ModLabel> is loaded with a different version <version>,存檔模組<ModLabel>已載入，但版本不同，為<version>,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00607),,,,,221758,,
-1000031,Savegame Mod <ModLabel>,存檔模組<ModLabel>,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00609),,,,,221758,,
-1000032,Savegame references Mod <ModLabel> which is not present,存檔模組<ModLabel>不存在,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00613),,,,,221758,,
-12453,Loading mod metadata...,正在載入模組元資料,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00993),,,,,243121,,
-1000033,Outdated definition for <ModLabel> loaded from <path>. (Unsupported game version),從<path>中載入的<ModLabel>定義已過期。（不支援的遊戲版本）,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01093),,,,,227504,,
-1000034,Mod <ModLabel> ignored because a newer version is already loaded,已忽略模組<ModLabel>，因為已載入更新的遊戲版本。,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01101),,,,,221758,,
-1000035,Mod <ModLabel> will replace an older version of the same mod,模組<ModLabel>將會替換較早版本的同名模組,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01103),,,,,223532,,
-1000870,Failed to load mod metadata from <u(path)>. Error: <u(err)>,未能從<u(path)>載入模組元資料。錯誤：<u(err)>,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01129),,,,,243721,,
-12454,Mod <depending_mod> creates circular dependency cylce with <other_mods>.,模組<depending_mod>產生與<other_mods>的迴圈依賴。,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01210),,,,,243121,,
-12455,Cannot load <depending_mod> because dependency mod <dependency> is not active.,無法載入<depending_mod>，因為依賴的<dependency>模組未啟用。,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01213),,,,,243121,,
-12456,Cannot load <depending_mod> because dependency mod <dependency> is not compatible.,無法載入<depending_mod>，因為依賴的<dependency>模組不相容。,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01217),,,,,243121,,
-12457,Cannot load <depending_mod> because dependency mod <title> is not found.,無法載入<depending_mod>，因為未發現依賴的<title>模組。,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01226),,,,,243121,,
-12458,Loading mod items...,正在載入模組物品……,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01285),,,,,243121,,
-1000036,Error loading <u(file)>: <u(err)>,載入錯誤<u(file)>：<u(err)>,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01394),,,,,221758,,
-1000720,Outdated mod <ModLabel> cannot be loaded. (Unsupported game version),模組<ModLabel>已過期，無法載入（不支援的遊戲版本）,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01414),,,,,227504,,
-1000721,Outdated Mods,過期模組,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01454),,,,,227504,,
+id <u(id)>, version <VersionText></color>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00235),,,,,243013,,71
+1000869,Failed to load mod items from <ModLabel>. Error: <u(err)>,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00309),,,,,243721,,57
+12359,"<u(title)> (id <u(id)>, version <VersionText>)",,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00576),,,,,243013,,46
+1000029,Savegame Mod <ModLabel> is present but not loaded,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00605),,,,,221724,,49
+1000030,Savegame Mod <ModLabel> is loaded with a different version <version>,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00607),,,,,221724,,68
+1000031,Savegame Mod <ModLabel>,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00609),,,,,221724,,23
+1000032,Savegame references Mod <ModLabel> which is not present,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00613),,,,,221724,,55
+12453,Loading mod metadata...,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(00993),,,,,243121,,23
+1000033,Outdated definition for <ModLabel> loaded from <path>. (Unsupported game version),,Mod <ModLabel> ignored because it is created with an old and unsupported game version,Ignored Mod <ModLabel> because it was created with an old and unsupported game version,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01093),,,,,227504,,53
+1000034,Mod <ModLabel> ignored because a newer version is already loaded,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01101),,,,,221724,,64
+1000035,Mod <ModLabel> will replace an older version of the same mod,,Mod <ModLabel> replaces an older version of the same mod,Mod <ModLabel> will replace an older version of the same mod,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01103),,,,,223532,,
+1000870,Failed to load mod metadata from <u(path)>. Error: <u(err)>,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01129),,,,,243721,,59
+12454,Mod <depending_mod> creates circular dependency cylce with <other_mods>.,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01210),,,,,243121,,72
+12455,Cannot load <depending_mod> because dependency mod <dependency> is not active.,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01213),,,,,243121,,78
+12456,Cannot load <depending_mod> because dependency mod <dependency> is not compatible.,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01217),,,,,243121,,82
+12457,Cannot load <depending_mod> because dependency mod <title> is not found.,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01226),,,,,243121,,72
+12458,Loading mod items...,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01285),,,,,243121,,20
+1000036,Error loading <u(file)>: <u(err)>,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01394),,,,,221724,,33
+1000720,Outdated mod <ModLabel> cannot be loaded. (Unsupported game version),,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01414),,,,,227504,,68
+1000721,Outdated Mods,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01454),,,,,227504,,13
 1000722,Certain mods are disabled because they are not supported by the current version of the game.,某些模組已被停用，因為它們不支援目前版本。,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01455),,,,,227504,,
-1000038,Comment,評論,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01506),,,,,221758,,
+1000038,Comment,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01506),,,,,221724,,7
 1000724,<u(name)>,<u(name)>,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01510),,,,,228384,,
-1000733,<color 128 128 128><u(EditorName)></color> <Description> <color 0 0 255><u(comment)></color>,<color 128 128 128><u(EditorName)></color> <Description> <color 0 0 255><u(comment)></color>,<color 128 128 128><u(EditorName)></color> <Description>,<color 128 128 128><u(EditorName)></color> <Description>,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01511),,,,,232789,,
-1000863,Please enter a valid identifier,請輸入有效識別符號,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01615),,,,,243703,,
-1000865,"Option <name> = <DefaultValue> <color 0 128 0><opt(u(comment),' ','')>","選項 <name> =<DefaultValue> <color 0 128 0><opt(u(comment),' ','')>",,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01626),,,,,243703,,
-1000866,"Option <name> = <u(v)> <color 0 128 0><opt(u(comment),' ','')>","選項 <name> =<u(v)> <color 0 128 0><opt(u(comment),' ','')>",,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01660),,,,,243703,,
-12360,Mod,模組,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01735),,,,,243013,,
-12354,Major Version,主版本號,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01739),,,,,243013,,
-12355,Minor Version,副版本號,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01740),,,,,243013,,
+1000733,<color 128 128 128><u(EditorName)></color> <Description> <color 0 0 255><u(comment)></color>,<color 128 128 128><u(EditorName)></color> <Description> <color 0 0 255><u(comment)></color>,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01511),,,,,233270,,
+1000863,Please enter a valid identifier,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01615),,,,,243703,,31
+1000865,"Option <name> = <DefaultValue> <color 0 128 0><opt(u(comment),' ','')>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01626),,,,,243703,,70
+1000866,"Option <name> = <u(v)> <color 0 128 0><opt(u(comment),' ','')>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01660),,,,,243703,,62
+12360,Mod,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01735),,,,,243013,,3
+12354,Major Version,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01739),,,,,243013,,13
+12355,Minor Version,,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01740),,,,,243013,,13
 12459,"The following mods will not be loaded because of missing or incompatible dependencies:
 
-<skipped>",,"The following mods will not be loaded because of missing or incompatible dependencies:
-
-<skipped>","由於依賴功能缺失或不相容，無法載入以下模組：
-
-<skipped>",OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01882),,,,,243121,,
+<skipped>",,,,OK,,,,,Trunk\CommonLua/Classes/Mod.lua(01882),,,,,243121,,97
 1000040,Please enter a valid name,請輸入有效名稱,,,OK,,,,,Trunk\CommonLua/Classes/ModItem.lua(00013),,,,,221758,,
 1000041,A code item with that name already exists,該名稱的代碼項已存在,,,OK,,,,,Trunk\CommonLua/Classes/ModItem.lua(00017),,,,,223532,,
 1000042,File name,檔名,,,OK,,,,,Trunk\CommonLua/Classes/ModItem.lua(00023),,,,,221758,,
