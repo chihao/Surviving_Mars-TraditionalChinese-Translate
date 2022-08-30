@@ -18,7 +18,8 @@ A. (推薦) 可直接下載 Tchinese.hpk ，並置於 "遊戲安裝目錄\Local\
 
 ~~B. 直接在 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1749276214) 訂閱，
 進遊戲至模組管理員，啟用訂閱的MOD。後續若變更語言，MOD會失效，此時請重新停用並啟用本MOD。~~
-1011166 版本未更新至 Steam Workshop, 請使用方法 A 套用此語系包
+
+1011166 版本未更新至 Steam Workshop, 請使用方法 A 套用此語言包
 
 ### Changelog
 
