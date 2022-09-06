@@ -1931,11 +1931,11 @@ Some buildings require Power to operate, other are staffed by Colonists living n
 
 The <em>Performance</em> of any building indicates how effectively the building is performing its primary function. It depends on many factors such as researched technologies, upgrades and the current individual performance of the specific colonists working in the building. Qualified specialists and workers with high Morale will increase the performance of a building, while empty work slots, Renegades and workers with low Morale or other issues will be detrimental.
 
-Buildings can be set to operate in three <em>Work Shifts</em> - first, second and night. Turning off some Work Shifts will conserve power and workforce. ","火星殖民地由各種各樣的建築物組成，它們可以提供電力、維生、舒適、保護、資訊、資源等一系列保障。若少了這些保障，人類就無法在火星上生存。
+Buildings can be set to operate in three <em>Work Shifts</em> - first, second and night. Turning off some Work Shifts will conserve power and workforce. ","火星殖民地由各式各樣的建築物組成，它們可以提供電力、維生、舒適、保護、資訊、資源等一系列保障。若少了這些保障，人類就無法在火星上生存。
 
 建築物可以透過火星上的資源進行建造，部分建築也可以以預製建築的形式，從地球直接購買。不過，所有建築物都需要資源進行維護。
 
-建築工地必須位於<em>無人機</em>的<em>服務區</em>內（與其控制中心相關），以便進行資源運輸與建造工作的正常進行。
+建築工地必須位於<em>無人機</em>的<em>服務區域</em>內（與其控制中心相關），以便進行資源運輸與建造的工作。
 
 部分建築物僅需要電力即可運作，而其它建築則需要居住於附近的居民進行操作。
 
@@ -2084,9 +2084,9 @@ Smart design processes and accepted standards have made possible the stockpiling
 
 <center><image UI/Common/rollover_line.tga 2000><left>
 
-在地球上，我們人類憑藉各種各樣的機械來支撐高度發達的生活。無論是各種輕工業重工業，還是龐大的交通運輸系統，都離不開機械。而在火星，除了上述內容之外，這些機器還承擔著維護生命環境的重擔。
+在地球上，我們人類憑藉各式各樣的機械來支撐高度發達的生活。無論是各種輕工業重工業，還是龐大的交通運輸系統，都離不開機械。而在火星，除了上述內容之外，這些機器還承擔著維護生命環境的重擔。
 
-透過精妙的機械設計與標準化的製造流程，人們可以大量囤積通用性強、具有高互換性的機械零件，可以把它們用在各種各樣的機械裝置上。對新生殖民地而言，不斷地從地球運送機械零件也能滿足需求。但若想獲得可靠有保障的物資來源，就只能在火星上直接生產這些零件。只有這樣，人類在火星上的夢想之城才可能重現地球上的生活。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00148),EncyclopediaArticle Resources Mechanical Parts text,,,,224285,,
+透過精妙的機械設計與標準化的製造流程，人們可以大量囤積通用性強、具有高互換性的機械零件，可以把它們用在各式各樣的機械裝置上。對新生殖民地而言，不斷地從地球運送機械零件也能滿足需求。但若想獲得可靠有保障的物資來源，就只能在火星上直接生產這些零件。只有這樣，人類在火星上的夢想之城才得以重現地球上的生活。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00148),EncyclopediaArticle Resources Mechanical Parts text,,,,224285,,
 5386,Machine Parts,機械零件,,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00150),EncyclopediaArticle Resources Mechanical Parts title_text,,,,224285,,
 5388,"Metal  <image UI/Icons/Sections/Metals_1.tga>  is readily found on the Martian surface, deposited from ancient tectonic activity and meteor blasts. Further deposits can be found beneath the surface (by either <em>Orbital Probes</em> or <em>Sensor Towers</em>) which can be then mined with <em>Metal Extractors</em>.
 
@@ -2198,7 +2198,7 @@ The apex of human transport technology, Rovers are incredibly durable, making th
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-作為人類尖端運輸技術的產物，探測車構造非常結實，從而使它們可以抵抗火星上的大部分自然災害，包括塵土與寒冷等等。它們可以穿過殖民地去到遙遠的地方，執行各種各樣的任務，只會受到地形方面的限制。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00254),EncyclopediaArticle Vehicles RCRover text,,,,233875,,
+作為人類尖端運輸技術的產物，探測車構造非常結實，從而使它們能夠抵抗火星上的大部分自然災害，包括塵土與寒冷等等。它們可以穿過殖民地去到遙遠的地方，執行各式各樣的任務，只會受到地形方面的限制。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00254),EncyclopediaArticle Vehicles RCRover text,,,,233875,,
 10474,"RC Transports are remote controlled vehicles which are tasked with the transportation of cargo, mostly from or to places outside of drone operating ranges. Furthermore, RC Transports may set up permanent transport routes, maintaining the flow of resources from one place to another.
 
 Transport rovers can also extract resource from surface deposit (<em>Metals</em> and <em>Polymers</em>) allowing extraction and transportation of far away deposit sites.
@@ -2211,7 +2211,7 @@ The apex of human transport technology, Rovers are incredibly durable, making th
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-作為人類尖端運輸技術的產物，探測車構造非常結實，從而使它們可以抵抗火星上的大部分自然災害，包括塵土與寒冷等等。它們可以穿過殖民地去到遙遠的地方，執行各種各樣的任務，只會受到地形方面的限制。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00266),EncyclopediaArticle Vehicles RCTransport text,,,,233875,,
+作為人類尖端運輸技術的產物，探測車構造非常結實，從而使它們能夠抵抗火星上的大部分自然災害，包括塵土與寒冷等等。它們可以穿過殖民地去到遙遠的地方，執行各式各樣的任務，只會受到地形方面的限制。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00266),EncyclopediaArticle Vehicles RCTransport text,,,,233875,,
 5400,"RC Explorers carry with them advanced examination and research apparatus, making them the perfect vehicle to analyze any anomalous reading from anywhere in the region. As all Rovers, they are remotely controlled and can reach far-out locations if the terrain permits it.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
@@ -2220,7 +2220,7 @@ The apex of human transport technology, Rovers are incredibly durable, making th
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-作為人類尖端運輸技術的產物，探測車構造非常結實，從而使它們可以抵抗火星上的大部分自然災害，包括塵土與寒冷等等。它們可以穿過殖民地去到遙遠的地方，執行各種各樣的任務，只會受到地形方面的限制。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00278),EncyclopediaArticle Vehicles Explorer text,,,,233875,,
+作為人類尖端運輸技術的產物，探測車構造非常結實，從而使它們能夠抵抗火星上的大部分自然災害，包括塵土與寒冷等等。它們可以穿過殖民地去到遙遠的地方，執行各式各樣的任務，只會受到地形方面的限制。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00278),EncyclopediaArticle Vehicles Explorer text,,,,233875,,
 5401,"Shuttles are a safe and rapid transportation method for Colonists between distant <em>Domes</em> and can also deliver resources reliably wherever needed – distance being irrelevant. When not in use, they are stationed at <em>Shuttle Hubs</em>, where they are maintained and refueled.
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
@@ -2246,7 +2246,7 @@ Seeing multiple sights of the same category decreases the <em>Satisfaction</em> 
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-The Safari Rovers were created to give tourists an unforgettable experience to share with those back on Earth. The publicity generated by the droves of satisfied tourists has helped keep the Mars project relevant. Safari Rovers are fully automated, providing a wide range of amenities and thrills to anyone willing to pay the steep fare.","遙控觀景車是一種遙控載具，它可以帶著有<em>遊客</em>特性的殖民地居民在火星表面旅行。遊客駛過不同的景點即可獲得<em>滿意度</em>。景點分為幾類，每一類都產生特定數量的滿意度。
+The Safari Rovers were created to give tourists an unforgettable experience to share with those back on Earth. The publicity generated by the droves of satisfied tourists has helped keep the Mars project relevant. Safari Rovers are fully automated, providing a wide range of amenities and thrills to anyone willing to pay the steep fare.","遙控觀景車是一種遙控載具，它可以帶著有<em>遊客</em>特性的殖民地居民在火星地表旅行。遊客通過不同的景點即可獲得<em>滿意度</em>。景點分為幾類，每一類都會產生一定程度的滿意度。
 
 <em>風景</em>：岩層和景觀
 
@@ -2258,11 +2258,11 @@ The Safari Rovers were created to give tourists an unforgettable experience to s
 
 <em>壯觀的建築</em>：無人機組裝廠、氧氣生成裝置、反隕石鐳射炮和外部牧場遊客
 
-看到多個同種類的景點會降低他們產生的<em>滿意度</em>，所以要仔細規劃遊覽路線。
+看到多個同種類的景點會降低他們的<em>滿意度</em>，所以要仔細規劃遊覽路線。
 
 <center><image UI/Common/rollover_line.tga 2000><left>
 
-觀景探測車是為了給遊客難忘的體驗，以便他們回到地球後與他人分享。滿意的遊客群產生的宣傳效應有助於維持火星項目的價值。全自動往返的遊覽探測車會為那些支付高價的遊客提供各種各樣的便利和娛樂。","The RC Safari is a remote-controlled vehicle that is used to take colonists with the <em>Tourist</em> trait on trips across the surface of Mars. Tourists gain <em>Satisfaction</em> from traveling past various sights. Sights are split into categories which generate a certain amount of Satisfaction each. 
+觀景探測車是為了給遊客難忘的體驗，以便他們回到地球後與他人分享。滿意的遊客群產生的宣傳效應有助於維持火星項目的價值。全自動往返的觀景探測車會為那些支付高價的遊客提供各式各樣的便利和娛樂。","The RC Safari is a remote-controlled vehicle that is used to take colonists with the <em>Tourist</em> trait on trips across the surface of Mars. Tourists gain <em>Satisfaction</em> from traveling past various sights. Sights are split into categories which generate a certain amount of Satisfaction each. 
 
 <em>Sceneries</em>: Rock Formations & Vistas 
 
@@ -2278,7 +2278,7 @@ Seeing multiple sights of the same category decreases the <em>Satisfaction</em> 
 
 <center><image UI/Common/rollover_line.tga 2000> <left>
 
-The Safari Rovers were created to give tourists an unforgettable experience to share with those back on Earth. The publicity generated by the droves of satisfied tourists has helped keep the Mars project relevant. Safari Rovers are fully automated, providing a wide range of amenities and thrills to anyone willing to pay the steep fare.","遙控觀景車是一種遙控載具，它可以帶著有<em>遊客</em>特性的殖民地居民在火星表面旅行。遊客駛過不同的景點即可獲得<em>滿意度</em>。景點分為幾類，每一類都產生特定數量的滿意度。
+The Safari Rovers were created to give tourists an unforgettable experience to share with those back on Earth. The publicity generated by the droves of satisfied tourists has helped keep the Mars project relevant. Safari Rovers are fully automated, providing a wide range of amenities and thrills to anyone willing to pay the steep fare.","遙控觀景車是一種遙控載具，它可以帶著有<em>遊客</em>特性的殖民地居民在火星地表旅行。遊客通過不同的景點即可獲得<em>滿意度</em>。景點分為幾類，每一類產生一定程度的滿意度。
 
 <em>風景</em>：岩層和景觀
 
@@ -2290,11 +2290,11 @@ The Safari Rovers were created to give tourists an unforgettable experience to s
 
 <em>壯觀的建築</em>：無人機組裝廠、氧氣生成裝置、反隕石鐳射炮和外部牧場
 
-遊客看到多個同種類的景點會降低他們產生的<em>滿意度</em>，所以要仔細規劃遊覽路線。
+遊客看到多個同種類的景點會降低他們的<em>滿意度</em>，所以要仔細規劃遊覽路線。
 
 <center><image UI/Common/rollover_line.tga 2000><left>
 
-观景探测车是为了给游客难忘的体验，以便他们回到地球后与他人分享。满意的游客群产生的宣传效应有助于维持火星项目的价值。全自动往返的游览探测车会为那些支付高价的游客提供各种各样的便利和娱乐。",OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00300),EncyclopediaArticle Vehicles RCSafari text,,,,1006192,,
+觀景探測車是為了給遊客難忘的體驗，以便他們回到地球後與他人分享。滿意的遊客群產生的宣傳效應有助於維持火星項目的價值。全自動往返的觀景探測車會為那些支付高價的遊客提供各式各樣的便利和娛樂。",OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00300),EncyclopediaArticle Vehicles RCSafari text,,,,1006192,,
 542076487006,RC Safari,遙控觀景車,,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00302),EncyclopediaArticle Vehicles RCSafari title_text,,,,245645,,
 5403,"Hints explain the basic mechanics of the game and will appear contextually as you play. All hints are also available in this Encyclopedia section.
 
@@ -2315,7 +2315,7 @@ Extractors, Martian dust geysers, rocket landings and launches spread dust in th
 
 在穹頂之外，火星上的塵土和自然災害還會使建築的狀況進一步惡化。
 
-挖掘站運作、火星塵土噴泉爆發、以及火箭起飛降落時，都會導致附近的建築被塵土汙染。
+挖掘站運作、火星塵土間歇泉爆發、以及火箭起飛降落時，都會導致附近的建築被塵土汙染。
 
 <em>無人機</em>也同樣會受到塵土影響，最終導致無法執行。<em>充電站</em>可以在充電過程中對無人機進行清洗。
 ",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00332),EncyclopediaArticle GameMechanics Dust and Maintenance text,,,,226302,,
@@ -2376,7 +2376,7 @@ Power cables can sustain <em>Cable Faults</em> (either from <em>Meteors</em> and
 
 Cable Faults drain power from the grid. Repairing them requires Metals and may take some time.
 
-IMPORTANT: Denser power grids develop more Cable Faults.","電力被分配給電網內的所有建築，電網由<em>發電建築</em>（或<em>蓄電池</em>）以及透過電纜相連或彼此相鄰接的所有<em>用電</em>建築構成。
+IMPORTANT: Denser power grids develop more Cable Faults.","電力被分配給電網內的所有建築，電網由<em>發電建築</em>（或<em>蓄電池</em>）以及透過電纜相連或彼此相鄰的所有<em>用電</em>建築構成。
 
 玩家可以沿著電纜建造<em>電源開關</em>，從而可以輕易地將電網的一部分從整個電網中斷開或恢復連線。
 
@@ -2491,7 +2491,7 @@ Upon returning to earth, each Tourist gives their holiday a rating based on thei
 
 Every Tourist has the <em>Satisfaction</em> stat, which tracks how much they've enjoyed their holiday. Satisfaction is increased by raising stats and through certain buildings or vehicles (<em>Hotels</em>, <em>Low-G Amusement Parks</em>, and <em>RC Safaris</em> ).","遊客是那些透過重新補給介面從地球邀請來的<em>殖民地居民</em>，他們來火星是為了消遣。他們在火星逗留5個太陽日，隨後就打算回家。
 
-當他們回到地球時，每名遊客都會根據他們的<em>滿意度</em>屬性評價他們的假期。根據評價，他們提供資金並招徠新的應徵者。有<em>佈道者</em>、<em>名人</em>和<em>天才</em>特性的遊客給予額外的獎勵。
+當他們回到地球時，每名遊客都會根據他們的<em>滿意度</em>屬性來給他們的假期評價。根據評價，他們提供資金並招來新的應徵者。有<em>佈道者</em>、<em>名人</em>和<em>天才</em>特性的遊客會給予額外的獎勵。
 
 每名遊客都有<em>滿意度</em>屬性，這顯示他們假期過得有多愉快。滿意度是透過提高屬性及透過特定的建築或載具（<em>旅館</em>、 <em>低重力遊樂園</em>和<em>遙控觀景車</em>）提高的。",,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00452),EncyclopediaArticle GameMechanics Tourists text,,,,246126,,
 914217898717,Tourists,遊客,,,OK,,,,,Trunk\Mars/Data/EncyclopediaArticle.lua(00454),EncyclopediaArticle GameMechanics Tourists title_text,,,,245645,,
@@ -2602,7 +2602,7 @@ The process is facilitated by Drones, which extract Waste Rock to lower the grou
 822533431359,Can't import food from Earth,無法從地球進口食物,Can't import food from Earth.,無法從地球進口食物。,OK,,,,,Trunk\Mars/Data/GameRules.lua(00244),GameRules Hunger description,,,,232789,,
 706031426910,Hunger,饑荒,,,OK,,,,,Trunk\Mars/Data/GameRules.lua(00245),GameRules Hunger display_name,,,,228384,,
 823700604514,"<grey>""If we can conquer space, we can conquer childhood hunger.""
-<right>Buzz Aldrin</grey><left>","<grey>“如果我們能征服外星空間，我們就能解決兒童捱餓的問題。”
+<right>Buzz Aldrin</grey><left>","<grey>“如果我們能征服外星空間，我們就能解決兒童挨餓的問題。”
 <right>巴茲·奧爾德林</grey><left>",,,OK,,,,,Trunk\Mars/Data/GameRules.lua(00246),GameRules Hunger flavor,,,,230058,,
 579334279447,Import prices increase over time,進口物資價格隨時間增長,Import prices increase over time.,進口物資價格隨時間增長。,OK,,,,,Trunk\Mars/Data/GameRules.lua(00254),GameRules Inflation description,,,,232789,,
 409282573761,Inflation,通貨膨脹,,,OK,,,,,Trunk\Mars/Data/GameRules.lua(00255),GameRules Inflation display_name,,,,228384,,
@@ -2877,9 +2877,9 @@ The Transport can establish a supply route between two points on the map.","<em>
 12569,"The <em>RC Explorer</em> can analyze Anomalies found on the surface of Mars. Orders are given with the buttons in the Infopanel or using <UnitMoveControl()>.
 Queue tasks by using <em>Shift + <right_click></em>","<em>遙控探索者</em>可以分析您在火星表面發現的異象。您可以使用資訊面板中的按鈕或透過<UnitMoveControl()>來下命令。
 按<em>Shift+<right_click></em>將任務加入佇列",,,OK,,,,ps4:button xb1:button,Trunk\Mars/Data/OnScreenHint.lua(00180),OnScreenHint HintExplorer text,,,,244011,,
-7026,"Drones are automated workers that gather resources, construct structures and perform maintenance. They are controlled by a Drone Hub, Rocket or RC Commander and will automatically perform tasks in the <em>service area</em> of their controller.",無人機是自動化的工人，負責搜集資源、建造建築和維護作業。它們可由無人機中心、火箭或遙控指揮車進行控制，並會自動在其控制核心的<em>服務區域</em>中執行任務。,"Drones are automated workers that gather resources, construct structures and perform maintenance. They are controlled by a Drone Hub, Rocket or RC Rover and will automatically perform tasks in the <em>service area</em> of their controller.",無人機是自動化的工人，負責搜集資源、建造建築和維護作業。它們可由無人機中心、火箭或遙控探測車進行控制，會自動在其控制核心的<em>服務區域</em>中執行任務。,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00188),OnScreenHint HintDrones text,,,,231705,,
+7026,"Drones are automated workers that gather resources, construct structures and perform maintenance. They are controlled by a Drone Hub, Rocket or RC Commander and will automatically perform tasks in the <em>service area</em> of their controller.",無人機是自動化的工人，負責搜集資源、建造建築和維護作業。它們可由無人機中心、火箭或遙控指揮車進行控制，並會自動在其控制中心的<em>服務區域</em>中執行任務。,"Drones are automated workers that gather resources, construct structures and perform maintenance. They are controlled by a Drone Hub, Rocket or RC Rover and will automatically perform tasks in the <em>service area</em> of their controller.",無人機是自動化的工人，負責搜集資源、建造建築和維護作業。它們可由無人機中心、火箭或遙控探測車進行控制，會自動在其控制中心的<em>服務區域</em>中執行任務。,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00188),OnScreenHint HintDrones text,,,,231705,,
 5537,"One of your buildings needs electrical Power produced by <em>Solar Panels</em>, <em>Wind Turbines</em>, or another Power generator. Power consumers must be connected to producers by being adjacent to them or via <em>Power Cables</em>.
-Note that Solar Panels work only during <em>daylight hours</em>, so you may want to store the excess energy in a <em>Power Accumulator</em>.","您的其中一座建築需要電力，電力由<em>太陽能板</em>、<em>風力發電機</em>或其它種類的發電機產生。用電設施建築必須與發電建築相鄰接，或透過<em>電纜相連</em>。
+Note that Solar Panels work only during <em>daylight hours</em>, so you may want to store the excess energy in a <em>Power Accumulator</em>.","您的其中一座建築需要電力，電力由<em>太陽能板</em>、<em>風力發電機</em>或其它種類的發電機產生。用電設施建築必須與發電建築相鄰，或透過<em>電纜相連</em>。
 請注意，太陽能電池板只能在<em>白天</em>工作，因此，您還需要一個<em>蓄電池</em>來儲存過剩的電力。",,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00196),OnScreenHint HintPower text,,,,233030,,
 5538,"Drones will stockpile all kinds of resources into a <em>Universal Depot</em>. Consider placing a Depot near each of your outposts.
 
@@ -2933,7 +2933,7 @@ To add a Sector to the scanning queue, go to the <em>Overview Mode</em> and <lef
 7565,"To start working on a technology, press <LT> and open the <em>Research</em> screen.",按下<LT>開啟<em>研究</em>介面，即可開始研究一項技術。,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00410),OnScreenHint HintResearchAvailable gamepad_text,,,,225536,,
 5573,"To start working on a technology, open the <em>Research</em> screen.",開啟<em>研究</em>介面，即可開始研究一項技術。,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00413),OnScreenHint HintResearchAvailable text,,,,225536,,
 5572,Research Available,研究已可用,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00414),OnScreenHint HintResearchAvailable title,,,,221758,,
-7435,Research will unlock various benefits for the Colony. Researching any technology will make a new technology in its field available for research. Changing your active research will preserve the progress of the previously researched technology.,研究技術將會為殖民地帶來各種各樣加成效果。當玩家完成某項技術的研究工作後，會解鎖同一領域的新技術，讓玩家可以進一步研究。如果您在研究中途切換至新的技術，之前的研究進度將會保留。,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00421),OnScreenHint HintResearch text,,,,223532,,
+7435,Research will unlock various benefits for the Colony. Researching any technology will make a new technology in its field available for research. Changing your active research will preserve the progress of the previously researched technology.,研究技術將會為殖民地帶來各式各樣加成效果。當玩家完成某項技術的研究工作後，會解鎖同一領域的新技術，讓玩家可以進一步研究。如果您在研究中途切換至新的技術，之前的研究進度將會保留。,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00421),OnScreenHint HintResearch text,,,,223532,,
 7434,Researching Technologies,研究技術,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00422),OnScreenHint HintResearch title,,,,222739,,
 7436,The passenger rocket will deliver Colonists and a minimal food supply to Mars. Highlight an applicant to inspect their traits.,客運火箭能夠將殖民地居民與最小程度的食物補給帶往火星。游標移至一位應徵者上以查看其特性。,The passenger rocket will deliver Colonists and a minimal food supply to Mars. Use <em>Review</em> to inspect the traits of the arrivals.,客運火箭能夠將殖民地居民與最小程度的食物補給帶往火星。您可以透過<em>審核</em>來查看新居民的特性。,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00429),OnScreenHint HintPassengerRocket text,,,,235826,,
 5575,"Local Food production will be crucial to the survival of your Colonists. Consider constructing a <em>Hydroponic Farm</em>.
@@ -2955,7 +2955,7 @@ Suggested Building: <em>Garden</em>","殖民地居民可以參觀花園、公園
 推薦建築：<em>花園</em>",,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00453),OnScreenHint HintDecorations text,,,,223532,,
 5580,"Healthcare Buildings will increase the Health and Sanity of the Colonists as long as they are not Starving, Thirsty, Freezing or Suffocating.
 
-Suggested Building: <em>Infirmary</em>","只要殖民地居民不處於捱餓、口渴、受凍或呼吸困難的情況下，醫療建築就能提高他們的生命值與理智度。
+Suggested Building: <em>Infirmary</em>","只要殖民地居民不處於挨餓、口渴、受凍或呼吸困難的情況下，醫療建築就能提高他們的生命值與理智度。
 
 推薦建築：<em>醫務室</em>",,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00461),OnScreenHint HintHealthcare text,,,,223532,,
 5579,Healthcare,醫療,,,OK,,,,,Trunk\Mars/Data/OnScreenHint.lua(00462),OnScreenHint HintHealthcare title,,,,221758,,
@@ -3608,7 +3608,7 @@ Use <RT> to focus the Dome's Info Panel.","選擇任一穹頂，開啟“<em>根
 5646,Deaths in the Colony,殖民地死亡情況,,,OK,,,,,Trunk\Mars/Data/OnScreenNotificationPreset.lua(00904),OnScreenNotificationPreset DeadCitizens title,,,,223532,,
 7055,<count> Colonists are Earthsick,<count>位居民患上了思鄉病,,,OK,,,,,Trunk\Mars/Data/OnScreenNotificationPreset.lua(00918),OnScreenNotificationPreset EarthSickColonists text,,,,223532,,
 7056,There are Earthsick Colonists,一部分殖民地居民患上了思鄉病,,,OK,,,,,Trunk\Mars/Data/OnScreenNotificationPreset.lua(00920),,,aide,aide,223532,,
-5679,Starving Colonists: <count>,捱餓的居民：<count>,,,OK,,,,,Trunk\Mars/Data/OnScreenNotificationPreset.lua(00934),OnScreenNotificationPreset StarvingColonists text,,,,221758,,
+5679,Starving Colonists: <count>,挨餓的居民：<count>,,,OK,,,,,Trunk\Mars/Data/OnScreenNotificationPreset.lua(00934),OnScreenNotificationPreset StarvingColonists text,,,,221758,,
 5678,Food Shortage,食物短缺,,,OK,,,,,Trunk\Mars/Data/OnScreenNotificationPreset.lua(00935),OnScreenNotificationPreset StarvingColonists title,,,,221758,,
 7070,We have a Food shortage,我們出現了食物短缺,,,OK,,,,,Trunk\Mars/Data/OnScreenNotificationPreset.lua(00936),,,aide,aide,223532,,
 101571176293,Arriving Tourists: <count>,即將抵達的遊客：<count>,,,OK,,,,,Trunk\Mars/Data/OnScreenNotificationPreset.lua(00947),OnScreenNotificationPreset NewTourists text,,,,245645,,
@@ -3919,7 +3919,7 @@ Before you get started, please take a moment to read our Terms of Use and Privac
 
 This troublesome rumor deters many valuable candidates from coming to the new frontier – and these are people we desperately need to fulfill the great mission of colonizing Mars and bringing our vision of the future closer.
 
-<hint> Each time a Colonist dies from a non-natural death, <ApplicantsLostOnColonistDeath> Applicants leave the pool.","儘管來火星的應徵者很清楚在火星上要面對各種各樣的危險，但他們沒想到還要面對我們近乎犯罪的人為疏忽。我們不能隱瞞真相，結果大眾開始普遍認為我們的殖民地是個“死亡陷阱”。
+<hint> Each time a Colonist dies from a non-natural death, <ApplicantsLostOnColonistDeath> Applicants leave the pool.","儘管來火星的應徵者很清楚在火星上要面對各式各樣的危險，但他們沒想到還要面對我們近乎犯罪的人為疏忽。我們不能隱瞞真相，結果大眾開始普遍認為我們的殖民地是個“死亡陷阱”。
 
 這些令人困擾的謠言讓許多本想探索新疆界的寶貴候選人望而卻步，而這些人正是我們完成殖民火星並逐步創造理想中未來所需的人才。
 
@@ -4292,9 +4292,9 @@ The unparalleled everyday stress levels slowly drain the people of their resolve
 7086,Our Colonists are suffering from hypothermia!,我們的殖民地居民體溫過低！,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00845),,,narrator,narrator,223532,,
 5724,"Constant supply of fresh nutrients is vital to the survival of the Colony. The Colonists can go on for some time before they suffer more adverse effects from the lack of food, but if you don't feed them soon, they will die.
 
-<hint> Colonists with the Starving status effect have no access to Food. Deliver Food from Earth or produce it by farming to supply the starving.","新鮮營養物質的不間斷供應對殖民地的生存至關重要。缺少食物的殖民地居民能繼續存活一段時間，但不久後就會承受更多負面效果。如果你不儘快給他們提供食物，他們就會死亡。
+<hint> Colonists with the Starving status effect have no access to Food. Deliver Food from Earth or produce it by farming to supply the starving.","持續供應新鮮營養物質對殖民地的生存至關重要。缺少食物的殖民地居民能繼續存活一段時間，但不久後就會承受更多負面效果。如果你不儘快給他們提供食物，他們就會死亡。
 
-<hint>吃不到食物的殖民地居民會擁有飢餓狀態效果。從地球運來食物或在農場中生產食物可防止居民捱餓。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00855),PopupNotificationPreset FirstStatusEffect_Starving text,,,,223532,,
+<hint>吃不到食物的殖民地居民會擁有飢餓狀態效果。從地球運來食物或在農場中生產食物可防止居民挨餓。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00855),PopupNotificationPreset FirstStatusEffect_Starving text,,,,223532,,
 5723,Starvation!,饑荒！,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00856),PopupNotificationPreset FirstStatusEffect_Starving title,,,,221758,,
 7087,Our Colonists are starving!,我們的殖民地正在鬧饑荒！,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(00857),,,narrator,narrator,223532,,
 5726,"<ColonistName(colonist)> had a dream – to see humanity united, conquering the stars. And <ColonistName(colonist)> allowed nothing to stand in the path of this dream. No hardship, no loss, not even personal safety. What more can anyone be asked to do?
@@ -4672,7 +4672,7 @@ You can view a breakdown of the Research Points generated per Sol on the right s
 
 <goal>關閉研究介面即可完成本教學。 ",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01368),PopupNotificationPreset Tutorial2_Popup13_1_Research2 text,,,,230265,,
 9300,"Play Next Tutorial - ""Power, Water & Maintenance""",進行下個教學 - “電力、水資源與維護”,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01375),PopupNotificationPreset Tutorial2_Popup14_Epilogue choice1,,,,229778,,
-9299,In this tutorial you learned how to command and use the different Rover vehicles at your disposal as well as how to scan sectors and how to research new technologies.,在本教學中，您將會學習如何使用各種各樣的探測車載具，如何掃描區域，以及如何研究新的技術。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01382),PopupNotificationPreset Tutorial2_Popup14_Epilogue text,,,,229778,,
+9299,In this tutorial you learned how to command and use the different Rover vehicles at your disposal as well as how to scan sectors and how to research new technologies.,在本教學中，您將會學習如何使用各式各樣的探測車載具，如何掃描區域，以及如何研究新的技術。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01382),PopupNotificationPreset Tutorial2_Popup14_Epilogue text,,,,229778,,
 9298,Nice work! Now you know how to handle Rovers.,幹得漂亮！您已經學會如何使用探測車了。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01384),,,narrator,narrator,230058,,
 9303,"Now it is your job to fix it up and prepare it for the first Colonists.
 
@@ -4834,7 +4834,7 @@ Best of luck, Commander!","您之前的所有準備，都是為了這一重要�
 9350,"With all preparations complete, the Colony is ready for the arrival of the Founders.",當一切準備就緒後，殖民地將會迎接創始者們的到來。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01626),,,narrator,narrator,229778,,
 9354,"Colonists are organized by their age, specialization and various traits. You can set desired and undesired traits in every category using the Thumbs Up and Thumbs Down icons.
 
-Colonists with MORE of the desired traits will board the Rocket while colonists with ANY undesired traits will be rejected.","所有殖民地居民都可以透過年齡、專長與各種各樣的特性進行分類。您可以透過大拇指圖示，在每個類別中選擇需要或不需要的特性。
+Colonists with MORE of the desired traits will board the Rocket while colonists with ANY undesired traits will be rejected.","所有殖民地居民都可以透過年齡、專長與各式各樣的特性進行分類。您可以透過大拇指圖示，在每個類別中選擇需要或不需要的特性。
 
 具有更多需要特性的居民會登上火箭；與此同時，只要居民具有任何一項不需要的特性，就會被拒絕進入。",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01636),PopupNotificationPreset Tutorial4_PopUp4_FilterUI text,,,,229778,,
 9352,Applicants Filter,篩選應徵者,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01637),PopupNotificationPreset Tutorial4_PopUp4_FilterUI title,,,,229778,,
@@ -4983,7 +4983,7 @@ In the next and final tutorial you will learn how to manage a larger colony, con
 <goal>Open the Command Center and try it out. ","指揮中心可以提供殖民地方方面面的歷史資料，包括穹頂總覽、建築總覽、居民總覽與載具總覽。
 
 <goal>開啟指揮中心，親自試試看吧。 ",,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01938),PopupNotificationPreset Tutorial5_Popup14_CommandCenterUI text,,,,229778,,
-9416,The Command Center is a treasure trove of information about the colony.,關於殖民地各種各樣的資訊，都可以在指揮中心中看到。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01940),,,narrator,narrator,229778,,
+9416,The Command Center is a treasure trove of information about the colony.,關於殖民地各式各樣的資訊，都可以在指揮中心中看到。,,,OK,,,,,Trunk\Mars/Data/PopupNotificationPreset.lua(01940),,,narrator,narrator,229778,,
 9420,"The team at Mission Control is eager to meet you and serve under your command. The challenge of conquering Mars for the sake of humankind is still a tough one, but with a Commander as skillful and resourceful as you the task seems a bit easier now.
 
 The colonization of Mars awaits! Good luck, Commander, and may the Cosmos be with you!","任務指揮中心的團隊已經迫不及待地想要見您，想在您的手下服役了。征服火星對所有人類而言都是個艱鉅的挑戰。但有了像您這樣技術精湛、足智多謀的指揮官，這個任務似乎變得沒那麼困難了。
@@ -6295,7 +6295,7 @@ The things you have seen lifted the veil created by the misinformation and propa
 
 成百上千居民回應了你的號召，並來到了紅谷家園樹。你透過多年的策劃，勢力已經發展到今天這個程度，因此必須建立一個組織，或至少得為未來制定一個統一的計劃。因此你來到了星球的另一側，與當地反政府勢力取得了聯絡。
 
-你看到的景象戳穿了錯誤資訊以及政治宣傳多年以來製造的假象。你看到了疾病和饑荒橫行的城市，憤怒的暴民每天進行暴動，雖然這只是走投無路的人在苟延殘喘。你看到了在這顆星球貧瘠的大地上，城市和工廠的廢墟星羅棋佈，這些廢墟裡荒無人煙，寸草不生。你發自內心地清楚這個世界正在走向死亡。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_4.lua(00399),Scenario Mystery 4 text,,,,223532,,
+你看到的景象戳破了錯誤資訊以及政治宣傳多年以來製造的假象。你看到了疾病和饑荒橫行的城市，憤怒的暴民每天進行暴動，雖然這只是走投無路的人在苟延殘喘。你看到了在這顆星球貧瘠的大地上，城市和工廠的廢墟星羅棋佈，這些廢墟裡荒無人煙，寸草不生。你發自內心地清楚這個世界正在走向死亡。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_4.lua(00399),Scenario Mystery 4 text,,,,223532,,
 7220,"The waters of the deep ground reservoir are long gone, replaced now with the leaders of various resistance cells.",地下水庫裡的水早已乾涸，取而代之的是各地反抗勢力的領導者。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_4.lua(00405),,,narrator,narrator,223532,,
 6132,"They all await you to start the meeting and you don’t keep them in suspense. The horrible truth devours your heart and you have to share the burden with them, listen to their words and advice and set the course for the future.
 
@@ -7562,9 +7562,9 @@ Rede Goddenberry, one of the wealthiest and most powerful people on Earth, addre
 
 我十分清楚我們過去幾千年的歷史是一條崎嶇之路，這條路通向沒有飢餓、戰爭和不必要的痛苦，且充滿機遇的神奇未來。我也相信正在這條路上前進的我們很快就能到達目的地。引領我們走過這最後一段路是我的使命。今天，我宣佈打算將自己雄厚資產中的絕大部分用於資助這一使命。”
 
-以上是地球上財富與權力數一數二的裡德·戈登貝利在聯合國大會上的發言。 ",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00037),Scenario Mystery 9 text,,,,226302,,
+以上是地球上財富與權力數一數二的里德·戈登貝利在聯合國大會上的發言。 ",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00037),Scenario Mystery 9 text,,,,226302,,
 8362,Inspiring!,振奮人心！,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00040),Scenario Mystery 9 choice1,,,,226204,,
-8363,Rede Goddenberry gives out a speech at the UN.,裡德·戈登貝利在聯合國發表了演講。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00045),Scenario Mystery 9 text,,,,226483,,
+8363,Rede Goddenberry gives out a speech at the UN.,里德·戈登貝利在聯合國發表了演講。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00045),Scenario Mystery 9 text,,,,226483,,
 8364,Beyond Earth: A Deluded Old Billionaire,超越地球：受蠱惑的老億萬富翁,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00082),Scenario Mystery 9 title,,,,226204,,
 8365,Greetings from Earth! I’ve wanted an audience with the founders of the first human settlement away from our dear blue planet for ages now.,地球向我們問好！第一個人類定居點的創始者了已離開地區，我早就想見見他了。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00083),,,billionaire,billionaire,226483,,
 8366,"You see, in you I find kindred souls, souls who do not view my speech at the UN as the ramblings of a deluded old billionaire. I’m certain my vision resonates with all of you up there; after all - you are a part of it.
@@ -7575,13 +7575,13 @@ One of the projects in question is currently in a ditch - the planning of a Moon
 
 <effect>Beyond Earth Initiative tech unlocked. Research the tech to help the Aldrin Base project.","我發現你們與我志同道合，你們不認為我在聯合國發表的演講只不過是受蠱惑的老億萬富翁的胡言亂語。我的願景肯定能引起你們的共鳴，畢竟，你們也是其中的一部分。
 
-我的超越地球倡議正在同時推動著若干個單獨的工程，這些工程的目標都是為在太陽系中擴張的人類帶來繁榮與和平。
+我的超越地球倡議正在同時推動著若干個獨立的工程，這些工程的目標都是為在太陽系中擴張的人類帶來繁榮與和平。
 
 其中一個工程現已陷入停滯，具體內容是計劃建造一座用於開採氚的月面基地，基地名為“阿爾德林”。大量這種物質在能源方面的意義想必不用我對你多做解釋了吧。我想友好地請求你，在情況允許的條件下，為超越地球倡議提供一些研究協助，直白的說就是實際經驗。
 
 <effect>超越地球倡議技術現已解鎖。研究此技術可為阿爾德林基地工程提供幫助。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00084),Scenario Mystery 9 text,,,,226483,,
 8367,Let's plan this.,那就快做安排吧。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00087),Scenario Mystery 9 choice1,,,,226204,,
-8368,Rede Goddenberry contacts the Mars colony with direct request for research contribution towards his Beyond Earth initiative.,裡德·戈登貝利與火星殖民地取得聯絡，並親自請求我們為他的超越地球倡議提供研究協助。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00092),Scenario Mystery 9 text,,,,226204,,
+8368,Rede Goddenberry contacts the Mars colony with direct request for research contribution towards his Beyond Earth initiative.,里德·戈登貝利與火星殖民地取得聯絡，並親自請求我們為他的超越地球倡議提供研究協助。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00092),Scenario Mystery 9 text,,,,226204,,
 8369,Beyond Earth: Trade Rockets,超越地球：交易火箭,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00111),Scenario Mystery 9 title,,,,226204,,
 8370,The Beyond Earth initiative needs your help! And not with know-how this time around.,超越地球倡議需要你的幫助！這次要的不是實際經驗。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00112),,,billionaire,billionaire,226302,,
 8371,"Currently we are falling behind schedule at our Rubicon Station front - a deep-space shipyard tasked with expanding our space-faring capabilities - and would kindly request you to contribute Metals towards bringing the construction back on track.
@@ -7598,13 +7598,13 @@ A rocket to pick up the resources has been sent towards Mars. Every now and then
 
 <effect>為盧比肯空間站大型工程請求物資的火箭正朝火星飛來。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00113),Scenario Mystery 9 text,,,,226483,,
 8372,See what resources we can spare.,想辦法分一些資源給他們。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00116),Scenario Mystery 9 choice1,,,,226302,,
-8373,Rede Goddenberry requests the export of materials for the construction of a farm hub on Ganymede.,裡德·戈登貝利請求向木衛三出口用於建造農場中心的資源。,Rede Goddenberry requests the export of materials for the construction a farm hub on Ganymede.,裡德·戈登貝利請求向木衛三出口用於建造農場中心的資源。,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00124),Scenario Mystery 9 text,,,,245645,,
+8373,Rede Goddenberry requests the export of materials for the construction of a farm hub on Ganymede.,里德·戈登貝利請求向木衛三出口用於建造農場中心的資源。,Rede Goddenberry requests the export of materials for the construction a farm hub on Ganymede.,里德·戈登貝利請求向木衛三出口用於建造農場中心的資源。,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00124),Scenario Mystery 9 text,,,,245645,,
 8374,Aldrin Base (bonus: <MoonResearchReward> Scientist Applicants),阿爾德林基地（獎勵：<MoonResearchReward>名科學家應徵者）,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00277),Scenario Mystery 9 text,,,,226483,,
 8375,Port Vesta (bonus: Reduced cost of Robotics Techs by <AsteriodReserachReward>%),灶神星港（獎勵：機器人技術花費降低<AsteriodReserachReward>%）,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00291),Scenario Mystery 9 text,,,,226483,,
 8376,Rubicon Station (bonus: <funding(RubiconResearchReward)> Funding),盧比肯空間站（獎勵：<funding(RubiconResearchReward)>資金）,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00305),Scenario Mystery 9 text,,,,226204,,
 8377,Spring City (bonus: <GanymedeResearchReward> Botanist & <GanymedeResearchReward> Geologist Applicants),斯普林城（獎勵：<GanymedeResearchReward>名植物學家和<GanymedeResearchReward>名地質學家應徵者）,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00319),Scenario Mystery 9 text,,,,226204,,
 8378,Beyond Earth: Choose Research Focus,超越地球：選擇研究重點,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00328),Scenario Mystery 9 title,,,,226204,,
-8379,Our contributions towards the Beyond Earth project have been received and we have Rede Goddenberry’s everlasting thanks – on behalf of humanity’s future.,我們對超越地球專案的貢獻已得到了回報，裡德·戈登貝利代表人類的未來，對我們感激不盡。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00329),,,narrator,narrator,226204,,
+8379,Our contributions towards the Beyond Earth project have been received and we have Rede Goddenberry’s everlasting thanks – on behalf of humanity’s future.,我們對超越地球專案的貢獻已得到了回報，里德·戈登貝利代表人類的未來，對我們感激不盡。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00329),,,narrator,narrator,226204,,
 8380,"We are given a choice to contribute research to a project of our liking next, partially advancing progress on any of the following:
 
 Aldrin Base - a settlement on the Moon to mine the Lunar soil for Hydrogen 3.
@@ -7670,7 +7670,7 @@ We have helped bring humanity closer to Rede Goddenberry’s utopic vision.
 
 將能量傳輸至遙遠前哨基地（比如我們的殖民地）所需的技術離實現還早，但我們得到了改良核融合反應爐的原理圖，改圖紙是參考阿爾德林基地已完善的反應爐設計繪製而成的。
 
-在我們的幫助下，人類離裡德·戈登貝利設想中的烏托邦又近了一步。
+在我們的幫助下，人類離里德·戈登貝利設想中的烏托邦又近了一步。
 
 <effect>+<reg_param1>%核融合反應爐電力產量。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00624),Scenario Mystery 9 text,,,,226483,,
 8399,Earth has changed forever.,地球和以前已經完全不同了。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00627),Scenario Mystery 9 choice1,,,,226483,,
@@ -7691,7 +7691,7 @@ The megaproject envisioned by Rede Goddenberry has been completed.
 
 第一批貨物已在運往地球的途中。我們終有一天能用上無限的資源，但那是未來的事，現在我們得到了升級挖掘站並提高其產量的方案。
 
-裡德·戈登貝利設想中的大型工程現已完工。
+里德·戈登貝利設想中的大型工程現已完工。
 
 <effect>+<reg_param1>%挖掘站產量。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00666),Scenario Mystery 9 text,,,,226483,,
 8404,Humanity is conquering the Solar System.,人類即將征服太陽系。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00669),Scenario Mystery 9 choice1,,,,226204,,
@@ -7708,11 +7708,11 @@ Rede Goddenberry’s vision has become more real than ever.
 
 <effect>Reduced cost of Physics and Engineering Techs by <reg_param1>%.","這座空間站是建於深空中的造船廠，人們預計它能令人類的太空探索能力提升上千倍。
 
-這座基地所處的獨特位置也非常適合用來進行邊緣研究，並深化人類對宇宙的理解。
+這座基地所處的獨特位置也非常適合用來進行邊緣研究，並促進人類對宇宙的理解。
 
 若沒有你的幫助與指導，此工程或許永遠無法完工。
 
-裡德·戈登貝利的願景已變得前所未有得真實。
+里德·戈登貝利的願景已變得前所未有得真實。
 
 <effect>物理學和工程學技術花費降低<reg_param1>%。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00720),Scenario Mystery 9 text,,,,226483,,
 8409,The Solar System just became a smaller place.,太陽系變得越來越小了。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00723),Scenario Mystery 9 choice1,,,,226204,,
@@ -7752,8 +7752,8 @@ May he rest in peace and forever be remembered a visionary of Mankind.
 願他安息，人類將永遠銘記他的遠見卓識。
 
 <effect>獲得新技術，<em><reg_param1></em>。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00836),Scenario Mystery 9 text,,,,238668,,
-8419,Rede Goddenberry will never be forgotten.,人類將永遠銘記裡德·戈登貝利。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00839),Scenario Mystery 9 choice1,,,,226483,,
-8420,"Although Rede Goddenberry did not live to see his vision become a reality, his legacy will forever live on for all of humanity to prosper from.",雖然裡德·戈登貝利有生之年沒能看到自己的願景成真，但全人類都會繼承他的遺志並走向繁榮。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00844),Scenario Mystery 9 text,,,,226204,,
+8419,Rede Goddenberry will never be forgotten.,人類將永遠銘記里德·戈登貝利。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00839),Scenario Mystery 9 choice1,,,,226483,,
+8420,"Although Rede Goddenberry did not live to see his vision become a reality, his legacy will forever live on for all of humanity to prosper from.",雖然里德·戈登貝利有生之年沒能看到自己的願景成真，但全人類都會繼承他的遺志並走向繁榮。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00844),Scenario Mystery 9 text,,,,226204,,
 8421,Beyond Earth: In Time to Witness,超越地球：時間見證,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00865),Scenario Mystery 9 title,,,,226204,,
 8417,The Beyond Earth initiative has been deemed a success. Already the efforts of this massive endeavor are bearing fruit.,超越地球倡議圓滿成功。這一巨大的工程現已結出果實。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00866),,,narrator,narrator,226721,,
 8422,"A time of change is befalling the human race - a time of unity and hope for a brighter future that most couldn’t have imagined just a short few years ago. 
@@ -7770,13 +7770,13 @@ History will remember Rede Goddenbarry a visionary of Mankind.
 
 但首先我們不能忘記的是：那個想為人類開創美好未來的古怪的老億萬富翁在有生之年看到了自己的願景成真。
 
-人類歷史將永遠銘記裡德·戈登貝利這一偉大的遠見卓識者。
+人類歷史將永遠銘記里德·戈登貝利這一偉大的遠見卓識者。
 
 <effect>獲得新技術，<em><reg_param1></em>。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00867),Scenario Mystery 9 text,,,,238668,,
 8423,A new era for humanity has dawned!,人類進入了新紀元！,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00870),Scenario Mystery 9 choice1,,,,226204,,
-8424,Rede Goddenberry's dream becomes reality with him still alive to witness it unfolding.,裡德·戈登貝利在有生之年看到了自己的夢想成真。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00875),Scenario Mystery 9 text,,,,226483,,
-8425,Beyond Earth: Rede is Dying,超越地球：裡德奄奄一息。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00901),Scenario Mystery 9 title,,,,226204,,
-8426,We have received grave news from Earth. It seems Rede Goddenberry has fallen ill and doesn’t have much time left.,地球傳來噩耗。據稱，裡德·戈登貝利身患重病，已時日無多。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00902),,,narrator,narrator,226721,,
+8424,Rede Goddenberry's dream becomes reality with him still alive to witness it unfolding.,里德·戈登貝利在有生之年看到了自己的夢想成真。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00875),Scenario Mystery 9 text,,,,226483,,
+8425,Beyond Earth: Rede is Dying,超越地球：里德奄奄一息。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00901),Scenario Mystery 9 title,,,,226204,,
+8426,We have received grave news from Earth. It seems Rede Goddenberry has fallen ill and doesn’t have much time left.,地球傳來噩耗。據稱，里德·戈登貝利身患重病，已時日無多。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00902),,,narrator,narrator,226721,,
 8427,"The billionaire has sent a special request out to us:
 
 “It seems I can no longer hide the fact that I am and have been dying in these recent months. Although this may explain my push for haste in the completion of the Beyond Earth initiative to some, the reality is that it's badly needed with or without my condition in mind.
@@ -7791,38 +7791,38 @@ So I convey this message to you, whom I have come to see as my closest partners 
 
 因此我向你發來這則消息，因為我視你為這項工程中最親密的合作伙伴：請再加把勁，我這個奄奄一息的老頭如果能活著看到工程開花結果，那我死也瞑目了。就算不為了了卻我一樁心事，也為了造福全人類。我看得出來，你內心深處對這個工程代表的理念深信不疑。”",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00903),Scenario Mystery 9 text,,,,231705,,
 8428,I am at loss for words.,我不知說什麼好。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00905),Scenario Mystery 9 choice1,,,,226483,,
-8558,Rede Goddenberry reveals he is ill and dying.,裡德·戈登貝利透露他已身患重病且奄奄一息。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00910),Scenario Mystery 9 text,,,,226483,,
-8429,Beyond Earth: Rede Goddenberry has passed away,超越地球：裡德·戈登貝利去世,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00924),Scenario Mystery 9 title,,,,226483,,
-8430,Today we received news of Rede Goddenberry’s passing. We are all deeply saddened by this loss.,今天我們得到了裡德·戈登貝利去世的消息。他的去世令我們悲痛萬分。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00925),,,narrator,narrator,226721,,
+8558,Rede Goddenberry reveals he is ill and dying.,里德·戈登貝利透露他已身患重病且奄奄一息。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00910),Scenario Mystery 9 text,,,,226483,,
+8429,Beyond Earth: Rede Goddenberry has passed away,超越地球：里德·戈登貝利去世,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00924),Scenario Mystery 9 title,,,,226483,,
+8430,Today we received news of Rede Goddenberry’s passing. We are all deeply saddened by this loss.,今天我們得到了里德·戈登貝利去世的消息。他的去世令我們悲痛萬分。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00925),,,narrator,narrator,226721,,
 8431,"But we are still inspired by his vision - a vision where humanity travels free amidst the worlds of a unified Solar System. 
 
 Although Goddenberry’s death will dissuade many of his current partners to see the completion of the Beyond Earth initiative, we just may bring the plan to full or at least partial realization before other parties quit their involvement.","但他的願景仍鼓舞著我們。太陽系的人類終將像他展望的那樣團結在一起，自由地進行星際旅行。
 
 儘管戈登貝利的去世會導致他現有的不少合作伙伴喪失完成超越地球倡議的信心，但我們在其他各方退出之前，或許能完全或至少部分實現這一計劃。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00926),Scenario Mystery 9 text,,,,226204,,
 8432,We must see this through!,我們必須堅持到底！,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00928),Scenario Mystery 9 choice1,,,,226204,,
-8559,Rede Goddenberry passes away.,裡德·戈登貝利去世了。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00937),Scenario Mystery 9 text,,,,226483,,
+8559,Rede Goddenberry passes away.,里德·戈登貝利去世了。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00937),Scenario Mystery 9 text,,,,226483,,
 8433,Beyond Earth: The Dream is Dead,超越地球：夢想終成一場空,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00981),Scenario Mystery 9 title,,,,226204,,
-8434,"Following Rede Goddenberry’s death, all of his former partners from Beyond Earth have since abandoned the initiative.",裡德·戈登貝利去世後，他超越地球倡議的所有原合作伙伴都拋棄了這一倡議。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00982),,,narrator,narrator,226483,,
+8434,"Following Rede Goddenberry’s death, all of his former partners from Beyond Earth have since abandoned the initiative.",里德·戈登貝利去世後，他超越地球倡議的所有原合作伙伴都拋棄了這一倡議。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00982),,,narrator,narrator,226483,,
 8435,"We have failed to persuade them without the uniting effect of his utopic vision spearheaded by himself alone. 
 
 The different gains in space exploration and asteroid mining will not simply disappear but are being bought off and pushed towards partial completion by various Earth-based corporations that will exploit them for personal profit and show no signs of desire to contribute to what was Rede Goddenberry’s vision of a united humanity.
 
 In the end, history will remember him as an old eccentric billionaire who tried to swim upstream for humanity’s sake but ended up solidifying the rule of massive corporations that are more interested in profits than in an idealistic future.","我們沒能說服他們，因為我們無法像他一樣靠美好未來的願景產生強大凝聚力。
 
-太空探索和小行星採礦獲得的各種收益不會憑空消失，而是會被地球上的各種公司買下並實現部分完成，以便從中謀取私利，而這些公司全然沒有為裡德·戈登貝利的人類大一統的願景做貢獻的意願。
+太空探索和小行星採礦獲得的各種收益不會憑空消失，而是會被地球上的各種公司買下並推動部分完成，以便從中謀取私利，而這些公司全然沒有為里德·戈登貝利的人類大一統的願景做貢獻的意願。
 
 最後，歷史會對他做以下陳述：這名性情古怪的億萬富翁晚年為了全人類的福祉逆流而上，但最後只是鞏固了大集團的統治。比起創造理想中的未來，這些大集團對盈利更感興趣。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00983),Scenario Mystery 9 text,,,,226483,,
 8436,We have failed everyone...,我們辜負了所有人……,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00985),Scenario Mystery 9 choice1,,,,226483,,
-8437,Rede Goddenberry's plan falls apart as previous partners leave the initiative after his passing.,裡德·戈登貝利去世後，原合作伙伴紛紛撤走，他的計劃成為了泡影。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00990),Scenario Mystery 9 text,,,,226204,,
+8437,Rede Goddenberry's plan falls apart as previous partners leave the initiative after his passing.,里德·戈登貝利去世後，原合作伙伴紛紛撤走，他的計劃成為了泡影。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(00990),Scenario Mystery 9 text,,,,226204,,
 8442,Beyond Earth: Disaster Strikes,超越地球：災難來襲,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(01034),Scenario Mystery 9 title,,,,226204,,
 8443,There was a terrible accident at the Port Vesta project site.,灶神星港工程地點發生了可怕的事故。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(01035),,,narrator,narrator,226483,,
 8444,"A strong solar flare erupted without a sufficient head warning. There are 23 confirmed casualties.
 
 The solar flare erupted during a short window of vulnerability, when Port Vesta had no operational means of shielding against such an event. If it had happened just a bit later, the defenses would've been operational.
 
-Sadly the damage is massive in scale. The project suffered a major setback.","太陽耀斑大爆發，但沒人給該地點發出足以引起重視的警報。已確認有23人傷亡。
+Sadly the damage is massive in scale. The project suffered a major setback.","太陽閃焰大爆發，但沒人給該地點發出足以引起重視的警報。已確認有23人傷亡。
 
-這次太陽耀斑爆發時，灶神星港剛好處於無法抵禦這種事件的短暫脆弱期。如果爆發得稍晚一些，防禦系統就能恢復正常了。
+這次太陽閃焰爆發時，灶神星港剛好處於無法抵禦這種事件的短暫脆弱期。如果爆發得稍晚一些，防禦系統就能恢復正常了。
 
 很遺憾，損失非常慘重。工程遭受了重大挫折。",,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(01036),Scenario Mystery 9 text,,,,226483,,
 8445,"A tragedy indeed, but we will overcome this setback.",這的確是一場悲劇，但我們會重振旗鼓。,,,OK,,,,,Trunk\Mars/Data/Scenario/Mystery_9.lua(01038),Scenario Mystery 9 choice1,,,,226483,,
@@ -8475,12 +8475,12 @@ All in all, the mysterious man wants you to shelter a number of Clone applicants
 219849567999,Earth HQ has just approved a new project to expand our Martian operations.,地球總部剛剛通過了一項新的專案，進一步拓展我們的火星開發計劃。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost8_TheMartianTrail.lua(00021),,,narrator,narrator,242226,,
 317492104434,"While looking for the glitch, your data technicians discovered the possibility to boost the performance of the program by running secondary analytical trials, just this once.",你的資料技術員在分析故障的時候，發現了新的思路，可以透過二次資料分析實驗的方法來提高資料分析的效率。這種好事可不會再發生第二次了。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00012),StoryBit Boost9_Eureka Text,,,,242226,,
 941158028958,Eureka!,太棒了！,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00015),StoryBit Boost9_Eureka Title,,,,242226,,
-377529619516,"Our scientific analysis servers just crashed! We tried turning them off and on again, but the problem persisted after reboot.",我們的科研分析伺服器宕機了！我們試過關機之後再開機，但重啟之後問題依然存在。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00016),,,narrator,narrator,242226,,
+377529619516,"Our scientific analysis servers just crashed! We tried turning them off and on again, but the problem persisted after reboot.",我們的科研分析伺服器當機了！我們試過關機之後再開機，但重啟之後問題依然存在。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00016),,,narrator,narrator,242226,,
 193345244030,Improve the performance.,提高資料分析效率。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00058),StoryBit Boost9_Eureka Text,,,,242226,,
 620355360059,gain <research(sponsor_research)> Sponsor research,獲得<research(sponsor_research)>贊助者研究點數,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00060),StoryBit Boost9_Eureka CustomOutcomeText,,,,242226,,
 189917588567,Focus on single topic.,把注意力集中在單個目標上。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00071),StoryBit Boost9_Eureka Text,,,,242226,,
 961435424262,a random tech will be researched,完成某項隨機技術的研究,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00073),StoryBit Boost9_Eureka CustomOutcomeText,,,,242226,,
-889407832580,Do various optimizations.,進行各種各樣的優化。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00116),StoryBit Boost9_Eureka Text,,,,242226,,
+889407832580,Do various optimizations.,進行各種的優化。,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00116),StoryBit Boost9_Eureka Text,,,,242226,,
 854997226158,reveals several techs in a random field,解鎖某個隨機領域的多項技術,,,OK,,,,,Trunk\Mars/Data/StoryBit/Boost9_Eureka.lua(00118),StoryBit Boost9_Eureka CustomOutcomeText,,,,242226,,
 11052,One of our buildings has stopped working - a <DisplayName>. It looks like the fine dust from the storm has filled away a key component of the power supply. The repair task is too complex for a drone.,我們的一座<DisplayName>已停止運轉。看來風暴刮來的粉塵堵塞了供電裝置的一個關鍵零件。維修工作對於無人機來說太過複雜。,,,OK,,,,pc:key,Trunk\Mars/Data/StoryBit/BuildingClogged.lua(00034),StoryBit BuildingClogged Text,,,,234708,,
 638269722928,Building Clogged,建築阻塞,,,OK,,,,,Trunk\Mars/Data/StoryBit/BuildingClogged.lua(00037),StoryBit BuildingClogged Title,,,,234062,,
@@ -11404,7 +11404,7 @@ The kid's parents held an impromptu wake for the fallen hero.","我們設法在�
 
 <grey>Our understanding of the once holy grail of energetics - Fusion Energy has reached the level where once a fusion reaction has been triggered, it can be left to regulate and sustain itself on its own… within a confined and safe medium of course.</grey>","核融合反應爐升級（<em>無限核融合</em>）- 核融合反應爐不再需要<em>人員</em>操作，且工作效率始終保持為<param1>。
 
-<grey>我們對這種能量界的聖盃是這麼理解的 - 之後聚變過程能到達引發聚變反應的閾值之後，後續的反應就可以自發維持……當然，是在密閉安全的容器中。</grey>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(00264),TechPreset EternalFusion description,,,,225536,,
+<grey>我們對這種能量學的聖盃是這麼理解的 - 聚變過程一但到達引發聚變反應的臨界點之後，後續的反應就可以自行調節和維持……當然，是在密閉安全的容器中。</grey>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(00264),TechPreset EternalFusion description,,,,225536,,
 5088,Eternal Fusion,無限核融合,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(00265),TechPreset EternalFusion display_name,,,,221758,,
 6570,"Converts <em>unused Power</em> into Research Points.
 
@@ -11993,7 +11993,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 這項技術是<em>重複性</em>技術，可以多次研發。
 
 <grey>“人類種族非常卓越，而且擁有無限的潛力。透過超越地球倡議，我希望每個人都能相信這一點。”
-<right>裡德·戈登貝利<left></grey>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02031),TechPreset SolExploration description,,,,226483,,
+<right>里德·戈登貝利<left></grey>",,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02031),TechPreset SolExploration description,,,,226483,,
 8450,Beyond Earth Initiative,超越地球倡議,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02032),TechPreset SolExploration display_name,,,,226483,,
 8487,Series of dangerous experiments which could lead to the discovery of a cure for the Wildfire infection.,經過這一系列危險的實驗，最終有可能會研製出可以治療野火感染的藥物。,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02042),TechPreset WildfireCure description,,,,226214,,
 8452,Wildfire Cure,野火治療,,,OK,,,,,Trunk\Mars/Data/TechPreset.lua(02043),TechPreset WildfireCure display_name,,,,226204,,
@@ -12681,7 +12681,7 @@ This tech is <em>repeatable</em> and can be researched multiple times.
 12553,"From <building> <right><resource(sum, res)> per Sol<newline><left>","來自<building> <right><resource(sum, res)>每個太陽日<newline><left>",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Code/TerraformingParamsBar.lua(00200),,,,,243703,,
 12554,"<name><right><resource(value,res)> per Sol<newline><left>","<name><right><resource(value,res)>每個太陽日<newline><left>","<name><right><resource(value,res)>per Sol<newline><left>","<name><right><resource(value,res)>每個太陽日<newline><left>",OK,,,,,Trunk\Mars/Dlc/armstrong/Code/TerraformingParamsBar.lua(00216),,,,,244279,,
 12555,<name><right><value><newline><left>,<name><right><value><newline><left>,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Code/TerraformingParamsBar.lua(00218),,,,,243703,,
-12617,Represents the average value of the four terraforming parameters. Gradual changes will accrue over time. Drastic changes will occur upon reaching specific thresholds:,代表四項地球化參數的平均值。會隨時間逐漸發生變化。達到特定閾值時會發生劇烈變化。,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Code/TerraformingParamsBar.lua(00231),,,,,244091,,
+12617,Represents the average value of the four terraforming parameters. Gradual changes will accrue over time. Drastic changes will occur upon reaching specific thresholds:,代表四項地球化參數的平均值。會隨時間逐漸發生變化。達到特定門檻值時會發生劇烈變化。,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Code/TerraformingParamsBar.lua(00231),,,,,244091,,
 12618,"<color_tag>Liquid water</color><right><tp_threshold('LiquidWater', 'true', 'true')>","<color_tag>液態水</color><right><tp_threshold('LiquidWater', 'true', 'true')>",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Code/TerraformingParamsBar.lua(00232),,,,,244091,,
 12625,"<color_tag>Cold waves end</color><right><tp_threshold('ColdWaveStop', true, true)>","<color_tag>寒流結束</color><right><tp_threshold('ColdWaveStop', true, true)>",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Code/TerraformingParamsBar.lua(00233),,,,,244091,,
 12623,"<color_tag>Dust storms end</color><right><tp_threshold('DustStormStop', true, true)>","<color_tag>沙塵暴結束</color><right><tp_threshold('DustStormStop', true, true)>",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Code/TerraformingParamsBar.lua(00234),,,,,244091,,
@@ -13652,7 +13652,7 @@ However, there is a small crowd in front of your office, yelling and complaining
 647439350903,Iron-Oxidizing Bacteria,鐵氧化菌,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/IronOxidizingBacteria_FollowUp.lua(00045),StoryBit IronOxidizingBacteria_FollowUp Title,,,,239549,,
 423849190496,"Used rocket stages, dead satellites and all kind of debris – we have surely left our mark on Mars orbit as we have done with our own planet. Even though it can eventually endanger the space flights, all this stuff tends to burn into Mars' young atmosphere and help raise the temperature levels.
 
-<effect>Mars has gained <resource(terr_temp_small,'TemperatureTP')>.","我們確實在火星上留下了我們的痕跡，就像我們對地球做得那樣 - 到處都是火箭推進器、衛星殘骸和各種各樣的碎片。雖然這些垃圾最終可能會對星際飛行構成威脅，但它們也會在火星的大氣層中燃燒，從而提高火星的整體溫度。
+<effect>Mars has gained <resource(terr_temp_small,'TemperatureTP')>.","我們確實在火星上留下了我們的痕跡，就像我們對地球做得那樣 - 到處都是火箭推進器、衛星殘骸和各式各樣的碎片。雖然這些垃圾最終可能會對星際飛行構成威脅，但它們也會在火星的大氣層中燃燒，從而提高火星的整體溫度。
 
 <effect>火星獲得了<resource(terr_temp_small,'TemperatureTP')>。",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/JunkInSpace.lua(00039),StoryBit JunkInSpace Text,,,,243013,,
 759615132803,Junk in Space,太空垃圾,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/JunkInSpace.lua(00042),StoryBit JunkInSpace Title,,,,239549,,
@@ -13696,7 +13696,7 @@ Good job, Commander! You have done something the Earthlings never attempted.
 669308166944,Resources; Fuel costs decrease,資源，燃料消耗降低,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/JunkInSpace_FollowUp1.lua(00107),StoryBit JunkInSpace_FollowUp1 outcome_text,,,,242226,,
 280339890939,"Our space is crowded with debris and all kind of dangerous space junk which threatens the flights. Rockets need to take more and more complicate routes to avoid collision. It seems this is starting to get out of hand.
 
-<effect>A Meteor Storm has started. Mars has gained <resource(terr_temp,'TemperatureTP')>. Rocket Fuel costs further increased by <fuel_costs>.","我們的太空已經佈滿了隕石碎片和各種各樣的太空垃圾，這會對星際飛行構成威脅。為了躲避太空垃圾，火箭不得不採取越來越複雜的航道進行規避。太空垃圾問題似乎已經開始失控了。
+<effect>A Meteor Storm has started. Mars has gained <resource(terr_temp,'TemperatureTP')>. Rocket Fuel costs further increased by <fuel_costs>.","我們的太空已經佈滿了隕石碎片和各式各樣的太空垃圾，這會對星際飛行構成威脅。為了躲避太空垃圾，火箭不得不採取越來越複雜的航道進行規避。太空垃圾問題似乎已經開始失控了。
 
 <effect>隕石風暴來襲，火星獲得了<resource(terr_temp,'TemperatureTP')>。火箭燃料消耗增加<fuel_costs>。",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/JunkInSpace_FollowUp2.lua(00028),StoryBit JunkInSpace_FollowUp2 Text,,,,243013,,
 465588594659,Junk in Space: a pressing issue,太空垃圾：緊迫的問題,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/JunkInSpace_FollowUp2.lua(00031),StoryBit JunkInSpace_FollowUp2 Title,,,,239549,,
@@ -13889,13 +13889,13 @@ Scientists can talk like that for days, but someone has to make a decision and g
 836291941911,Pyramid: Terraform,金字塔：土地改造,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00108),StoryBit Pyramid Title,,,,239549,,
 197153580222,"You were unprepared when reports started coming about this weird shimmer of air here and there within our vegetation patches, bushes moving by themselves and moss growing in strange colors.
 
-<effect>Some Botanists lose Sanity. Something is about to happen.","你還沒準備好，各種各樣的報告就湧了進來，說植物種植區中到處都出現了詭異的閃光現象，灌木叢會自己動起來，苔蘚的顏色也變得非常詭異。
+<effect>Some Botanists lose Sanity. Something is about to happen.","你還沒準備好，各式各樣的報告就湧了進來，說植物種植區中到處都出現了詭異的閃光現象，灌木叢會自己動起來，苔蘚的顏色也變得非常詭異。
 
 <effect>部分植物學家的理智度下降了。有什麼事情要發生了。",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00109),StoryBit Pyramid Text,,,,242226,,
 568516579361,Pyramid: Lonely,金字塔：孤獨,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00134),StoryBit Pyramid Title,,,,239549,,
 650386894085,"You were unprepared when reports started coming about this weird shimmer of air here and there, flying utensils and levitating furniture. Ancient stories about ghosts were retold again and again, people panicked and accidents happened.
 
-<effect>A few Colonists lose Sanity. Something is about to happen.","你還沒準備好，各種各樣的報告就湧了進來，說到處都出現了詭異的閃光現象，各種用品和傢俱會自己漂浮起來。人們開始一遍又一遍地講起了古老的鬼故事，大家驚慌失措，還發生了各種事故。
+<effect>A few Colonists lose Sanity. Something is about to happen.","你還沒準備好，各式各樣的報告就湧了進來，說到處都出現了詭異的閃光現象，各種用品和傢俱會自己漂浮起來。人們開始一遍又一遍地講起了古老的鬼故事，大家驚慌失措，還發生了各種事故。
 
 <effect>少量居民的理智度下降了。有什麼事情要發生了。",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00135),StoryBit Pyramid Text,,,,242226,,
 869859900384,"Whoever ""they"" are, I believe they are trying to help us.",雖然不知道“它們”是誰，但我認為它們打算幫助我們。,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00154),StoryBit Pyramid Text,,,,240768,,
@@ -13914,7 +13914,7 @@ Scientists can talk like that for days, but someone has to make a decision and g
 590222703860,Pyramid: Lonely,金字塔：孤獨,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00191),StoryBit Pyramid Title,,,,239549,,
 500322410447,"You were unprepared when the reports started coming about this weird shimmer of air here and there, flying utensils and levitating furniture. Ancient stories about ghosts were retold again and again, people panicked and accidents happened.
 
-<effect>Some Colonists lose Sanity. Something is about to happen.","你還沒準備好，各種各樣的報告就湧了進來，說到處都出現了詭異的閃光現象，各種用品和傢俱會自己漂浮起來。人們開始一遍又一遍地講起了古老的鬼故事，大家驚慌失措，還發生了各種事故。
+<effect>Some Colonists lose Sanity. Something is about to happen.","你還沒準備好，各式各樣的報告就湧了進來，說到處都出現了詭異的閃光現象，各種用品和傢俱會自己漂浮起來。人們開始一遍又一遍地講起了古老的鬼故事，大家驚慌失措，還發生了各種事故。
 
 <effect>部分居民的理智度下降了。有什麼事情要發生了。",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00192),StoryBit Pyramid Text,,,,239549,,
 150668633968,The creators of the pyramid may need our help.,金字塔的創造者或許需要我們的幫助。,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00211),StoryBit Pyramid Text,,,,240768,,
@@ -13927,7 +13927,7 @@ Scientists can talk like that for days, but someone has to make a decision and g
 581643065028,Pyramid: Terraform,金字塔：土地改造,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00233),StoryBit Pyramid Title,,,,239549,,
 556113013646,"You were unprepared when the reports started coming about this weird shimmer of air here and there within our vegetation patches, bushes moving by themselves and moss growing in strange colors.
 
-<effect>Many Botanists lose Sanity. Something is about to happen.","你還沒準備好，各種各樣的報告就湧了進來，說植物種植區中到處都出現了詭異的閃光現象，灌木叢會自己動起來，苔蘚的顏色也變得非常詭異。
+<effect>Many Botanists lose Sanity. Something is about to happen.","你還沒準備好，各式各樣的報告就湧了進來，說植物種植區中到處都出現了詭異的閃光現象，灌木叢會自己動起來，苔蘚的顏色也變得非常詭異。
 
 <effect>大量植物學家的理智度下降了。有什麼事情要發生了。",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00234),StoryBit Pyramid Text,,,,239549,,
 815107537294,Pyramid: Lonely,金字塔：孤獨,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid.lua(00259),StoryBit Pyramid Title,,,,239549,,
@@ -14035,7 +14035,7 @@ No one seems to have read the second article. Your Sponsor though has a hard tim
 
 <effect>Your Sponsor research has been lost for <sols(pause_research)> Sols. You have gained <tourists> Tourist Applicants.","在壓力之下，<DisplayName>答應寫另一篇文章，向大家解釋解釋火星上的“閃光”外星人其實是完全無害的。他們幾乎從不現身，更不用說會對任何人造成威脅了。
 
-但似乎根本沒人去看第二篇文章。為了向懷疑的人們解釋清楚，處理各種各樣荒誕的索賠要求，你的贊助者花了不少時間。
+但似乎根本沒人去看第二篇文章。為了向懷疑的人們解釋清楚，處理各種荒誕的索賠要求，你的贊助者花了不少時間。
 
 <effect>在<sols(pause_research)>個太陽日內，你無法從贊助者處獲得研究點數。你獲得了<tourists>位遊客應徵者。",,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid_FollowUp_Terraform_1a.lua(00110),StoryBit Pyramid_FollowUp_Terraform_1a Text,,,,242226,,
 915629678526,Mock it in your personal blog.,在你的個人部落格上噴這篇文章。,,,OK,,,,,Trunk\Mars/Dlc/armstrong/Presets/StoryBit/Pyramid_FollowUp_Terraform_1a.lua(00122),StoryBit Pyramid_FollowUp_Terraform_1a Text,,,,242226,,
@@ -14909,7 +14909,7 @@ The Chief Scientist is fascinated, to say the least! She suggests that we power 
 
 <effect>You can destroy powered-up crystals to instantly gain Research Point rewards.
 
-<hint>Power up more crystals to progress through the Mystery.","我們的感測器讀數開始狂飆，周圍地區的資訊透過數學序列不斷顯示在我們眼前。塵土的碎塊開始從水晶的外層結構上不斷脫落。經過檢查，我們發現這些碎塊中包含著各種各樣的稀有金屬！
+<hint>Power up more crystals to progress through the Mystery.","我們的感測器讀數開始狂飆，周圍地區的資訊透過數學序列不斷顯示在我們眼前。塵土的碎塊開始從水晶的外層結構上不斷脫落。經過檢查，我們發現這些碎塊中包含著各式各樣的稀有金屬！
 
 毫不誇張地說，我們的首席科學家已經徹底對它著了迷！她建議我們對水晶繼續進行充能，但一定要非常小心，因為水晶實體似乎對能量波動非常敏感，而能量波動可能會破壞水晶的整體結構。而另一方面，我們的戰術指揮官建議我們把其中一塊水晶點燃，把它砸開，看看裡面有什麼東西。和往常一樣，他懷疑這塊水晶會威脅到殖民地的安全。
 
@@ -15219,7 +15219,7 @@ Metatron doesn’t care if we want to be tested. It has simply come to announce 
 
 <goal>You will be put through a series of trials. Metatron will create waves of anomalies which will test your ingenuity and resolve. Adapt and survive!
 
-<effect>Offerings are anomalies with limited duration. When analyzed, they will reward you for your efforts.","那尊巨像希望我們稱它為梅塔特隆。它存在的目的，就是訪問整個銀河系的智慧物種，讓他們參加試煉。它會讓我們經受考驗，讓我們明白，我們自己究竟有沒有資格，在星際族群之中佔有一席之地。星際世界寒冷而艱險，有各種各樣的未知機遇與危險在等待著我們。我們必須證明我們理解這一切，證明我們足以在任何環境、任何條件下存活下來，茁壯成長。
+<effect>Offerings are anomalies with limited duration. When analyzed, they will reward you for your efforts.","那尊巨像希望我們稱它為梅塔特隆。它存在的目的，就是訪問整個銀河系的智慧物種，讓他們參加試煉。它會讓我們經受考驗，讓我們明白，我們自己究竟有沒有資格，在星際族群之中佔有一席之地。星際世界寒冷而艱險，有各式各樣的未知機遇與危險在等待著我們。我們必須證明我們理解這一切，證明我們足以在任何環境、任何條件下存活下來，茁壯成長。
 
 梅塔特隆根本不在乎我們想不想參加試煉。它只是來宣佈試煉已經開始，讓我們做好準備。我很害怕，指揮官，但我願意付出一切努力通過試煉。
 
@@ -15390,7 +15390,7 @@ This technological challenge to take advantage of what little wind there is on M
 11734,Next response in <hours> h,<hours>小時後將得到下一次回應,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/Buildings/TradePad.lua(00190),,,,,238196,,
 11531,Specialists,專家,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/CovertOps.lua(00129),,,,,236855,,
 12072,Wasp Drones,黃蜂無人機,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/FlyingDrone.lua(00017),,,,,240487,,
-12246,"An automated flying drone controlled by a Drone Hub, Rocket or RC Commander. Gathers resources, constructs buildings and performs maintenance. Doesn't fly during Dust Storms.",由無人機中心、火箭或遙控探測車控制的全自動飛行無人機。可用來搜集資源，建造或維護建築。沙塵暴期間無法飛行。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/FlyingDrone.lua(00018),,,,,242226,,
+12246,"An automated flying drone controlled by a Drone Hub, Rocket or RC Commander. Gathers resources, constructs buildings and performs maintenance. Doesn't fly during Dust Storms.",由無人機中心、火箭或遙控指揮車控制的全自動飛行無人機。可用來搜集資源，建造或維護建築。沙塵暴期間無法飛行。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/FlyingDrone.lua(00018),,,,,242226,,
 10558,<red>Soul-crushing corporate job <amount></red>,<red>令人崩潰的公司工作<amount></red>,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/Interests.lua(00001),,,,,233244,,
 10490,Quickly transports resources between Depots and Colonists between Domes.,可快速在各倉庫間運輸資源，也可快速在各穹頂之間運輸殖民地居民。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/JumperShuttle.lua(00007),,,,,232789,,
 11468,<condition_text>[Not available for <duration>]</condition_text> <reply>,<condition_text>[不可用，持續<duration>]</condition_text><reply>,<condition_text>[Not available: <sols(cooldown)>]</condition_text> <reply>,<condition_text>[不可用：<sols(cooldown)>]</condition_text><reply>,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/Negotiations.lua(00106),,,,,236855,,
@@ -15461,12 +15461,12 @@ This technological challenge to take advantage of what little wind there is on M
 11203,The Colony of <rival_name> has completed the following milestone first: <em><milestone></em>,<rival_name>殖民地已率先完成以下里程碑：<em><milestone></em>,<rival_name> has completed the following milestone first: <milestone>,<rival_name>已率先完成以下里程碑：<milestone>,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/RivalColonies.lua(00832),,,,,235779,,
 10861, ($<cost> M), （$<cost>百萬）,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/Rockets.lua(00147),,,,,233244,,
 11204,Any Rockets that are currently assigned will finish their trade course.,目前指派的所有火箭將飛完貿易路線。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/TradeRoutes.lua(00182),,,,,235394,,
-718943892049,Distress call funding threshold amount in millions,求救訊號資金閾值（單位：百萬）,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00007),ConstDef Gameplay DistressCallFundingThreshold name,,,,235394,,
+718943892049,Distress call funding threshold amount in millions,求救訊號資金門檻值（單位：百萬）,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00007),ConstDef Gameplay DistressCallFundingThreshold name,,,,235394,,
 933535109966,Maximum amount of funding given as aid by a rival AI,對手人工智慧給予的資金援助的數額上限,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00015),ConstDef Gameplay DistressCallMaxFundingAmount name,,,,235394,,
 533995499322,Maximum amount of a resource given as aid by a rival AI,對手人工智慧給予的資源援助的數量上限,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00023),ConstDef Gameplay DistressCallMaxResourceAmount name,,,,235394,,
 165986345408,Minimum amount of funding given as aid by a rival AI,對手人工智慧給予的資金援助的數額下限,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00030),ConstDef Gameplay DistressCallMinFundingAmount name,,,,235394,,
 856765781941,Minimum amount of a resource given as aid by a rival AI,對手人工智慧給予的資源援助的數量下限,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00037),ConstDef Gameplay DistressCallMinResourceAmount name,,,,235394,,
-796309303606,Distress call resource threshold amount,求救訊號資源閾值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00044),ConstDef Gameplay DistressCallResourceThreshold name,,,,235394,,
+796309303606,Distress call resource threshold amount,求救訊號資源門檻值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00044),ConstDef Gameplay DistressCallResourceThreshold name,,,,235394,,
 10144,Max Game Development Collaboration Loss (%),遊戲開發合作最大損失（%）,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00051),ConstDef Gameplay MaxGameDevelopmentCollaborationLoss name,,,,231705,,
 4595,Progress points needed for Game Developer buildings to publish a new game,遊戲開發大樓釋出新遊戲所需的進展點數,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00057),ConstDef Gameplay ProgressPointsPerGame help,,,,231705,,
 4596,Progress Points Per Game,每款遊戲的進展點數,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00059),ConstDef Gameplay ProgressPointsPerGame name,,,,231705,,
@@ -15474,11 +15474,11 @@ This technological challenge to take advantage of what little wind there is on M
 607942271480,Minimum Rival AI resource amount,對手人工智慧資源數量下限,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00067),ConstDef Gameplay RivalAIMinResourceAmount name,,,,235394,,
 610596558487,Rival's chance of sending aid when in neutral standing,聲望中立的對手援助你的機率。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00074),ConstDef Gameplay RivalNeutralStandingHelpChance name,,,,235394,,
 906702750383,Rival's chance of sending aid when standing is positive,與你交好的對手援助你的機率。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00081),ConstDef Gameplay RivalPositiveStandingHelpChance name,,,,235394,,
-786035110687,Threshold for RIval AI bad standing,對手人工智慧不佳聲望閾值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00089),ConstDef Gameplay RivalStandingBad name,,,,235394,,
-932549126613,Threshold for RIval AI good standing,對手人工智慧良好聲望閾值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00097),ConstDef Gameplay RivalStandingGood name,,,,235394,,
+786035110687,Threshold for RIval AI bad standing,對手人工智慧不佳聲望門檻值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00089),ConstDef Gameplay RivalStandingBad name,,,,235394,,
+932549126613,Threshold for RIval AI good standing,對手人工智慧良好聲望門檻值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00097),ConstDef Gameplay RivalStandingGood name,,,,235394,,
 303842255148,Rival's standing reduction when sending aid,對手援助你時，你損失的聲望,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00104),ConstDef Gameplay RivalStandingHelpReduction name,,,,235394,,
-378712695308,Threshold for RIval AI hostile standing,對手人工智慧敵對聲望閾值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00111),ConstDef Gameplay RivalStandingHostile name,,,,235394,,
-743485382043,Threshold for RIval AI neutral standing,對手人工智慧中立聲望閾值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00118),ConstDef Gameplay RivalStandingNeutral name,,,,235394,,
+378712695308,Threshold for RIval AI hostile standing,對手人工智慧敵對聲望門檻值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00111),ConstDef Gameplay RivalStandingHostile name,,,,235394,,
+743485382043,Threshold for RIval AI neutral standing,對手人工智慧中立聲望門檻值,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00118),ConstDef Gameplay RivalStandingNeutral name,,,,235394,,
 932206406649,Rival's standing reduction when not sending aid,對手不援助你時，你損失的聲望,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00125),ConstDef Gameplay RivalStandingNoHelpReduction name,,,,235394,,
 10145,Workers in Corporate Offices receive Comfort penalty,在企業辦公樓內的工人會獲得舒適度減益,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Code/__const.lua(00133),ConstDef Stat WorkInCorporateOfficeComfortDecrease name,,,,231705,,
 10167,Played as USA and had a Geoscape Dome with a Megamall before Sol 100,已使用美國，在第100個太陽日前擁有建有超級購物中心的地景穹頂,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Achievement.lua(00005),Achievement USAGeoscapeDomeWithMegamall description,,,,231705,,
@@ -15623,7 +15623,7 @@ This technological challenge to take advantage of what little wind there is on M
 10216,"Remote-controlled vehicle that harvests Concrete from deposits, gathers resources from surface deposits and transports resources.",此遙控載具能從資源點收穫混凝土，也能從地表資源點搜集資源以及運輸資源。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Cargo.lua(00056),Cargo RCHarvester description,,,,231705,,
 10214,RC Harvester,遙控收穫車,RC Transport Alpha,阿爾法型遙控運輸車,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Cargo.lua(00063),Cargo RCHarvester name,,,,235394,,
 10358,Remote-controlled vehicle that extracts Metals and Rare Metals from underground deposits (but not deep deposits). Drilling wastes 50% of the materials in the deposit.,能從地下資源點（非深層資源點）挖掘金屬與稀有金屬的遙控載具。鑽探浪費資源點50%的材料。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Cargo.lua(00073),Cargo RCDriller description,,,,232789,,
-12247,"An automated flying drone controlled by a Drone Hub, Rocket or RC Commander. Gathers resources, constructs buildings and performs maintenance. Doesn't fly during Dust Storms.",由無人機中心、火箭或遙控探測車控制的全自動飛行無人機。可用來搜集資源，建造或維護建築。沙塵暴期間無法飛行。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Cargo.lua(00090),Cargo FlyingDrone description,,,,242226,,
+12247,"An automated flying drone controlled by a Drone Hub, Rocket or RC Commander. Gathers resources, constructs buildings and performs maintenance. Doesn't fly during Dust Storms.",由無人機中心、火箭或遙控指揮車控制的全自動飛行無人機。可用來搜集資源，建造或維護建築。沙塵暴期間無法飛行。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Cargo.lua(00090),Cargo FlyingDrone description,,,,242226,,
 3679,Reveals deposits in the scanned area.,可以顯示掃描區域內是否含有資源點。,,,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Cargo.lua(00106),Cargo OrbitalProbe description,,,,231705,,
 718364513536,Immediately scans a Sector and the four adjacent Sectors for deposits and anomalies.,立刻掃描一塊區域和與其鄰近的四塊區域，以發現資源點和異象。,Reveals deposits in five adjacent sectors.,可顯示五個鄰近區域內的資源點。,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Cargo.lua(00118),Cargo AdvancedOrbitalProbe description,,,,235779,,
 562855111629,Generates Power. Heats the surrounding area when opened.,可以產生電力。開啟時可為周圍區域供熱。,Generates Power. Heats the surrounding area when opend.,可以產生電力。開啟時可為周圍區域供熱。,OK,,,,,Trunk\Mars/Dlc/gagarin/Presets/Cargo.lua(00131),Cargo AdvancedStirlingGenerator description,,,,238668,,
@@ -17807,7 +17807,7 @@ Base game progress per Sol<right><EstimatedDailyTotal>
 7683,Waiting for resources at construction site,正在施工點等待資源,,,OK,,,,,Trunk\Mars/Lua/Buildings/BaseRover.lua(00512),,,,,223729,,
 8490,Loading complete,裝載完成,,,OK,,,,,Trunk\Mars/Lua/Buildings/BaseRover.lua(00516),,,,,226302,,
 9827,Command interrupted,命令中斷,,,OK,,,,,Trunk\Mars/Lua/Buildings/BaseRover.lua(00517),,,,,231705,,
-12151,Removing obstructing objects,移除阻礙物,,,OK,,,,,Trunk\Mars/Lua/Buildings/BaseRover.lua(00518),,,,,240619,,
+12151,Removing obstructing objects,移除障礙物,,,OK,,,,,Trunk\Mars/Lua/Buildings/BaseRover.lua(00518),,,,,240619,,
 12329,Gathering Waste Rock for landscape project,搜集地形改造工程所需的礦渣,,,OK,,,,,Trunk\Mars/Lua/Buildings/BaseRover.lua(00519),,,,,242559,,
 12330,Delivering Waste Rock to landscape project,正在將礦渣運送到地形改造工程,Delivering Waste Rock to dumping site,將礦渣運到垃圾場,OK,,,,,Trunk\Mars/Lua/Buildings/BaseRover.lua(00520),,,,,243703,,
 6724,Roaming,漫遊,,,OK,,,,,Trunk\Mars/Lua/Buildings/BaseRover.lua(00522),,,,,222166,,
@@ -18743,9 +18743,9 @@ Score <score>","<newline>在<sols>個太陽日內正常完成
 8771,Must be built on a passage,必須建造在通道上,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00035),,,,,228838,,
 9758,Must be constructed over a completed passage.,必須跨越完成的通道才能建造。,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00036),,,,,230507,,
 9759,Must be built on a completed passage,必須建於完成的通道上。,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00036),,,,,230507,,
-858,Can't build on dust geysers.,無法建造在塵土噴泉上。,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00037),,,,,225213,,
-860,Objects underneath are blocking construction.,地下物體阻礙建造施工。,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00038),,,,,225213,,
-7953,Blocking objects,阻礙物,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00038),,,,,225213,,
+858,Can't build on dust geysers.,無法建造在塵土間歇泉上。,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00037),,,,,225213,,
+860,Objects underneath are blocking construction.,下方物體阻礙建造施工。,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00038),,,,,225213,,
+7953,Blocking objects,障礙物,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00038),,,,,225213,,
 9619,No Spire Slot.,無尖塔欄位。,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00039),,,,,230058,,
 9620,No Spire Slot,無尖塔欄位,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00039),,,,,230058,,
 861,Uneven terrain.,崎嶇地勢。,,,OK,,,,,Trunk\Mars/Lua/Construction/Construction.lua(00040),,,,,225213,,
@@ -21759,7 +21759,7 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.","
 123,No resource,無資源,,,OK,,,,,Trunk\Mars/Lua/RequiresMaintenance.lua(00012),,,,,221758,,
 124,Maintenance Resource Type,維護資源類型,,,OK,,,,,Trunk\Mars/Lua/RequiresMaintenance.lua(00026),,,,,221758,,
 125,Maintenance Resource Amount,維護資源數量,,,OK,,,,,Trunk\Mars/Lua/RequiresMaintenance.lua(00027),,,,,221758,,
-126,Maintenance Threshold,維護閾值,,,OK,,,,,Trunk\Mars/Lua/RequiresMaintenance.lua(00028),,,,,221758,,
+126,Maintenance Threshold,維護臨界值,,,OK,,,,,Trunk\Mars/Lua/RequiresMaintenance.lua(00028),,,,,221758,,
 127,Maintenance Build Up Per Hr,每小時維護加強,,,OK,,,,,Trunk\Mars/Lua/RequiresMaintenance.lua(00029),,,,,221758,,
 128,Disable Maintenance,關閉維護,,,OK,,,,,Trunk\Mars/Lua/RequiresMaintenance.lua(00030),,,,,221758,,
 10878,Maintenance needed,需要維護,,,OK,,,,,Trunk\Mars/Lua/RequiresMaintenance.lua(00245),,,,,233353,,
@@ -22214,12 +22214,12 @@ There will be challenges to overcome. Are you ready? Mars is waiting for you.","
 8949,This Colonist is suffocating and needs Oxygen to survive.,這位殖民地居民呼吸困難，需要氧氣才能生存。,,,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00318),,,,,229778,,
 8950,This Colonist is dehydrated and needs Water to survive.,這位殖民地居民已經脫水，需要水資源才能生存。,This Colonist is suffocating and needs Water to survive.,這位殖民地居民呼吸困難，需要水資源才能生存。,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00319),,,,,230711,,
 8951,This Colonist is freezing. Restore Dome Power to resolve the issue.,這位殖民地居民正在受凍，恢復穹頂電力即可解決這個問題。,,,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00320),,,,,229778,,
-8952,This Colonist is starving and needs Food to survive.,這位殖民地居民正在捱餓，需要食物才能生存。,This Colonist is suffocating and needs Food to survive.,這位殖民地居民呼吸困難，需要食物才能生存。,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00321),,,,,230711,,
+8952,This Colonist is starving and needs Food to survive.,這位殖民地居民正在挨餓，需要食物才能生存。,This Colonist is suffocating and needs Food to survive.,這位殖民地居民呼吸困難，需要食物才能生存。,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00321),,,,,230711,,
 8953,This Colonist is stressed out due to low Sanity and temporarily unable to work.,這位殖民地居民理智度過低，處於焦慮不安狀態，暫時無法工作。,,,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00322),,,,,229778,,
 8954,This Colonist is Earthsick due to low comfort. Earthsick colonists can't work and will try to return to Earth.,殖民地居民由於舒適度過低，患上了思鄉病。患思鄉病的居民無法工作，而且會嘗試返回地球。,,,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00323),,,,,229778,,
 10533,This Colonist is suffocating and would have needed Oxygen to survive if not for the Iron Colonists rule.,如果不符合堅強殖民地居民規則，這位殖民地居民呼吸困難，需要氧氣才能生存。,,,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00330),,,,,233040,,
 10534,This Colonist is dehydrated and would have needed Water to survive if not for the Iron Colonists rule.,如果不符合堅強殖民地居民規則，這位殖民地居民已經脫水，需要水資源才能生存。,This Colonists is dehydrated and would have needed Water to survive if not for the Iron Colonists rule.,如果不符合鐵殖民地居民規則，這位殖民地居民已經脫水，需要水資源才能生存。,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00331),,,,,233353,,
-10535,This Colonists is starving and would have needed Food to survive if not for the Iron Colonists rule.,如果不符合堅強殖民地居民規則，這位殖民地居民正在捱餓，需要食物才能生存。,,,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00332),,,,,233040,,
+10535,This Colonists is starving and would have needed Food to survive if not for the Iron Colonists rule.,如果不符合堅強殖民地居民規則，這位殖民地居民正在挨餓，需要食物才能生存。,,,OK,,,,,Trunk\Mars/Lua/StatusEffects.lua(00332),,,,,233040,,
 3883,Charging<right><power(amount)>,正在充電<right><power(amount)>,,,OK,,,,,Trunk\Mars/Lua/SupplyGrid.lua(00184),,,,,221758,,
 3884,Discharging<right><power(amount)>,正在放電<right><power(amount)>,,,OK,,,,,Trunk\Mars/Lua/SupplyGrid.lua(00185),,,,,221758,,
 3880,Status<right>Full,狀態<right>滿,,,OK,,,,,Trunk\Mars/Lua/SupplyGrid.lua(00197),,,,,221758,,
@@ -23224,7 +23224,7 @@ Do you want to enable this mod anyway?","缺失以下非必要的相依性：
 7730,Invalid input,無效輸入,,,OK,,,,,Trunk\Mars/Lua/X/XRenameControl.lua(00062),,,,,223766,,
 7731,<field> should be in the format <format>,<field>的格式必須為<format>,,,OK,,,,,Trunk\Mars/Lua/X/XRenameControl.lua(00062),,,,,223766,,
 7976,SKIP,跳過,,,OK,,,,,Trunk\Mars/Lua/X/XSplashScreen.lua(00034),,,,,225213,,
-1000159,Escape,離開,,,OK,,,,,Trunk\Mars/Lua/X/XSplashScreen.lua(00050),,,,,222166,,
+1000159,Escape,ESC 鍵,,,OK,,,,,Trunk\Mars/Lua/X/XSplashScreen.lua(00050),,,,,222166,,
 599355083725,Unlocked <white><unlocked> / <total>,已解鎖 <white><unlocked> / <total>,,,OK,,,,,Trunk\Mars/Lua/XTemplates/AchievementsContent.lua(00011),XTemplate AchievementsContent Subtitle,,,,226483,,
 345376930850,<UIOverviewInfo>,<UIOverviewInfo>,<OverviewInfo>,<OverviewInfo>,OK,,,,,Trunk\Mars/Lua/XTemplates/BuildingOverviewRow.lua(00011),XTemplate BuildingOverviewRow RolloverText,,,,230058,,
 862135144106,Gone Rogue,已叛變,,,OK,,,,,Trunk\Mars/Lua/XTemplates/BuildingOverviewRow.lua(00234),XTemplate BuildingOverviewRow Text,,,,235024,,
@@ -25070,7 +25070,7 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 8632,How often the construction nanite tech picks up resources from nearby storages.,使用奈米科技進行建造時，從附近倉庫獲取資源的速度。,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00049),ConstDef Buildings ConstructionNanitesTimeDelta help,,,,226726,,
 8633,Construction Nanites Time Delta,奈米建造時間間隔,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00051),ConstDef Buildings ConstructionNanitesTimeDelta name,,,,226726,,
 4710,Average performance of Farms required for Crops to succeed,作物成長所需的平均農場工作效率,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00056),ConstDef Buildings CropFailThreshold help,,,,222166,,
-4711,Crop fail threshold,作物枯萎閾值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00058),ConstDef Buildings CropFailThreshold name,,,,221758,,
+4711,Crop fail threshold,作物枯萎臨界值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00058),ConstDef Buildings CropFailThreshold name,,,,221758,,
 4708,Buildings with this many or more hexes are considered 'large' (affects Dust Devils' paths and dust accumulation during them),佔地大於等於該數量六角格的建築視為“大型建築”（影響塵捲風的路徑與塵土累積）,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00063),ConstDef Buildings LargeBuildingHexes help,,,,223532,,
 4709,Large building hexes,大型建築格數,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00065),ConstDef Buildings LargeBuildingHexes name,,,,221758,,
 4712,"When building pipes, every 'PipesPillarSpacing'-th pipe will have a support pillar underneath it",建造管道時，每隔PipesPillarSpacing根管道，都需要有底部支撐,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00070),ConstDef Buildings PipesPillarSpacing help,,,,221758,,
@@ -25079,7 +25079,7 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 4695,Recharge station time mod,充電站時間調整,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00079),ConstDef Buildings RechargeStationTimeMod name,,,,221758,,
 4758,Applicants pool starting size,應徵者池初始大小,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00104),ConstDef Colonist ApplicantsPoolStartingSize help,,,,221758,,
 4759,Applicants pool starting size,應徵者池初始大小,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00106),ConstDef Colonist ApplicantsPoolStartingSize name,,,,223532,,
-337606533515,Threshold of accumulated stat points to trigger birth of a new Colonist,誕生新殖民地居民時，所需的累積屬性點數閾值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00112),ConstDef Colonist BirthThreshold name,,,,223532,,
+337606533515,Threshold of accumulated stat points to trigger birth of a new Colonist,誕生新殖民地居民時，所需的累積屬性點數門檻值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00112),ConstDef Colonist BirthThreshold name,,,,223532,,
 691313621108,"Lock time to Workplace, Residence, Dome selected by user",鎖定使用者選中的工作場所、住宅與穹頂的時間,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00118),ConstDef Colonist ForcedByUserLockTimeout help,,,,223532,,
 492281705322,ForcedByUserLockTimeout,使用者鎖定時間,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00120),ConstDef Colonist ForcedByUserLockTimeout name,,,,222739,,
 564503347383,Holiday rating is capped when health/sanity falls under this limit,當生命值/理智度低於此限制時，假期評價有上限,Holiday rating is capped when it falls under this limit,假期評價低於此限制時即為上限,OK,,,,,Trunk\Mars/Lua/_const.lua(00126),ConstDef Colonist HolidayCapThreshold help,,,,246126,,
@@ -25092,7 +25092,7 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 719524089927,HolidayRenegadeCapRating,HolidayRenegadeCapRating,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00149),ConstDef Colonist HolidayRenegadeCapRating name,,,,245645,,
 543374091753,Multiplier for number of applicants,應徵者數量乘數,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00154),ConstDef Colonist HolidaySaintMultiplier help,,,,245645,,
 495280127572,HolidaySaintMultiplier,HolidaySaintMultiplier,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00156),ConstDef Colonist HolidaySaintMultiplier name,,,,245645,,
-151345915068,Capped holiday rating when stat is below the HolidayCapThreshold,當屬性低於HolidayCapThreshold時，限制假期評價,Capped holiday rating when health is below threshold,當生命值低於閾值時限制假期評價,OK,,,,,Trunk\Mars/Lua/_const.lua(00161),ConstDef Colonist HolidayStatCapRating help,,,,246126,,
+151345915068,Capped holiday rating when stat is below the HolidayCapThreshold,當屬性低於HolidayCapThreshold時，限制假期評價,Capped holiday rating when health is below threshold,當生命值低於臨界值時限制假期評價,OK,,,,,Trunk\Mars/Lua/_const.lua(00161),ConstDef Colonist HolidayStatCapRating help,,,,246126,,
 795976084512,HolidayStatCapRating,HolidayStatCapRating,HolidayHealthCapRating,HolidayHealthCapRating,OK,,,,,Trunk\Mars/Lua/_const.lua(00163),ConstDef Colonist HolidayStatCapRating name,,,,246126,,
 8805,Performance penalty for colonists working in another connected dome,殖民地居民在相連穹頂中工作時，受到的工作效率減值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00168),ConstDef Colonist NonHomeDomePerformancePenalty help,,,,228838,,
 8806,Connected dome performance penalty,相連穹頂工作效率減值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00170),ConstDef Colonist NonHomeDomePerformancePenalty name,,,,228838,,
@@ -25267,7 +25267,7 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 4630,Electricity for Research,電力轉換為研究點數,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00833),ConstDef Research ElectricityForResearchPoint name,,,,223532,,
 4623,Research point multiplier for Experimental Research (in %),實驗性技術研究點數倍率（單位為%）,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00839),ConstDef Research ExperimentalResearchSpeedMod help,,,,223532,,
 4624,Experimental Research Speed Mod,實驗性技術研究速度調整,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00841),ConstDef Research ExperimentalResearchSpeedMod name,,,,223532,,
-4631,Research points generated per RC Commander,每輛遙控指揮車車產生的研究點數,Research points generated per RC Rover,每輛遙控探測車車產生的研究點數,OK,,,,,Trunk\Mars/Lua/_const.lua(00847),ConstDef Research ExplorerRoverResearchPoints name,,,,231705,,
+4631,Research points generated per RC Commander,每輛遙控指揮車產生的研究點數,Research points generated per RC Rover,每輛遙控探測車產生的研究點數,OK,,,,,Trunk\Mars/Lua/_const.lua(00847),ConstDef Research ExplorerRoverResearchPoints name,,,,231705,,
 222544894200,Number of Breakthroughs reserved for Planetary Anomalies,預留給行星異象的突破性技術數量,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00853),ConstDef Research PlanetaryBreakthroughCount name,,,,239549,,
 4627,Sponsor Funding gained per Sol,每個太陽日獲得的贊助資金,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00858),ConstDef Research SponsorResearch help,,,,223532,,
 4628,Sponsor Research per Sol,每個太陽日獲得的贊助研究點數,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00860),ConstDef Research SponsorResearch name,,,,223532,,
@@ -25289,7 +25289,7 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 438538796803,Sanity damage from Dust Storms (per hour),沙塵暴造成的理智度傷害（每小時）,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00971),ConstDef Stat DustStormSanityDamage name,,,,223532,,
 8879,Renegade creation point when game rule Rebel Yell is activated,當“反叛之聲”規則生效時，叛徒出現點的加值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00978),ConstDef Stat GameRuleRebelYellRenegadeCreation name,,,,228917,,
 4550,Stats above this level are considered high,高於該等級的屬性會被判定為高,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00984),ConstDef Stat HighStatLevel help,,,,223532,,
-4551,High Stat Threshold,高屬性閾值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00986),ConstDef Stat HighStatLevel name,,,,223532,,
+4551,High Stat Threshold,高屬性門檻值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00986),ConstDef Stat HighStatLevel name,,,,223532,,
 4556,"High Health, Sanity and Comfort increase the Colonist's morale by this much",殖民地居民處於高生命值、理智度或舒適度時，士氣上升的數值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00992),ConstDef Stat HighStatMoraleEffect help,,,,221758,,
 4557,High Stat Morale Effect,高屬性士氣效果,,,OK,,,,,Trunk\Mars/Lua/_const.lua(00994),ConstDef Stat HighStatMoraleEffect name,,,,223532,,
 4577,"Chance of getting a negative trait when Sanity reaches zero, in %",當理智度減為0時獲得負面特性的機率，以%表示,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01000),ConstDef Stat LowSanityNegativeTraitChance help,,,,223532,,
@@ -25297,7 +25297,7 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 4575,"Chance of suicide when Sanity reaches zero, in %",當理智度減為0時自殺機率，以%表示,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01007),ConstDef Stat LowSanitySuicideChance help,,,,223532,,
 4576,Chance of Suicide,自殺機率,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01009),ConstDef Stat LowSanitySuicideChance name,,,,223532,,
 4548,Stats below this level are considered low,低於該等級的屬性會被判定為低,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01014),ConstDef Stat LowStatLevel help,,,,221758,,
-4549,Low Stat Threshold,低屬性閾值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01016),ConstDef Stat LowStatLevel name,,,,223532,,
+4549,Low Stat Threshold,低屬性門檻值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01016),ConstDef Stat LowStatLevel name,,,,223532,,
 4552,"Low Health, Sanity and Comfort decreases a Colonist's morale by this amount",殖民地居民處於低生命值、理智度或舒適度時，士氣下降的數值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01022),ConstDef Stat LowStatMoraleEffect help,,,,223532,,
 4553,Low Stat Morale Effect,低屬性士氣效果,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01024),ConstDef Stat LowStatMoraleEffect name,,,,223532,,
 8660,Colonist Sanity decreased when rest in malfunctioned Dome,居民在出現故障的穹頂內休息時，理智度下降的數值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01030),ConstDef Stat MalfunctionedDome help,,,,227244,,
@@ -25313,8 +25313,8 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 6975,Sanity damage for Dreamers from Mirages (per hour),入夢人看到幻景後受到的理智度傷害（每小時）,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01077),ConstDef Stat MysteryDreamSanityDamage name,,,,222166,,
 4558,Colonist Comfort decreases when homeless,居民在無家可歸時，舒適度下降的數值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01083),ConstDef Stat NoHomeComfort help,,,,223532,,
 4559,Homeless Comfort Penalty,無家可歸舒適度減益,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01085),ConstDef Stat NoHomeComfort name,,,,223532,,
-8807,Service threshold penalty for colonists being serviced in another connected dome,殖民地居民在相連穹頂中使用服務型建築時，服務閾值的減值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01091),ConstDef Stat NonHomeDomeServiceThresholdDecrement help,,,,228838,,
-8808,Connected dome service threshold penalty,相連穹頂服務閾值減值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01093),ConstDef Stat NonHomeDomeServiceThresholdDecrement name,,,,228838,,
+8807,Service threshold penalty for colonists being serviced in another connected dome,殖民地居民在相連穹頂中使用服務型建築時，服務門檻值的減值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01091),ConstDef Stat NonHomeDomeServiceThresholdDecrement help,,,,228838,,
+8808,Connected dome service threshold penalty,相連穹頂服務門檻值減值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01093),ConstDef Stat NonHomeDomeServiceThresholdDecrement name,,,,228838,,
 4580,Comfort damage from eating raw food from piles,食用未加工的食物，對舒適度產生的影響,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01100),ConstDef Stat OutsideFoodConsumptionComfort name,,,,221758,,
 4572,Outside Workplace Sanity Penalty,戶外工作理智度減益,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01107),ConstDef Stat OutsideWorkplaceSanityDecrease name,,,,223532,,
 4564,This is the time it takes for Colonists outside of Domes to start losing health,當居民在穹頂外的停留時間超過該時限後，生命值就會下降,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01113),ConstDef Stat OxygenMaxOutsideTime help,,,,223532,,
@@ -25325,13 +25325,13 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 774523705937,Satisfaction Gain Flaw,獲得缺陷滿意度,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01137),ConstDef Stat SatisfactionGainFlaw name,,,,245645,,
 239825283062,Tourists Satisfaction increases when gaining a new perk,當獲得新特長時，遊客滿意度提高,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01143),ConstDef Stat SatisfactionGainPerk help,,,,245645,,
 475061686876,Satisfaction Gain Perk,獲得特長滿意度,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01145),ConstDef Stat SatisfactionGainPerk name,,,,245645,,
-531204593106,Satisfaction bonus awarded when Comfort is above high threshold,當舒適度高於高閾值時的額外滿意度獎勵,Bonus for having Comfort at 100,舒適度達到100的獎勵,OK,,,,,Trunk\Mars/Lua/_const.lua(01151),ConstDef Stat SatisfactionHighComfortBonus help,,,,246126,,
+531204593106,Satisfaction bonus awarded when Comfort is above high threshold,當舒適度高於高門檻值時的額外滿意度獎勵,Bonus for having Comfort at 100,舒適度達到100的獎勵,OK,,,,,Trunk\Mars/Lua/_const.lua(01151),ConstDef Stat SatisfactionHighComfortBonus help,,,,246126,,
 146864420582,SatisfactionHighComfortBonus,SatisfactionHighComfortBonus,HolidayComfortBonus,HolidayComfortBonus,OK,,,,,Trunk\Mars/Lua/_const.lua(01153),ConstDef Stat SatisfactionHighComfortBonus name,,,,246126,,
-419850181535,Satisfaction bonus awarded when stat is above high threshold,當屬性高於高閾值時的額外滿意度獎勵,Additional score awarded at 100 points,達到100分的額外加分,OK,,,,,Trunk\Mars/Lua/_const.lua(01158),ConstDef Stat SatisfactionHighStatBonus help,,,,246126,,
+419850181535,Satisfaction bonus awarded when stat is above high threshold,當屬性高於高門檻值時的額外滿意度獎勵,Additional score awarded at 100 points,達到100分的額外加分,OK,,,,,Trunk\Mars/Lua/_const.lua(01158),ConstDef Stat SatisfactionHighStatBonus help,,,,246126,,
 624047905370,SatisfactionHighStatBonus,SatisfactionHighStatBonus,HolidayBonusScore,假期獎勵分數,OK,,,,,Trunk\Mars/Lua/_const.lua(01160),ConstDef Stat SatisfactionHighStatBonus name,,,,246126,,
 855475527391,Tourists Satisfaction increases when losing a flaw,當失去缺陷時，遊客滿意度提高,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01165),ConstDef Stat SatisfactionLoseFlaw help,,,,245645,,
 456025041535,Satisfaction Lose Flaw,失去缺陷滿意度,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01167),ConstDef Stat SatisfactionLoseFlaw name,,,,245645,,
-617017187748,Satisfaction loss when stat is below the low threshold,當屬性低於低閾值時的滿意度損失,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01173),ConstDef Stat SatisfactionLowStatPenalty help,,,,246126,,
+617017187748,Satisfaction loss when stat is below the low threshold,當屬性低於低門檻值時的滿意度損失,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01173),ConstDef Stat SatisfactionLowStatPenalty help,,,,246126,,
 437220542891,SatisfactionLowStatPenalty,SatisfactionLowStatPenalty,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01175),ConstDef Stat SatisfactionLowStatPenalty name,,,,246126,,
 291494979377,Tourists Satisfaction decreases when having no residence,當沒有居所時，遊客滿意度降低,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01180),ConstDef Stat SatisfactionNoHomeComfort help,,,,245645,,
 848729758274,Satisfaction No Home Comfort,無居所舒適滿意度,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01182),ConstDef Stat SatisfactionNoHomeComfort name,,,,245645,,
@@ -25339,7 +25339,7 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 935839574484,Satisfaction Overstay Penalty,逾期滿意度懲罰,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01190),ConstDef Stat SatisfactionOverstay name,,,,245645,,
 406705807522,Satisfaction bonus awarded when Comfort is maxed out,當舒適度達到最大時的額外滿意度獎勵,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01196),ConstDef Stat SatisfactionPerfectComfortBonus help,,,,246126,,
 399989862229,SatisfactionPerfectComfortBonus,SatisfactionPerfectComfortBonus,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01198),ConstDef Stat SatisfactionPerfectComfortBonus name,,,,246126,,
-524875637641,Satisfaction bonus awarded when stat is maxed out,當屬性達到最大時的額外滿意度獎勵,Awarded score when stat is above threshold,當屬性高於閾值時獲得分數,OK,,,,,Trunk\Mars/Lua/_const.lua(01203),ConstDef Stat SatisfactionPerfectStatBonus help,,,,246126,,
+524875637641,Satisfaction bonus awarded when stat is maxed out,當屬性達到最大時的額外滿意度獎勵,Awarded score when stat is above threshold,當屬性高於門檻值時獲得分數,OK,,,,,Trunk\Mars/Lua/_const.lua(01203),ConstDef Stat SatisfactionPerfectStatBonus help,,,,246126,,
 161655565768,SatisfactionPerfectStatBonus,SatisfactionPerfectStatBonus,HolidayStatScore,HolidayStatScore,OK,,,,,Trunk\Mars/Lua/_const.lua(01205),ConstDef Stat SatisfactionPerfectStatBonus name,,,,246126,,
 485525750330,Tourists Satisfaction decreases when having a breakdown,當崩潰時，遊客滿意度降低,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01210),ConstDef Stat SatisfactionSanityBreakdown help,,,,245645,,
 855663642150,Satisfaction Sanity Breakdown,理智崩潰滿意度,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01212),ConstDef Stat SatisfactionSanityBreakdown name,,,,245645,,
@@ -25371,14 +25371,14 @@ Status: <on_off(IsResourceEnabled(res))>","切換此資源的儲存。
 121765804687,Max Landscape Boundary,最大地形改造邊界,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01324),ConstDef Terraforming LandscapeMaxBoundary name,,,,240487,,
 883272456922,Maximum Count of Hexes In a Single Landscape Construction Site,單個地形改造施工點的最大格數,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01329),ConstDef Terraforming LandscapeMaxHexes help,,,,240487,,
 567490170117,Max Landscape Hexes,最大地形改造格數,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01331),ConstDef Terraforming LandscapeMaxHexes name,,,,240487,,
-901111064055,A constant soil fixed damage,固定的土壤傷害常量,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01336),ConstDef Terraforming LandscapeSoilDamageAmount help,,,,240487,,
+901111064055,A constant soil fixed damage,固定的土壤傷害常數,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01336),ConstDef Terraforming LandscapeSoilDamageAmount help,,,,240487,,
 548625953751,Landscape Soil Damage Amount,地形改造土壤傷害量,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01338),ConstDef Terraforming LandscapeSoilDamageAmount name,,,,240487,,
-376198663861,A constant soil damage expressed in percents of the current target soil quality,用目前目標土壤品質百分比表示的土壤傷害常量,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01343),ConstDef Terraforming LandscapeSoilDamagePct help,,,,240487,,
+376198663861,A constant soil damage expressed in percents of the current target soil quality,用目前目標土壤品質百分比表示的土壤傷害常數,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01343),ConstDef Terraforming LandscapeSoilDamagePct help,,,,240487,,
 379962151980,Landscape Soil Damage Percent,地形改造土壤傷害百分比,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01345),ConstDef Terraforming LandscapeSoilDamagePct name,,,,240487,,
 274940180966,WasteRock needed per cubic hex (10 m height),每立方格所需的WasteRock（高度10m）,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01350),ConstDef Terraforming WasteRockPerHexCube help,,,,238196,,
 298846244549,WasteRock per Cubic Hex,每個立方格的WasteRock,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01352),ConstDef Terraforming WasteRockPerHexCube name,,,,238196,,
-715051458672,Increases Comfort Threshold for Social Buildings when used by extroverts,性格外向的人在使用社交建築時，可提升的舒適度閾值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01358),ConstDef Traits ExtrovertIncreaseComfortThreshold help,,,,223532,,
-982066645807,ExtrovertIncreaseComfortThreshold,外向居民舒適度提升閾值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01360),ConstDef Traits ExtrovertIncreaseComfortThreshold name,,,,222739,,
+715051458672,Increases Comfort Threshold for Social Buildings when used by extroverts,性格外向的人在使用社交建築時，可提升的舒適度門檻值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01358),ConstDef Traits ExtrovertIncreaseComfortThreshold help,,,,223532,,
+982066645807,ExtrovertIncreaseComfortThreshold,外向居民舒適度提升門檻值,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01360),ConstDef Traits ExtrovertIncreaseComfortThreshold name,,,,222739,,
 290290906449,Max base traits generated per Colonist,每個殖民地居民可生成的基礎特性數量上限,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01366),ConstDef Traits MaxColonistTraitsToGenerate help,,,,223532,,
 455324213448,MaxColonistTraitsToGenerate,殖民地居民特性上限,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01368),ConstDef Traits MaxColonistTraitsToGenerate name,,,,221758,,
 4688,"After being fired, Colonists will avoid that Workplace for this many days when searching for a Workplace",被解僱後，殖民者在尋找工作時，不再前往該崗位的時間,,,OK,,,,,Trunk\Mars/Lua/_const.lua(01373),ConstDef Workplace AvoidWorkplaceSols help,,,,223532,,

@@ -398,8 +398,8 @@ Resources can be moved from one map to the other by using the <em>Edit Payload</
 876251490728,Self-sufficient lights that pierce even the deepest darkness.,自給自足的光線甚至可以穿透最深層的黑暗。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01048),BuildingTemplate LightTripod description,,,,1005383,,
 989996064569,Full System Integration,系統完全一體化,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01074),BuildingTemplate AncientArtifactInterface upgrade1_display_name,,,,1009902,,
 343162942602,Connects the Ancient Artifact to our main system to allow us to access as much of its protocols as we can.,將遠古種族製品與我們的主系統相連，我們就能盡可能多地訪問其協議了。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01075),BuildingTemplate AncientArtifactInterface upgrade1_description,,,,1009902,,
-673746496137,Artifact Interface,製品接口,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01089),BuildingTemplate AncientArtifactInterface display_name,,,,1005383,,
-973786341784,Artifact Interfaces,製品接口,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01090),BuildingTemplate AncientArtifactInterface display_name_pl,,,,1005383,,
+673746496137,Artifact Interface,製品介面,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01089),BuildingTemplate AncientArtifactInterface display_name,,,,1005383,,
+973786341784,Artifact Interfaces,製品介面,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01090),BuildingTemplate AncientArtifactInterface display_name_pl,,,,1005383,,
 116436553623,"A stroke of brilliance, it translates the signals from the Ancient Artifact. Allows us to use the Ancient Artifact as a drone controller that can reach the entire underground. Somehow connected drones also no longer require recharging.",靈光一現，它能翻譯遠古種族製品的訊號。我們可以把這個遠古種族製品用作無人機控制器，從而到達地下的全部區域。不知為何，與之相連的無人機也不再需要充電了。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01091),BuildingTemplate AncientArtifactInterface description,,,,1005383,,
 13084,Must be constructed over an Ancient Artifact.,必須建造在遠古種族製品上面。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01107),BuildingTemplate AncientArtifactInterface snap_error_text,,,,1005383,,
 13085,Must be built over an Ancient Artifact,必須建造在遠古種族製品上面。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/BuildingTemplate.lua(01108),BuildingTemplate AncientArtifactInterface snap_error_short,,,,1005383,,
@@ -994,28 +994,28 @@ We detected radio waves coming from the device, that for the time being are limi
 
 <effect> The Ancient Artifact Control tech has become available. Research it to build the Artifact Interface which should allow us to make use of the Ancient Artifact's power.","我們探索者載具的系統失靈了。所有重啟的嘗試都失敗了，看起來是有東西在干擾控制系統。無人機的行為很怪異，它們在自己給自己分配沒有計劃的任務。我們的科學家確信，這個遠古種族製品就是這次混亂的根源。
 
-目前，我們僅在有遠古種族製品的區域偵測到從這個設備發射出的無線電波。我們的工程師認為他們可以建造一個製品接口，來限制甚至控制這種效果。但是，一部分科學家認為我們在花費代價投入研究之前，應該進行更多的實驗。
+目前，我們僅在有遠古種族製品的區域偵測到從這個設備發射出的無線電波。我們的工程師認為他們可以建造一個製品介面，來限制甚至控制這種效果。但是，一部分科學家認為我們在花費代價投入研究之前，應該進行更多的實驗。
 
-<effect>遠古種族製品控制技術已開放。研究此技術即可建造製品接口，我們應該能用它來運用遠古種族製品的力量。","Our Explorer vehicle’s systems blacked out. All attempts to reboot it have failed, it seems like something is interfering with the control system. Drones are acting strangely, reassigning themselves to tasks that were not scheduled. Our scientists are convinced this ancient artifact is the underlying cause of this chaos.
+<effect>遠古種族製品控制技術已開放。研究此技術即可建造製品介面，我們應該能用它來運用遠古種族製品的力量。","Our Explorer vehicle’s systems blacked out. All attempts to reboot it have failed, it seems like something is interfering with the control system. Drones are acting strangely, reassigning themselves to tasks that were not scheduled. Our scientists are convinced this ancient artifact is the underlying cause of this chaos.
 
 We detected radio waves coming from the device, that for the time being are limited to the area of the Ancient Artifact. Our engineers think they could build an Artifact Interface to contain and even control its effect. Some scientists, however, think we should experiment more before diving into such costly research.
 
 <effect> The Ancient Artifact Control tech has become available for the Ancient Artifact. Research it to build it on the Ancient Artifact and make use of its power.","我們探索者載具的系統失靈了。所有重啟的嘗試都失敗了，看起來是有東西在干擾控制系統。無人機的行為很怪異，它們在自己給自己分配沒有計劃的任務。我們的科學家確信，這個遠古種族製品就是這次混亂的根源。
 
-目前，我們僅在有遠古種族製品的區域偵測到從這個設備發射出的無線電波。我們的工程師認為他們可以建造一個製品接口，來限制甚至控制這種效果。但是，一部分科學家認為我們在花費代價投入研究之前，應該進行更多的實驗。
+目前，我們僅在有遠古種族製品的區域偵測到從這個設備發射出的無線電波。我們的工程師認為他們可以建造一個製品介面，來限制甚至控制這種效果。但是，一部分科學家認為我們在花費代價投入研究之前，應該進行更多的實驗。
 
 <effect>遠古種族製品控制技術已開放。研究以將其建造在遠古種族製品上，來利用製品的力量。",OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00017),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
 13132,We'll consider it.,我們會考慮的。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00019),Scenario BuriedWonder_Ancient_Artifact choice1,,,,1005383,,
-13959,An Ancient Artifact is emitting strange radio signals that seem to mess with our drones and RC vehicles.<newline>   <em>Objective:</em> Build the Artifact Interface.<newline>   <em>Optional:</em> Run more experiments with the Ancient Artifact.,一件遠古種族製品正在發射怪異的無線電訊號，這種訊號似乎在干擾我們的無人機和遙控載具。<newline> <em>目標：</em>建造製品接口。<newline> <em>可選：</em>用遠古種族製品進行更多實驗。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00023),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
+13959,An Ancient Artifact is emitting strange radio signals that seem to mess with our drones and RC vehicles.<newline>   <em>Objective:</em> Build the Artifact Interface.<newline>   <em>Optional:</em> Run more experiments with the Ancient Artifact.,一件遠古種族製品正在發射怪異的無線電訊號，這種訊號似乎在干擾我們的無人機和遙控載具。<newline> <em>目標：</em>建造製品介面。<newline> <em>可選：</em>用遠古種族製品進行更多實驗。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00023),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
 13961,"Construction of the Artifact Interface went without a hitch. Our colonists were very hesitant when approaching the artifact to connect the cables, but even that seemed to go without trouble. When turning on the interface, for a moment all nearby drones ominously drove towards it for a moment. They gradually returned to work as the interface fully got up and running.
 
 The artifact seems to be more potent than we thought. Not only is it able to send radio signals throughout the underground, it's also able to remotely charge all drones we connect to it. Our scientists even found hundreds of other protocols we may be able to access. They've got a number of upgrades in mind.
 
-<effect> Unlocked an upgrade for the Artifact Interface","我們順利完成了製品接口的建造工作。殖民地居民在靠近製品連接電纜時十分猶豫，不過期間沒有遇到任何問題。打開接口時，有那麼一刻，附近所有無人機都鬼使神差地駛向它。隨著接口完全啟動，無人機又逐漸返回了工作崗位。
+<effect> Unlocked an upgrade for the Artifact Interface","我們順利完成了製品介面的建造工作。殖民地居民在靠近製品連接電纜時十分猶豫，不過期間沒有遇到任何問題。打開接口時，有那麼一刻，附近所有無人機都鬼使神差地駛向它。隨著接口完全啟動，無人機又逐漸返回了工作崗位。
 
 外星製品似乎比我們想像得更強大。它不僅能在地下發射無線電訊號，還能給所有與之相連的無人機遠距離充電。我們的科學家還找到了數百種我們或許能訪問的其他協議。我們已經想好不少升級方案了。
 
-<effect>已解鎖製品接口的一項升級",,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00060),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
+<effect>已解鎖製品介面的一項升級",,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00060),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
 13962,Could it's power truly be unlimited?,它的電力真的是無限的嗎？,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00062),Scenario BuriedWonder_Ancient_Artifact choice1,,,,1009902,,
 13963,"The Ancient Artifact appears to be a powerful transmitter, able to control and remotely recharge drones across the entire underground. But we're only tapping into a fraction of its capabilities.<newline>   <em>Objective:</em> Upgrade the Ancient Artifact.",遠古種族製品似乎是一個強大的發射器，能控制整個地下的無人機，並給它們遠距離充電。但我們僅僅開發出了它能力的冰山一角。<newline> <em>目標：</em>升級遠古種族製品。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00066),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
 13960,The Ancient Artifact: Interface Connected,遠古種族製品：接口已連接,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00095),Scenario BuriedWonder_Ancient_Artifact title,,,,1009902,,
@@ -1023,7 +1023,7 @@ The artifact seems to be more potent than we thought. Not only is it able to sen
 
 Drones have spontaneously started carrying extra resources all across our colony, including it's furthest reaches, and have become seemingly unstoppable. It looks like this is as far as we can go with the Ancient Artifact, controlling about 80-90% of it's capabilities.
 
-<effect> All drones become indestructible, no longer need recharging and can carry 1 additional resource.","我們已將製品接口與我們的主系統相連，現在我們擁有了足夠強的處理能力，可以使用遠古種族製品的大部分功能了。它似乎大幅加強了輸出訊號，覆蓋範圍遠超我們的殖民地。
+<effect> All drones become indestructible, no longer need recharging and can carry 1 additional resource.","我們已將製品介面與我們的主系統相連，現在我們擁有了足夠強的處理能力，可以使用遠古種族製品的大部分功能了。它似乎大幅加強了輸出訊號，覆蓋範圍遠超我們的殖民地。
 
 整個殖民地（包括最偏遠地區）的所有無人機同時開始運輸更多資源，而且似乎變得永遠不會停工。我們已經發揮出了遠古種族製品80%-90%的性能，在這方面似乎已經沒法進一步取得進展了。
 
@@ -1133,7 +1133,7 @@ All that remains is to reprogram its directives as currently the signals are mor
 
 <em>我們需要至少5名殖民地居民才能繼續。</em>",,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00389),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
 13977,Wait until more colonists are available in the underground.,等待直到地下有更多可用的殖民地居民。 ,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00391),Scenario BuriedWonder_Ancient_Artifact choice1,,,,1009902,,
-13138,Wait until the Artifact Interface is ready. ,等待製品接口準備就緒。 ,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00392),Scenario BuriedWonder_Ancient_Artifact choice2,,,,1005383,,
+13138,Wait until the Artifact Interface is ready. ,等待製品介面準備就緒。 ,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00392),Scenario BuriedWonder_Ancient_Artifact choice2,,,,1005383,,
 13133,Scan it to experiment with the Ancient Artifact,掃描遠古種族製品來進行實驗,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00399),Scenario BuriedWonder_Ancient_Artifact description,,,,1005383,,
 13134,Ancient Artifact Experiment,遠古種族製品實驗,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00402),Scenario BuriedWonder_Ancient_Artifact display_name,,,,1005383,,
 13153,The Ancient Artifact: 3rd Time's the Charm,遠古種族製品：三次一定行,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00417),Scenario BuriedWonder_Ancient_Artifact title,,,,1005383,,
@@ -1143,14 +1143,14 @@ All that remains is to reprogram its directives as currently the signals are mor
 
 剩下要做的就是重新編譯它的指令，因為現在的訊號多多少少是隨機的。目前還沒有人類直接接觸到這個製品，我們也無法保證它不會影響他們。幸運的是，我們似乎有很多志願者，但他們還是做好最壞的打算為妙。",,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00418),Scenario BuriedWonder_Ancient_Artifact text,,,,1005383,,
 13155,Have one of the volunteering colonists reprogram the Ancient Artifact.,讓一名殖民地居民自願重新編譯遠古種族製品。,Have one of the volunteering engineers reprogram the Ancient Artifact.,讓一名工程師自願重新編譯遠古種族製品。,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00420),Scenario BuriedWonder_Ancient_Artifact choice1,,,,1007006,,
-13147,Wait and rely on the Artifact Interface.,等待並依賴製品接口。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00421),Scenario BuriedWonder_Ancient_Artifact choice2,,,,1005383,,
+13147,Wait and rely on the Artifact Interface.,等待並依賴製品介面。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00421),Scenario BuriedWonder_Ancient_Artifact choice2,,,,1005383,,
 13978,"It appears that the volunteering colonists have turned into… Drones!? Did the Artifact perceive them as machines with bugs in their code and remake them accordingly? The odds of us finding out at this point are slim. 
 
 More and more colonists are becoming fearful of the Artifact, and they are petitioning us to cease the experiments. We have to acknowledge the voice of the people; we will have to solely rely on the Artifact Interface from now on…
 
 <effect> Gain <research(reg_param1)> Research","殖民地居民志願者似乎變成了……無人機？！製品是把他們當成了程式碼出錯的機器，並將其改造了嗎？我們現在搞清楚情況的機率十分渺茫。
 
-越來越多的殖民地居民開始對製品感到恐懼，他們向我們請願停止這項實驗。我們必須聽從人民的呼聲；從現在起，我們將不得不完全依賴於製品接口……
+越來越多的殖民地居民開始對製品感到恐懼，他們向我們請願停止這項實驗。我們必須聽從人民的呼聲；從現在起，我們將不得不完全依賴於製品介面……
 
 <effect>獲得<research(reg_param1)>研究點數",,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00444),Scenario BuriedWonder_Ancient_Artifact text,,,,1009935,,
 13156,The Ancient Artifact: Oh My!,遠古種族製品：我的天吶！,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00469),Scenario BuriedWonder_Ancient_Artifact title,,,,1005383,,
@@ -1160,12 +1160,12 @@ More and more colonists are becoming fearful of the Artifact, and they are petit
 
 <effect> Research <reg_param1>% of Ancient Artifact Control","殖民地居民志願者似乎變成了……無人機？！製品是把他們當成了程式碼出錯的機器，並將其改造了嗎？我們現在搞清楚情況的機率十分渺茫。
 
-越來越多的殖民地居民開始對製品感到恐懼，他們向我們請願停止這項實驗。我們必須聽從人民的呼聲；從現在起，我們將不得不完全依賴於製品接口……
+越來越多的殖民地居民開始對製品感到恐懼，他們向我們請願停止這項實驗。我們必須聽從人民的呼聲；從現在起，我們將不得不完全依賴於製品介面……
 
 <effect>研究<reg_param1>%的遠古種族製品控制",,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00470),Scenario BuriedWonder_Ancient_Artifact text,,,,1009935,,
 13158,We flew too close to the sun.,我們步子邁太大了。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00473),Scenario BuriedWonder_Ancient_Artifact choice1,,,,1005383,,
 13160,Some colonists have been changed into drones by the Ancient Artifact,一些殖民地居民被遠古種族製品變成了無人機, 5 colonists have been changed into drones by the Ancient Artifact, 5名殖民地居民被遠古種族製品變成了無人機,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00486),Scenario BuriedWonder_Ancient_Artifact text,,,,1006192,,
-13982,"Our third experiment was a failure, a few of our colonists got turned into... Drones!? We must rely on the Artifact Interface from now on.",我們的第三次實驗失敗了，有幾位殖民地居民被變成了……無人機！？從今以後我們必須依賴製品接口。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00491),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
+13982,"Our third experiment was a failure, a few of our colonists got turned into... Drones!? We must rely on the Artifact Interface from now on.",我們的第三次實驗失敗了，有幾位殖民地居民被變成了……無人機！？從今以後我們必須依賴製品介面。,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Ancient_Artifact.lua(00491),Scenario BuriedWonder_Ancient_Artifact text,,,,1009902,,
 13161,Anomaly Analyzed: The Pit,異像已分析：深坑,Anomaly Analyzed : The Pit,異像已分析：深坑,OK,,,,,Trunk\Mars/Dlc/picard/Presets/Scenario/BuriedWonder_Bottomless_Pit.lua(00016),Scenario BuriedWonder_Bottomless_Pit title,,,,1010204,,
 13162,"We discovered what appears to be an enormous pit. The engineers on location decided to run some rudimentary experiments to determine the depth of the pit, they have yet to hear any sound from the various rocks they threw in. 
 
@@ -3606,11 +3606,11 @@ Colonists also gain <param1> morale while they are in the underground.
 838173443174,Vehicle Weight Optimizations,載具重量優化,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/TechPreset.lua(00101),TechPreset VehicleWeightOptimizations display_name,,,,1009902,,
 695270274144,"Building: <em>Artifact Interface</em> (<buildinginfo('AncientArtifactInterface')>) - Enables us to control the <em>Ancient Artifact</em>.
 
-<grey>Developing a device that can interface with the Artifact is equal parts art and science.</grey>","建築：<em>製品接口</em>（<buildinginfo('AncientArtifactInterface')>）- 讓我們能控制<em>遠古種族製品</em>。
+<grey>Developing a device that can interface with the Artifact is equal parts art and science.</grey>","建築：<em>製品介面</em>（<buildinginfo('AncientArtifactInterface')>）- 讓我們能控制<em>遠古種族製品</em>。
 
 <grey>研發一種能和製品對接的裝置，既是藝術，又是科學。</grey>","Unlocks the Artifact Interface.
 
-<grey>Developing a device that can interface with the Artifact is equal parts art and science.</grey>","解鎖製品接口。
+<grey>Developing a device that can interface with the Artifact is equal parts art and science.</grey>","解鎖製品介面。
 
 <grey>研發一種能和製品對接的裝置，既是藝術，又是科學。</grey>",OK,,,,,Trunk\Mars/Dlc/picard/Presets/TechPreset.lua(00116),TechPreset AncientArtifactAdaptedMachine description,,,,1009902,,
 562667230082,Ancient Artifact Controls,遠古種族製品控制,,,OK,,,,,Trunk\Mars/Dlc/picard/Presets/TechPreset.lua(00117),TechPreset AncientArtifactAdaptedMachine display_name,,,,1005383,,
